@@ -1,0 +1,2034 @@
+season,date,stage,home,away,home_goals,away_goals
+2023/24,2023-09-01,Regular season,CSKA Moskva,Ak Bars Kazan,2,5
+2023/24,2023-09-02,Regular season,Barys Astana,HC Salavat Yulaev Ufa,2,3
+2023/24,2023-09-02,Regular season,Vityaz Moscow Region,Amur Khabarovsk,2,4
+2023/24,2023-09-02,Regular season,Severstal Cherepovets,HK Sochi,6,3
+2023/24,2023-09-02,Regular season,Lada Togliatti,HC Traktor Chelyabinsk,1,2
+2023/24,2023-09-02,Regular season,HC Avangard Omsk,HC Sibir Novosibirsk,2,1
+2023/24,2023-09-02,Regular season,Dynamo Moskva,SKA St. Petersburg,1,2
+2023/24,2023-09-02,Regular season,Avtomobilist Yekaterinburg,HC Metallurg Magnitogorsk,3,2
+2023/24,2023-09-02,Regular season,HC Spartak Moskva,Shanghai Dragons,3,4
+2023/24,2023-09-02,Regular season,HC Neftekhimik Nizhnekamsk,Dinamo Minsk,4,5
+2023/24,2023-09-03,Regular season,CSKA Moskva,HC Admiral Vladivostok,4,1
+2023/24,2023-09-03,Regular season,Lokomotiv Yaroslavl,Torpedo Nizhny Novgorod,2,5
+2023/24,2023-09-04,Regular season,Dynamo Moskva,Amur Khabarovsk,3,1
+2023/24,2023-09-04,Regular season,HC Spartak Moskva,Severstal Cherepovets,6,4
+2023/24,2023-09-04,Regular season,Ak Bars Kazan,HC Traktor Chelyabinsk,5,3
+2023/24,2023-09-04,Regular season,Shanghai Dragons,HK Sochi,3,0
+2023/24,2023-09-04,Regular season,Lada Togliatti,SKA St. Petersburg,0,3
+2023/24,2023-09-04,Regular season,Avtomobilist Yekaterinburg,HC Salavat Yulaev Ufa,2,1
+2023/24,2023-09-04,Regular season,Barys Astana,HC Sibir Novosibirsk,4,5
+2023/24,2023-09-04,Regular season,Vityaz Moscow Region,Dinamo Minsk,0,7
+2023/24,2023-09-05,Regular season,CSKA Moskva,HC Metallurg Magnitogorsk,2,4
+2023/24,2023-09-06,Regular season,Torpedo Nizhny Novgorod,SKA St. Petersburg,4,3
+2023/24,2023-09-06,Regular season,Shanghai Dragons,Dinamo Minsk,4,3
+2023/24,2023-09-06,Regular season,HC Spartak Moskva,Amur Khabarovsk,5,3
+2023/24,2023-09-06,Regular season,Vityaz Moscow Region,HC Admiral Vladivostok,2,1
+2023/24,2023-09-06,Regular season,HC Neftekhimik Nizhnekamsk,Severstal Cherepovets,3,5
+2023/24,2023-09-06,Regular season,Ak Bars Kazan,HK Sochi,1,3
+2023/24,2023-09-06,Regular season,Lada Togliatti,HC Salavat Yulaev Ufa,2,5
+2023/24,2023-09-06,Regular season,Lokomotiv Yaroslavl,HC Traktor Chelyabinsk,3,2
+2023/24,2023-09-07,Regular season,HC Sibir Novosibirsk,Barys Astana,1,0
+2023/24,2023-09-07,Regular season,HC Avangard Omsk,Avtomobilist Yekaterinburg,3,2
+2023/24,2023-09-07,Regular season,Dynamo Moskva,HC Metallurg Magnitogorsk,3,5
+2023/24,2023-09-08,Regular season,HC Neftekhimik Nizhnekamsk,CSKA Moskva,1,5
+2023/24,2023-09-08,Regular season,Ak Bars Kazan,Shanghai Dragons,5,1
+2023/24,2023-09-08,Regular season,Lokomotiv Yaroslavl,SKA St. Petersburg,3,2
+2023/24,2023-09-08,Regular season,Torpedo Nizhny Novgorod,Dinamo Minsk,6,4
+2023/24,2023-09-08,Regular season,Vityaz Moscow Region,HC Traktor Chelyabinsk,2,3
+2023/24,2023-09-08,Regular season,HC Spartak Moskva,HC Admiral Vladivostok,2,6
+2023/24,2023-09-09,Regular season,Lada Togliatti,Amur Khabarovsk,5,1
+2023/24,2023-09-09,Regular season,Vityaz Moscow Region,HC Metallurg Magnitogorsk,3,4
+2023/24,2023-09-09,Regular season,HC Sibir Novosibirsk,Avtomobilist Yekaterinburg,1,6
+2023/24,2023-09-09,Regular season,Dynamo Moskva,HK Sochi,4,0
+2023/24,2023-09-09,Regular season,HC Avangard Omsk,Barys Astana,4,1
+2023/24,2023-09-10,Regular season,Shanghai Dragons,CSKA Moskva,3,2
+2023/24,2023-09-11,Regular season,HC Salavat Yulaev Ufa,HC Metallurg Magnitogorsk,1,2
+2023/24,2023-09-11,Regular season,HC Avangard Omsk,Amur Khabarovsk,1,5
+2023/24,2023-09-11,Regular season,HC Neftekhimik Nizhnekamsk,Avtomobilist Yekaterinburg,1,0
+2023/24,2023-09-11,Regular season,Lokomotiv Yaroslavl,HK Sochi,0,5
+2023/24,2023-09-11,Regular season,Dynamo Moskva,Barys Astana,4,3
+2023/24,2023-09-12,Regular season,SKA St. Petersburg,HC Spartak Moskva,0,3
+2023/24,2023-09-12,Regular season,Lokomotiv Yaroslavl,Shanghai Dragons,2,1
+2023/24,2023-09-12,Regular season,Ak Bars Kazan,Dinamo Minsk,2,1
+2023/24,2023-09-12,Regular season,HC Traktor Chelyabinsk,Lada Togliatti,1,3
+2023/24,2023-09-12,Regular season,Torpedo Nizhny Novgorod,HC Admiral Vladivostok,3,1
+2023/24,2023-09-13,Regular season,HC Sibir Novosibirsk,Amur Khabarovsk,1,2
+2023/24,2023-09-13,Regular season,Severstal Cherepovets,HK Sochi,4,5
+2023/24,2023-09-13,Regular season,CSKA Moskva,Dynamo Moskva,1,4
+2023/24,2023-09-14,Regular season,Vityaz Moscow Region,HC Spartak Moskva,1,4
+2023/24,2023-09-14,Regular season,HC Salavat Yulaev Ufa,Ak Bars Kazan,3,2
+2023/24,2023-09-14,Regular season,Torpedo Nizhny Novgorod,Shanghai Dragons,5,2
+2023/24,2023-09-14,Regular season,Avtomobilist Yekaterinburg,HC Neftekhimik Nizhnekamsk,4,2
+2023/24,2023-09-14,Regular season,HC Traktor Chelyabinsk,Dinamo Minsk,3,2
+2023/24,2023-09-14,Regular season,HC Avangard Omsk,HC Admiral Vladivostok,4,3
+2023/24,2023-09-14,Regular season,HC Metallurg Magnitogorsk,Lada Togliatti,3,2
+2023/24,2023-09-15,Regular season,SKA St. Petersburg,Dynamo Moskva,1,3
+2023/24,2023-09-15,Regular season,HK Sochi,HC Sibir Novosibirsk,4,2
+2023/24,2023-09-16,Regular season,CSKA Moskva,HC Spartak Moskva,3,2
+2023/24,2023-09-16,Regular season,Shanghai Dragons,Lokomotiv Yaroslavl,0,4
+2023/24,2023-09-16,Regular season,Ak Bars Kazan,Torpedo Nizhny Novgorod,4,3
+2023/24,2023-09-16,Regular season,HC Traktor Chelyabinsk,Avtomobilist Yekaterinburg,2,1
+2023/24,2023-09-16,Regular season,Vityaz Moscow Region,Severstal Cherepovets,0,3
+2023/24,2023-09-16,Regular season,HC Avangard Omsk,HC Neftekhimik Nizhnekamsk,5,1
+2023/24,2023-09-16,Regular season,Barys Astana,HC Admiral Vladivostok,4,3
+2023/24,2023-09-16,Regular season,HC Metallurg Magnitogorsk,Lada Togliatti,1,3
+2023/24,2023-09-17,Regular season,SKA St. Petersburg,HC Sibir Novosibirsk,1,2
+2023/24,2023-09-18,Regular season,HC Salavat Yulaev Ufa,Torpedo Nizhny Novgorod,1,0
+2023/24,2023-09-18,Regular season,HC Metallurg Magnitogorsk,Avtomobilist Yekaterinburg,4,2
+2023/24,2023-09-18,Regular season,HC Traktor Chelyabinsk,Lada Togliatti,1,2
+2023/24,2023-09-18,Regular season,CSKA Moskva,Lokomotiv Yaroslavl,1,2
+2023/24,2023-09-18,Regular season,Ak Bars Kazan,Vityaz Moscow Region,5,4
+2023/24,2023-09-18,Regular season,Dynamo Moskva,HC Spartak Moskva,6,3
+2023/24,2023-09-18,Regular season,HK Sochi,Severstal Cherepovets,5,3
+2023/24,2023-09-18,Regular season,Barys Astana,HC Neftekhimik Nizhnekamsk,8,0
+2023/24,2023-09-19,Regular season,Amur Khabarovsk,Shanghai Dragons,1,2
+2023/24,2023-09-20,Regular season,HC Salavat Yulaev Ufa,HC Neftekhimik Nizhnekamsk,4,2
+2023/24,2023-09-20,Regular season,HC Metallurg Magnitogorsk,Avtomobilist Yekaterinburg,2,1
+2023/24,2023-09-20,Regular season,Dinamo Minsk,Lokomotiv Yaroslavl,1,4
+2023/24,2023-09-20,Regular season,Torpedo Nizhny Novgorod,Vityaz Moscow Region,3,1
+2023/24,2023-09-20,Regular season,SKA St. Petersburg,Severstal Cherepovets,4,1
+2023/24,2023-09-21,Regular season,HC Admiral Vladivostok,Shanghai Dragons,3,1
+2023/24,2023-09-21,Regular season,Amur Khabarovsk,Dynamo Moskva,1,2
+2023/24,2023-09-21,Regular season,HC Sibir Novosibirsk,HC Avangard Omsk,4,3
+2023/24,2023-09-21,Regular season,Lada Togliatti,CSKA Moskva,3,1
+2023/24,2023-09-21,Regular season,HK Sochi,HC Traktor Chelyabinsk,4,3
+2023/24,2023-09-21,Regular season,HC Spartak Moskva,Barys Astana,6,3
+2023/24,2023-09-22,Regular season,HC Salavat Yulaev Ufa,Avtomobilist Yekaterinburg,0,1
+2023/24,2023-09-22,Regular season,Dinamo Minsk,Vityaz Moscow Region,3,2
+2023/24,2023-09-23,Regular season,HC Neftekhimik Nizhnekamsk,HC Avangard Omsk,2,1
+2023/24,2023-09-23,Regular season,Severstal Cherepovets,HC Metallurg Magnitogorsk,5,4
+2023/24,2023-09-23,Regular season,Lokomotiv Yaroslavl,CSKA Moskva,1,2
+2023/24,2023-09-23,Regular season,Lada Togliatti,Shanghai Dragons,5,1
+2023/24,2023-09-23,Regular season,HC Spartak Moskva,HC Traktor Chelyabinsk,3,2
+2023/24,2023-09-23,Regular season,Amur Khabarovsk,SKA St. Petersburg,0,4
+2023/24,2023-09-23,Regular season,HC Admiral Vladivostok,Dynamo Moskva,4,5
+2023/24,2023-09-23,Regular season,HC Sibir Novosibirsk,Barys Astana,4,2
+2023/24,2023-09-24,Regular season,Ak Bars Kazan,HC Salavat Yulaev Ufa,4,2
+2023/24,2023-09-24,Regular season,Dinamo Minsk,Torpedo Nizhny Novgorod,3,4
+2023/24,2023-09-25,Regular season,Avtomobilist Yekaterinburg,HC Avangard Omsk,5,1
+2023/24,2023-09-25,Regular season,HC Admiral Vladivostok,SKA St. Petersburg,1,2
+2023/24,2023-09-25,Regular season,HC Sibir Novosibirsk,Dynamo Moskva,3,2
+2023/24,2023-09-25,Regular season,Lada Togliatti,HC Traktor Chelyabinsk,0,1
+2023/24,2023-09-25,Regular season,HC Neftekhimik Nizhnekamsk,Barys Astana,5,6
+2023/24,2023-09-25,Regular season,Lokomotiv Yaroslavl,HC Metallurg Magnitogorsk,4,1
+2023/24,2023-09-26,Regular season,CSKA Moskva,Severstal Cherepovets,1,2
+2023/24,2023-09-26,Regular season,Dinamo Minsk,Ak Bars Kazan,3,2
+2023/24,2023-09-26,Regular season,HC Spartak Moskva,HK Sochi,2,3
+2023/24,2023-09-26,Regular season,Vityaz Moscow Region,Torpedo Nizhny Novgorod,1,4
+2023/24,2023-09-27,Regular season,Shanghai Dragons,HC Metallurg Magnitogorsk,3,2
+2023/24,2023-09-27,Regular season,HC Salavat Yulaev Ufa,HC Traktor Chelyabinsk,5,3
+2023/24,2023-09-27,Regular season,HC Neftekhimik Nizhnekamsk,Amur Khabarovsk,3,2
+2023/24,2023-09-27,Regular season,Lokomotiv Yaroslavl,Avtomobilist Yekaterinburg,3,1
+2023/24,2023-09-27,Regular season,HC Sibir Novosibirsk,SKA St. Petersburg,0,3
+2023/24,2023-09-28,Regular season,CSKA Moskva,HK Sochi,7,1
+2023/24,2023-09-28,Regular season,Torpedo Nizhny Novgorod,Ak Bars Kazan,2,1
+2023/24,2023-09-28,Regular season,Vityaz Moscow Region,Lada Togliatti,1,0
+2023/24,2023-09-28,Regular season,Barys Astana,HC Admiral Vladivostok,2,3
+2023/24,2023-09-28,Regular season,Severstal Cherepovets,HC Spartak Moskva,3,5
+2023/24,2023-09-29,Regular season,HC Salavat Yulaev Ufa,HC Metallurg Magnitogorsk,0,1
+2023/24,2023-09-29,Regular season,Dynamo Moskva,HC Avangard Omsk,6,0
+2023/24,2023-09-29,Regular season,Shanghai Dragons,Amur Khabarovsk,0,2
+2023/24,2023-09-30,Regular season,Avtomobilist Yekaterinburg,HC Admiral Vladivostok,3,1
+2023/24,2023-09-30,Regular season,Barys Astana,HC Sibir Novosibirsk,1,2
+2023/24,2023-09-30,Regular season,HC Traktor Chelyabinsk,HC Spartak Moskva,2,1
+2023/24,2023-09-30,Regular season,Torpedo Nizhny Novgorod,HK Sochi,2,5
+2023/24,2023-09-30,Regular season,Severstal Cherepovets,Lokomotiv Yaroslavl,0,5
+2023/24,2023-09-30,Regular season,Dinamo Minsk,Lada Togliatti,1,2
+2023/24,2023-10-01,Regular season,Shanghai Dragons,HC Avangard Omsk,3,4
+2023/24,2023-10-01,Regular season,Ak Bars Kazan,Amur Khabarovsk,5,1
+2023/24,2023-10-02,Regular season,CSKA Moskva,Vityaz Moscow Region,9,1
+2023/24,2023-10-02,Regular season,Lada Togliatti,HC Salavat Yulaev Ufa,3,2
+2023/24,2023-10-02,Regular season,HK Sochi,SKA St. Petersburg,5,4
+2023/24,2023-10-02,Regular season,Shanghai Dragons,Dynamo Moskva,2,3
+2023/24,2023-10-02,Regular season,HC Spartak Moskva,Lokomotiv Yaroslavl,2,4
+2023/24,2023-10-02,Regular season,HC Metallurg Magnitogorsk,HC Neftekhimik Nizhnekamsk,8,3
+2023/24,2023-10-02,Regular season,HC Traktor Chelyabinsk,HC Sibir Novosibirsk,2,1
+2023/24,2023-10-02,Regular season,Dinamo Minsk,Barys Astana,3,0
+2023/24,2023-10-03,Regular season,Avtomobilist Yekaterinburg,Amur Khabarovsk,2,1
+2023/24,2023-10-03,Regular season,Torpedo Nizhny Novgorod,HC Avangard Omsk,0,1
+2023/24,2023-10-03,Regular season,Ak Bars Kazan,Severstal Cherepovets,1,4
+2023/24,2023-10-04,Regular season,HC Spartak Moskva,HC Sibir Novosibirsk,5,2
+2023/24,2023-10-04,Regular season,Dynamo Moskva,Lokomotiv Yaroslavl,2,5
+2023/24,2023-10-04,Regular season,HC Metallurg Magnitogorsk,HC Neftekhimik Nizhnekamsk,3,1
+2023/24,2023-10-04,Regular season,HC Traktor Chelyabinsk,HC Salavat Yulaev Ufa,0,4
+2023/24,2023-10-04,Regular season,Vityaz Moscow Region,Shanghai Dragons,2,1
+2023/24,2023-10-04,Regular season,Dinamo Minsk,SKA St. Petersburg,4,2
+2023/24,2023-10-04,Regular season,CSKA Moskva,Barys Astana,4,0
+2023/24,2023-10-05,Regular season,HK Sochi,Severstal Cherepovets,4,3
+2023/24,2023-10-05,Regular season,Ak Bars Kazan,HC Avangard Omsk,5,4
+2023/24,2023-10-05,Regular season,Shanghai Dragons,Torpedo Nizhny Novgorod,2,4
+2023/24,2023-10-05,Regular season,HC Admiral Vladivostok,Lada Togliatti,2,1
+2023/24,2023-10-06,Regular season,Dinamo Minsk,Lokomotiv Yaroslavl,3,2
+2023/24,2023-10-06,Regular season,HC Admiral Vladivostok,Lada Togliatti,3,2
+2023/24,2023-10-06,Regular season,HC Sibir Novosibirsk,Avtomobilist Yekaterinburg,0,4
+2023/24,2023-10-06,Regular season,HC Metallurg Magnitogorsk,HC Salavat Yulaev Ufa,6,3
+2023/24,2023-10-06,Regular season,Vityaz Moscow Region,Barys Astana,3,2
+2023/24,2023-10-06,Regular season,CSKA Moskva,SKA St. Petersburg,2,3
+2023/24,2023-10-07,Regular season,Dynamo Moskva,Torpedo Nizhny Novgorod,1,7
+2023/24,2023-10-07,Regular season,HC Avangard Omsk,HC Traktor Chelyabinsk,1,4
+2023/24,2023-10-07,Regular season,HK Sochi,Severstal Cherepovets,1,10
+2023/24,2023-10-07,Regular season,Shanghai Dragons,HC Spartak Moskva,3,4
+2023/24,2023-10-08,Regular season,HC Admiral Vladivostok,Ak Bars Kazan,1,2
+2023/24,2023-10-08,Regular season,Amur Khabarovsk,Lada Togliatti,4,2
+2023/24,2023-10-08,Regular season,HC Metallurg Magnitogorsk,HC Salavat Yulaev Ufa,2,6
+2023/24,2023-10-08,Regular season,HC Neftekhimik Nizhnekamsk,Avtomobilist Yekaterinburg,2,3
+2023/24,2023-10-09,Regular season,HC Spartak Moskva,Vityaz Moscow Region,5,1
+2023/24,2023-10-09,Regular season,SKA St. Petersburg,Shanghai Dragons,6,2
+2023/24,2023-10-09,Regular season,HK Sochi,CSKA Moskva,2,3
+2023/24,2023-10-09,Regular season,Severstal Cherepovets,Dynamo Moskva,0,1
+2023/24,2023-10-09,Regular season,Lokomotiv Yaroslavl,Torpedo Nizhny Novgorod,1,0
+2023/24,2023-10-09,Regular season,Barys Astana,HC Traktor Chelyabinsk,2,1
+2023/24,2023-10-10,Regular season,Amur Khabarovsk,Lada Togliatti,3,0
+2023/24,2023-10-10,Regular season,HC Admiral Vladivostok,Ak Bars Kazan,0,3
+2023/24,2023-10-10,Regular season,HC Salavat Yulaev Ufa,Avtomobilist Yekaterinburg,4,1
+2023/24,2023-10-11,Regular season,SKA St. Petersburg,Lokomotiv Yaroslavl,2,3
+2023/24,2023-10-11,Regular season,HC Spartak Moskva,CSKA Moskva,5,3
+2023/24,2023-10-11,Regular season,Shanghai Dragons,Dinamo Minsk,0,4
+2023/24,2023-10-11,Regular season,Severstal Cherepovets,Torpedo Nizhny Novgorod,3,4
+2023/24,2023-10-11,Regular season,HC Avangard Omsk,HC Metallurg Magnitogorsk,4,1
+2023/24,2023-10-11,Regular season,Barys Astana,Dynamo Moskva,3,2
+2023/24,2023-10-11,Regular season,HC Sibir Novosibirsk,HC Traktor Chelyabinsk,4,5
+2023/24,2023-10-11,Regular season,HC Neftekhimik Nizhnekamsk,Vityaz Moscow Region,3,0
+2023/24,2023-10-12,Regular season,Amur Khabarovsk,Ak Bars Kazan,3,5
+2023/24,2023-10-12,Regular season,HC Neftekhimik Nizhnekamsk,HK Sochi,2,3
+2023/24,2023-10-13,Regular season,HC Sibir Novosibirsk,HC Metallurg Magnitogorsk,2,4
+2023/24,2023-10-13,Regular season,Barys Astana,Lokomotiv Yaroslavl,0,6
+2023/24,2023-10-13,Regular season,HC Avangard Omsk,Dynamo Moskva,3,0
+2023/24,2023-10-13,Regular season,HC Salavat Yulaev Ufa,Vityaz Moscow Region,8,1
+2023/24,2023-10-13,Regular season,Avtomobilist Yekaterinburg,HC Traktor Chelyabinsk,2,1
+2023/24,2023-10-13,Regular season,SKA St. Petersburg,Dinamo Minsk,3,2
+2023/24,2023-10-14,Regular season,Lada Togliatti,HC Admiral Vladivostok,3,1
+2023/24,2023-10-14,Regular season,CSKA Moskva,HK Sochi,2,1
+2023/24,2023-10-14,Regular season,Shanghai Dragons,HC Neftekhimik Nizhnekamsk,3,4
+2023/24,2023-10-14,Regular season,Amur Khabarovsk,Ak Bars Kazan,2,3
+2023/24,2023-10-14,Regular season,Torpedo Nizhny Novgorod,HC Spartak Moskva,2,4
+2023/24,2023-10-15,Regular season,Barys Astana,HC Metallurg Magnitogorsk,3,4
+2023/24,2023-10-15,Regular season,HC Avangard Omsk,Lokomotiv Yaroslavl,4,1
+2023/24,2023-10-15,Regular season,HC Salavat Yulaev Ufa,Dinamo Minsk,4,2
+2023/24,2023-10-15,Regular season,Avtomobilist Yekaterinburg,Vityaz Moscow Region,3,2
+2023/24,2023-10-16,Regular season,Lada Togliatti,HC Neftekhimik Nizhnekamsk,0,4
+2023/24,2023-10-16,Regular season,Torpedo Nizhny Novgorod,Severstal Cherepovets,0,4
+2023/24,2023-10-16,Regular season,SKA St. Petersburg,HC Admiral Vladivostok,5,0
+2023/24,2023-10-16,Regular season,Dynamo Moskva,HC Sibir Novosibirsk,2,1
+2023/24,2023-10-16,Regular season,CSKA Moskva,Shanghai Dragons,7,0
+2023/24,2023-10-16,Regular season,HK Sochi,HC Spartak Moskva,2,5
+2023/24,2023-10-17,Regular season,Avtomobilist Yekaterinburg,HC Metallurg Magnitogorsk,0,4
+2023/24,2023-10-17,Regular season,HC Traktor Chelyabinsk,Amur Khabarovsk,2,3
+2023/24,2023-10-18,Regular season,HK Sochi,HC Spartak Moskva,1,3
+2023/24,2023-10-18,Regular season,Dynamo Moskva,Severstal Cherepovets,3,2
+2023/24,2023-10-18,Regular season,Vityaz Moscow Region,HC Avangard Omsk,5,2
+2023/24,2023-10-18,Regular season,Lada Togliatti,Barys Astana,2,1
+2023/24,2023-10-18,Regular season,Torpedo Nizhny Novgorod,HC Sibir Novosibirsk,4,5
+2023/24,2023-10-18,Regular season,HC Neftekhimik Nizhnekamsk,HC Admiral Vladivostok,4,3
+2023/24,2023-10-19,Regular season,Avtomobilist Yekaterinburg,Amur Khabarovsk,1,3
+2023/24,2023-10-19,Regular season,HC Traktor Chelyabinsk,HC Metallurg Magnitogorsk,2,1
+2023/24,2023-10-19,Regular season,Dinamo Minsk,Shanghai Dragons,3,4
+2023/24,2023-10-19,Regular season,CSKA Moskva,Lokomotiv Yaroslavl,3,0
+2023/24,2023-10-20,Regular season,Ak Bars Kazan,HC Sibir Novosibirsk,2,3
+2023/24,2023-10-20,Regular season,HK Sochi,Barys Astana,3,5
+2023/24,2023-10-20,Regular season,Lada Togliatti,HC Avangard Omsk,5,3
+2023/24,2023-10-20,Regular season,Severstal Cherepovets,HC Salavat Yulaev Ufa,3,4
+2023/24,2023-10-21,Regular season,Torpedo Nizhny Novgorod,Amur Khabarovsk,4,2
+2023/24,2023-10-21,Regular season,HC Neftekhimik Nizhnekamsk,SKA St. Petersburg,2,0
+2023/24,2023-10-21,Regular season,Vityaz Moscow Region,Lokomotiv Yaroslavl,2,1
+2023/24,2023-10-22,Regular season,Ak Bars Kazan,CSKA Moskva,4,1
+2023/24,2023-10-22,Regular season,Dinamo Minsk,HC Salavat Yulaev Ufa,3,2
+2023/24,2023-10-22,Regular season,Shanghai Dragons,Barys Astana,2,3
+2023/24,2023-10-22,Regular season,Avtomobilist Yekaterinburg,HC Sibir Novosibirsk,1,3
+2023/24,2023-10-22,Regular season,HC Metallurg Magnitogorsk,HC Avangard Omsk,3,4
+2023/24,2023-10-22,Regular season,HC Admiral Vladivostok,HC Spartak Moskva,3,4
+2023/24,2023-10-23,Regular season,HC Neftekhimik Nizhnekamsk,HC Traktor Chelyabinsk,2,1
+2023/24,2023-10-23,Regular season,Lokomotiv Yaroslavl,SKA St. Petersburg,2,3
+2023/24,2023-10-23,Regular season,Dynamo Moskva,Lada Togliatti,5,4
+2023/24,2023-10-24,Regular season,Ak Bars Kazan,HC Avangard Omsk,2,1
+2023/24,2023-10-24,Regular season,Torpedo Nizhny Novgorod,HC Salavat Yulaev Ufa,0,1
+2023/24,2023-10-24,Regular season,Avtomobilist Yekaterinburg,Barys Astana,5,2
+2023/24,2023-10-24,Regular season,Dynamo Moskva,Vityaz Moscow Region,5,2
+2023/24,2023-10-24,Regular season,Amur Khabarovsk,HC Spartak Moskva,1,4
+2023/24,2023-10-24,Regular season,HC Admiral Vladivostok,CSKA Moskva,3,2
+2023/24,2023-10-25,Regular season,HC Metallurg Magnitogorsk,HC Traktor Chelyabinsk,2,4
+2023/24,2023-10-25,Regular season,Severstal Cherepovets,Lada Togliatti,3,4
+2023/24,2023-10-25,Regular season,Shanghai Dragons,SKA St. Petersburg,3,6
+2023/24,2023-10-26,Regular season,Amur Khabarovsk,CSKA Moskva,2,3
+2023/24,2023-10-26,Regular season,HC Admiral Vladivostok,Vityaz Moscow Region,3,4
+2023/24,2023-10-26,Regular season,HC Sibir Novosibirsk,HC Spartak Moskva,4,3
+2023/24,2023-10-26,Regular season,HC Avangard Omsk,HC Salavat Yulaev Ufa,1,0
+2023/24,2023-10-27,Regular season,Torpedo Nizhny Novgorod,Avtomobilist Yekaterinburg,4,2
+2023/24,2023-10-27,Regular season,HC Neftekhimik Nizhnekamsk,Shanghai Dragons,3,4
+2023/24,2023-10-27,Regular season,HK Sochi,SKA St. Petersburg,5,4
+2023/24,2023-10-27,Regular season,Lokomotiv Yaroslavl,Severstal Cherepovets,4,3
+2023/24,2023-10-27,Regular season,Barys Astana,Dinamo Minsk,1,2
+2023/24,2023-10-27,Regular season,HC Traktor Chelyabinsk,HC Metallurg Magnitogorsk,5,1
+2023/24,2023-10-27,Regular season,Lada Togliatti,Ak Bars Kazan,6,3
+2023/24,2023-10-28,Regular season,Amur Khabarovsk,Vityaz Moscow Region,4,2
+2023/24,2023-10-28,Regular season,HC Sibir Novosibirsk,CSKA Moskva,3,6
+2023/24,2023-10-28,Regular season,HC Salavat Yulaev Ufa,Dynamo Moskva,1,2
+2023/24,2023-10-29,Regular season,Barys Astana,Torpedo Nizhny Novgorod,1,2
+2023/24,2023-10-29,Regular season,HC Avangard Omsk,Dinamo Minsk,3,4
+2023/24,2023-10-29,Regular season,HC Traktor Chelyabinsk,Shanghai Dragons,5,2
+2023/24,2023-10-29,Regular season,Lada Togliatti,HC Metallurg Magnitogorsk,4,3
+2023/24,2023-10-29,Regular season,Severstal Cherepovets,Avtomobilist Yekaterinburg,4,2
+2023/24,2023-10-29,Regular season,HC Neftekhimik Nizhnekamsk,Ak Bars Kazan,2,1
+2023/24,2023-10-30,Regular season,Lada Togliatti,HC Admiral Vladivostok,3,1
+2023/24,2023-10-30,Regular season,HC Sibir Novosibirsk,Vityaz Moscow Region,3,2
+2023/24,2023-10-30,Regular season,HK Sochi,Dynamo Moskva,1,6
+2023/24,2023-10-31,Regular season,HC Spartak Moskva,HC Neftekhimik Nizhnekamsk,6,1
+2023/24,2023-10-31,Regular season,HK Sochi,Dynamo Moskva,2,5
+2023/24,2023-10-31,Regular season,SKA St. Petersburg,Ak Bars Kazan,2,3
+2023/24,2023-10-31,Regular season,Dinamo Minsk,Severstal Cherepovets,1,2
+2023/24,2023-10-31,Regular season,HC Salavat Yulaev Ufa,Amur Khabarovsk,4,1
+2023/24,2023-10-31,Regular season,HC Metallurg Magnitogorsk,Barys Astana,3,2
+2023/24,2023-10-31,Regular season,HC Avangard Omsk,Torpedo Nizhny Novgorod,3,2
+2023/24,2023-10-31,Regular season,Avtomobilist Yekaterinburg,Shanghai Dragons,3,0
+2023/24,2023-11-01,Regular season,HC Traktor Chelyabinsk,HC Admiral Vladivostok,3,2
+2023/24,2023-11-02,Regular season,Shanghai Dragons,Torpedo Nizhny Novgorod,2,3
+2023/24,2023-11-02,Regular season,SKA St. Petersburg,HC Avangard Omsk,3,5
+2023/24,2023-11-02,Regular season,HC Neftekhimik Nizhnekamsk,HC Sibir Novosibirsk,3,1
+2023/24,2023-11-02,Regular season,HC Spartak Moskva,CSKA Moskva,0,3
+2023/24,2023-11-02,Regular season,HC Salavat Yulaev Ufa,Ak Bars Kazan,3,1
+2023/24,2023-11-02,Regular season,Avtomobilist Yekaterinburg,Barys Astana,2,3
+2023/24,2023-11-02,Regular season,HK Sochi,Amur Khabarovsk,1,3
+2023/24,2023-11-02,Regular season,Lada Togliatti,Severstal Cherepovets,1,4
+2023/24,2023-11-02,Regular season,Lokomotiv Yaroslavl,Dinamo Minsk,1,2
+2023/24,2023-11-03,Regular season,HC Traktor Chelyabinsk,HC Admiral Vladivostok,6,1
+2023/24,2023-11-04,Regular season,HC Salavat Yulaev Ufa,HC Sibir Novosibirsk,2,0
+2023/24,2023-11-04,Regular season,HC Metallurg Magnitogorsk,Dinamo Minsk,5,1
+2023/24,2023-11-04,Regular season,Avtomobilist Yekaterinburg,HC Neftekhimik Nizhnekamsk,2,1
+2023/24,2023-11-04,Regular season,Lokomotiv Yaroslavl,Dynamo Moskva,0,3
+2023/24,2023-11-04,Regular season,Vityaz Moscow Region,SKA St. Petersburg,2,3
+2023/24,2023-11-04,Regular season,HK Sochi,HC Avangard Omsk,2,3
+2023/24,2023-11-04,Regular season,HC Spartak Moskva,Torpedo Nizhny Novgorod,4,3
+2023/24,2023-11-04,Regular season,Ak Bars Kazan,Barys Astana,5,3
+2023/24,2023-11-05,Regular season,CSKA Moskva,Lada Togliatti,3,4
+2023/24,2023-11-05,Regular season,Shanghai Dragons,Severstal Cherepovets,1,3
+2023/24,2023-11-06,Regular season,HC Spartak Moskva,SKA St. Petersburg,3,2
+2023/24,2023-11-06,Regular season,Dinamo Minsk,HC Avangard Omsk,3,4
+2023/24,2023-11-06,Regular season,Vityaz Moscow Region,Dynamo Moskva,1,3
+2023/24,2023-11-06,Regular season,Shanghai Dragons,Severstal Cherepovets,3,4
+2023/24,2023-11-06,Regular season,HC Salavat Yulaev Ufa,HC Neftekhimik Nizhnekamsk,3,4
+2023/24,2023-11-06,Regular season,Amur Khabarovsk,Lokomotiv Yaroslavl,1,4
+2023/24,2023-11-06,Regular season,Avtomobilist Yekaterinburg,HC Sibir Novosibirsk,2,3
+2023/24,2023-11-07,Regular season,Barys Astana,Ak Bars Kazan,0,3
+2023/24,2023-11-07,Regular season,HC Salavat Yulaev Ufa,HK Sochi,3,1
+2023/24,2023-11-07,Regular season,CSKA Moskva,HC Traktor Chelyabinsk,0,4
+2023/24,2023-11-08,Regular season,HC Admiral Vladivostok,Lokomotiv Yaroslavl,5,2
+2023/24,2023-11-08,Regular season,HC Metallurg Magnitogorsk,HC Sibir Novosibirsk,6,3
+2023/24,2023-11-08,Regular season,Dynamo Moskva,Shanghai Dragons,2,3
+2023/24,2023-11-08,Regular season,Vityaz Moscow Region,Torpedo Nizhny Novgorod,1,4
+2023/24,2023-11-09,Regular season,Dinamo Minsk,HK Sochi,2,1
+2023/24,2023-11-09,Regular season,SKA St. Petersburg,HC Traktor Chelyabinsk,4,3
+2023/24,2023-11-09,Regular season,Amur Khabarovsk,Avtomobilist Yekaterinburg,5,1
+2023/24,2023-11-09,Regular season,Lada Togliatti,Ak Bars Kazan,3,2
+2023/24,2023-11-09,Regular season,HC Neftekhimik Nizhnekamsk,HC Spartak Moskva,1,4
+2023/24,2023-11-09,Regular season,CSKA Moskva,HC Avangard Omsk,4,6
+2023/24,2023-11-10,Regular season,Dinamo Minsk,HK Sochi,6,2
+2023/24,2023-11-10,Regular season,Barys Astana,Shanghai Dragons,1,2
+2023/24,2023-11-10,Regular season,Vityaz Moscow Region,Severstal Cherepovets,5,3
+2023/24,2023-11-10,Regular season,HC Admiral Vladivostok,Torpedo Nizhny Novgorod,0,3
+2023/24,2023-11-10,Regular season,Amur Khabarovsk,Avtomobilist Yekaterinburg,2,3
+2023/24,2023-11-10,Regular season,HC Sibir Novosibirsk,Lokomotiv Yaroslavl,1,2
+2023/24,2023-11-11,Regular season,Lada Togliatti,HC Spartak Moskva,4,3
+2023/24,2023-11-11,Regular season,HC Metallurg Magnitogorsk,Ak Bars Kazan,3,0
+2023/24,2023-11-11,Regular season,SKA St. Petersburg,HC Neftekhimik Nizhnekamsk,4,2
+2023/24,2023-11-12,Regular season,Dinamo Minsk,Dynamo Moskva,1,2
+2023/24,2023-11-12,Regular season,HC Salavat Yulaev Ufa,Lokomotiv Yaroslavl,1,3
+2023/24,2023-11-12,Regular season,Barys Astana,Severstal Cherepovets,4,1
+2023/24,2023-11-12,Regular season,HC Avangard Omsk,Shanghai Dragons,6,4
+2023/24,2023-11-12,Regular season,HC Admiral Vladivostok,Avtomobilist Yekaterinburg,3,4
+2023/24,2023-11-12,Regular season,Amur Khabarovsk,Torpedo Nizhny Novgorod,4,3
+2023/24,2023-11-13,Regular season,CSKA Moskva,HC Neftekhimik Nizhnekamsk,2,1
+2023/24,2023-11-13,Regular season,HK Sochi,Vityaz Moscow Region,2,3
+2023/24,2023-11-14,Regular season,HK Sochi,Vityaz Moscow Region,1,3
+2023/24,2023-11-14,Regular season,HC Spartak Moskva,Dynamo Moskva,4,3
+2023/24,2023-11-14,Regular season,Dinamo Minsk,HC Metallurg Magnitogorsk,1,4
+2023/24,2023-11-14,Regular season,Ak Bars Kazan,SKA St. Petersburg,2,4
+2023/24,2023-11-14,Regular season,HC Sibir Novosibirsk,Torpedo Nizhny Novgorod,4,1
+2023/24,2023-11-14,Regular season,HC Avangard Omsk,Severstal Cherepovets,5,4
+2023/24,2023-11-14,Regular season,HC Admiral Vladivostok,Avtomobilist Yekaterinburg,0,3
+2023/24,2023-11-14,Regular season,HC Traktor Chelyabinsk,HC Salavat Yulaev Ufa,3,4
+2023/24,2023-11-15,Regular season,CSKA Moskva,Amur Khabarovsk,2,1
+2023/24,2023-11-16,Regular season,HC Spartak Moskva,HC Salavat Yulaev Ufa,6,2
+2023/24,2023-11-16,Regular season,HC Sibir Novosibirsk,HC Metallurg Magnitogorsk,2,3
+2023/24,2023-11-16,Regular season,HC Traktor Chelyabinsk,Barys Astana,2,0
+2023/24,2023-11-16,Regular season,Lokomotiv Yaroslavl,Shanghai Dragons,5,4
+2023/24,2023-11-16,Regular season,Ak Bars Kazan,Dynamo Moskva,4,1
+2023/24,2023-11-16,Regular season,Severstal Cherepovets,SKA St. Petersburg,2,5
+2023/24,2023-11-16,Regular season,Dinamo Minsk,Vityaz Moscow Region,1,2
+2023/24,2023-11-16,Regular season,HK Sochi,Lada Togliatti,5,4
+2023/24,2023-11-17,Regular season,HC Neftekhimik Nizhnekamsk,Amur Khabarovsk,4,0
+2023/24,2023-11-17,Regular season,HC Avangard Omsk,HC Admiral Vladivostok,2,1
+2023/24,2023-11-18,Regular season,HC Spartak Moskva,Lada Togliatti,5,3
+2023/24,2023-11-18,Regular season,HC Traktor Chelyabinsk,Avtomobilist Yekaterinburg,4,2
+2023/24,2023-11-18,Regular season,HC Metallurg Magnitogorsk,Barys Astana,2,0
+2023/24,2023-11-18,Regular season,Shanghai Dragons,HC Sibir Novosibirsk,3,2
+2023/24,2023-11-18,Regular season,Torpedo Nizhny Novgorod,Dynamo Moskva,3,1
+2023/24,2023-11-18,Regular season,HK Sochi,CSKA Moskva,1,3
+2023/24,2023-11-18,Regular season,Ak Bars Kazan,HC Salavat Yulaev Ufa,0,1
+2023/24,2023-11-18,Regular season,Severstal Cherepovets,Vityaz Moscow Region,6,2
+2023/24,2023-11-18,Regular season,Lokomotiv Yaroslavl,SKA St. Petersburg,1,2
+2023/24,2023-11-19,Regular season,Amur Khabarovsk,HC Admiral Vladivostok,0,2
+2023/24,2023-11-19,Regular season,HC Neftekhimik Nizhnekamsk,HC Avangard Omsk,1,4
+2023/24,2023-11-19,Regular season,Severstal Cherepovets,Vityaz Moscow Region,3,5
+2023/24,2023-11-20,Regular season,Torpedo Nizhny Novgorod,Barys Astana,4,2
+2023/24,2023-11-20,Regular season,SKA St. Petersburg,CSKA Moskva,2,1
+2023/24,2023-11-20,Regular season,HC Metallurg Magnitogorsk,HC Sibir Novosibirsk,4,1
+2023/24,2023-11-20,Regular season,Lada Togliatti,Dinamo Minsk,3,1
+2023/24,2023-11-21,Regular season,Amur Khabarovsk,HC Admiral Vladivostok,2,1
+2023/24,2023-11-21,Regular season,HC Traktor Chelyabinsk,HC Avangard Omsk,1,2
+2023/24,2023-11-21,Regular season,Dynamo Moskva,Ak Bars Kazan,4,1
+2023/24,2023-11-21,Regular season,HC Neftekhimik Nizhnekamsk,HC Salavat Yulaev Ufa,3,2
+2023/24,2023-11-21,Regular season,Lokomotiv Yaroslavl,HC Spartak Moskva,2,1
+2023/24,2023-11-22,Regular season,HC Sibir Novosibirsk,HK Sochi,5,2
+2023/24,2023-11-22,Regular season,Avtomobilist Yekaterinburg,Dinamo Minsk,1,4
+2023/24,2023-11-22,Regular season,Severstal Cherepovets,CSKA Moskva,2,3
+2023/24,2023-11-23,Regular season,Dynamo Moskva,Torpedo Nizhny Novgorod,3,2
+2023/24,2023-11-23,Regular season,Lokomotiv Yaroslavl,Lada Togliatti,2,1
+2023/24,2023-11-23,Regular season,HC Metallurg Magnitogorsk,HC Traktor Chelyabinsk,6,3
+2023/24,2023-11-23,Regular season,SKA St. Petersburg,HC Spartak Moskva,3,2
+2023/24,2023-11-23,Regular season,Barys Astana,HC Neftekhimik Nizhnekamsk,4,3
+2023/24,2023-11-23,Regular season,HC Salavat Yulaev Ufa,HC Avangard Omsk,3,1
+2023/24,2023-11-23,Regular season,Shanghai Dragons,Ak Bars Kazan,1,0
+2023/24,2023-11-24,Regular season,Dinamo Minsk,CSKA Moskva,0,4
+2023/24,2023-11-24,Regular season,Amur Khabarovsk,Severstal Cherepovets,6,2
+2023/24,2023-11-24,Regular season,HC Admiral Vladivostok,HK Sochi,3,1
+2023/24,2023-11-25,Regular season,HC Sibir Novosibirsk,HC Neftekhimik Nizhnekamsk,3,1
+2023/24,2023-11-25,Regular season,HC Metallurg Magnitogorsk,HC Spartak Moskva,3,1
+2023/24,2023-11-25,Regular season,HC Salavat Yulaev Ufa,HC Traktor Chelyabinsk,4,0
+2023/24,2023-11-25,Regular season,Avtomobilist Yekaterinburg,Lada Togliatti,3,2
+2023/24,2023-11-25,Regular season,Vityaz Moscow Region,Ak Bars Kazan,2,3
+2023/24,2023-11-25,Regular season,SKA St. Petersburg,Torpedo Nizhny Novgorod,4,3
+2023/24,2023-11-26,Regular season,HC Admiral Vladivostok,Severstal Cherepovets,4,5
+2023/24,2023-11-26,Regular season,Amur Khabarovsk,HK Sochi,2,5
+2023/24,2023-11-26,Regular season,Dinamo Minsk,Dynamo Moskva,1,4
+2023/24,2023-11-27,Regular season,HC Sibir Novosibirsk,Shanghai Dragons,3,2
+2023/24,2023-11-27,Regular season,Barys Astana,Vityaz Moscow Region,2,5
+2023/24,2023-11-27,Regular season,Avtomobilist Yekaterinburg,HC Spartak Moskva,1,4
+2023/24,2023-11-27,Regular season,HC Traktor Chelyabinsk,Torpedo Nizhny Novgorod,2,1
+2023/24,2023-11-27,Regular season,CSKA Moskva,Lokomotiv Yaroslavl,2,3
+2023/24,2023-11-28,Regular season,SKA St. Petersburg,Dynamo Moskva,5,3
+2023/24,2023-11-28,Regular season,Ak Bars Kazan,Lada Togliatti,2,0
+2023/24,2023-11-28,Regular season,HC Neftekhimik Nizhnekamsk,HC Metallurg Magnitogorsk,3,4
+2023/24,2023-11-28,Regular season,HC Sibir Novosibirsk,Severstal Cherepovets,1,2
+2023/24,2023-11-28,Regular season,Amur Khabarovsk,HC Admiral Vladivostok,2,3
+2023/24,2023-11-29,Regular season,HC Avangard Omsk,Vityaz Moscow Region,4,1
+2023/24,2023-11-29,Regular season,Torpedo Nizhny Novgorod,Lokomotiv Yaroslavl,3,2
+2023/24,2023-11-29,Regular season,CSKA Moskva,Dinamo Minsk,5,3
+2023/24,2023-11-30,Regular season,Ak Bars Kazan,Avtomobilist Yekaterinburg,3,2
+2023/24,2023-11-30,Regular season,HC Salavat Yulaev Ufa,Lada Togliatti,5,2
+2023/24,2023-11-30,Regular season,Shanghai Dragons,HC Spartak Moskva,5,3
+2023/24,2023-11-30,Regular season,HC Sibir Novosibirsk,HC Admiral Vladivostok,2,3
+2023/24,2023-11-30,Regular season,Barys Astana,HC Metallurg Magnitogorsk,5,2
+2023/24,2023-12-01,Regular season,Amur Khabarovsk,Dinamo Minsk,2,1
+2023/24,2023-12-01,Regular season,HC Avangard Omsk,HC Neftekhimik Nizhnekamsk,4,3
+2023/24,2023-12-01,Regular season,HC Traktor Chelyabinsk,Dynamo Moskva,2,4
+2023/24,2023-12-01,Regular season,HK Sochi,Lokomotiv Yaroslavl,0,2
+2023/24,2023-12-01,Regular season,SKA St. Petersburg,Vityaz Moscow Region,3,2
+2023/24,2023-12-02,Regular season,HC Salavat Yulaev Ufa,HC Spartak Moskva,3,2
+2023/24,2023-12-02,Regular season,HC Sibir Novosibirsk,Lada Togliatti,2,3
+2023/24,2023-12-02,Regular season,Shanghai Dragons,Avtomobilist Yekaterinburg,5,2
+2023/24,2023-12-03,Regular season,HC Metallurg Magnitogorsk,SKA St. Petersburg,2,3
+2023/24,2023-12-03,Regular season,HC Admiral Vladivostok,Dinamo Minsk,1,3
+2023/24,2023-12-03,Regular season,HC Traktor Chelyabinsk,CSKA Moskva,3,1
+2023/24,2023-12-03,Regular season,Torpedo Nizhny Novgorod,Dynamo Moskva,4,1
+2023/24,2023-12-03,Regular season,Severstal Cherepovets,Barys Astana,2,3
+2023/24,2023-12-03,Regular season,HK Sochi,Lokomotiv Yaroslavl,2,3
+2023/24,2023-12-03,Regular season,Ak Bars Kazan,HC Neftekhimik Nizhnekamsk,4,0
+2023/24,2023-12-04,Regular season,HC Avangard Omsk,Amur Khabarovsk,2,1
+2023/24,2023-12-05,Regular season,Vityaz Moscow Region,HC Salavat Yulaev Ufa,2,5
+2023/24,2023-12-05,Regular season,Severstal Cherepovets,Ak Bars Kazan,4,1
+2023/24,2023-12-05,Regular season,HC Spartak Moskva,Dynamo Moskva,8,7
+2023/24,2023-12-05,Regular season,Shanghai Dragons,HK Sochi,5,4
+2023/24,2023-12-05,Regular season,Lada Togliatti,Torpedo Nizhny Novgorod,2,4
+2023/24,2023-12-05,Regular season,Avtomobilist Yekaterinburg,SKA St. Petersburg,3,2
+2023/24,2023-12-05,Regular season,HC Traktor Chelyabinsk,HC Neftekhimik Nizhnekamsk,4,1
+2023/24,2023-12-05,Regular season,HC Avangard Omsk,Barys Astana,5,1
+2023/24,2023-12-05,Regular season,HC Sibir Novosibirsk,Dinamo Minsk,2,3
+2023/24,2023-12-05,Regular season,HC Metallurg Magnitogorsk,CSKA Moskva,0,3
+2023/24,2023-12-06,Regular season,HC Admiral Vladivostok,Amur Khabarovsk,3,4
+2023/24,2023-12-07,Regular season,Lokomotiv Yaroslavl,Ak Bars Kazan,3,1
+2023/24,2023-12-07,Regular season,HC Spartak Moskva,HK Sochi,4,3
+2023/24,2023-12-07,Regular season,Vityaz Moscow Region,CSKA Moskva,1,4
+2023/24,2023-12-07,Regular season,Lada Togliatti,HC Neftekhimik Nizhnekamsk,3,0
+2023/24,2023-12-07,Regular season,Severstal Cherepovets,Dynamo Moskva,1,2
+2023/24,2023-12-07,Regular season,HC Metallurg Magnitogorsk,Torpedo Nizhny Novgorod,2,3
+2023/24,2023-12-07,Regular season,Avtomobilist Yekaterinburg,HC Salavat Yulaev Ufa,3,2
+2023/24,2023-12-07,Regular season,HC Sibir Novosibirsk,Barys Astana,5,1
+2023/24,2023-12-07,Regular season,HC Admiral Vladivostok,Amur Khabarovsk,1,0
+2023/24,2023-12-07,Regular season,HC Traktor Chelyabinsk,SKA St. Petersburg,1,3
+2023/24,2023-12-19,Regular season,HC Avangard Omsk,Ak Bars Kazan,0,4
+2023/24,2023-12-19,Regular season,HC Salavat Yulaev Ufa,Barys Astana,5,4
+2023/24,2023-12-19,Regular season,Avtomobilist Yekaterinburg,HC Traktor Chelyabinsk,2,3
+2023/24,2023-12-19,Regular season,Lada Togliatti,HC Sibir Novosibirsk,1,2
+2023/24,2023-12-19,Regular season,Torpedo Nizhny Novgorod,HC Spartak Moskva,2,5
+2023/24,2023-12-19,Regular season,Lokomotiv Yaroslavl,Severstal Cherepovets,0,1
+2023/24,2023-12-19,Regular season,Dinamo Minsk,Vityaz Moscow Region,4,1
+2023/24,2023-12-19,Regular season,SKA St. Petersburg,HK Sochi,7,2
+2023/24,2023-12-19,Regular season,Dynamo Moskva,CSKA Moskva,4,1
+2023/24,2023-12-20,Regular season,HC Admiral Vladivostok,Amur Khabarovsk,1,2
+2023/24,2023-12-21,Regular season,HC Avangard Omsk,HK Sochi,8,3
+2023/24,2023-12-21,Regular season,Avtomobilist Yekaterinburg,Ak Bars Kazan,2,1
+2023/24,2023-12-21,Regular season,Lada Togliatti,HC Sibir Novosibirsk,4,1
+2023/24,2023-12-21,Regular season,HC Neftekhimik Nizhnekamsk,Barys Astana,3,2
+2023/24,2023-12-21,Regular season,Severstal Cherepovets,Torpedo Nizhny Novgorod,1,3
+2023/24,2023-12-21,Regular season,Lokomotiv Yaroslavl,Vityaz Moscow Region,5,2
+2023/24,2023-12-21,Regular season,Dynamo Moskva,HC Traktor Chelyabinsk,4,3
+2023/24,2023-12-21,Regular season,SKA St. Petersburg,CSKA Moskva,6,2
+2023/24,2023-12-22,Regular season,HC Salavat Yulaev Ufa,HC Admiral Vladivostok,1,2
+2023/24,2023-12-22,Regular season,HC Metallurg Magnitogorsk,Amur Khabarovsk,4,3
+2023/24,2023-12-22,Regular season,HC Spartak Moskva,Dinamo Minsk,4,2
+2023/24,2023-12-22,Regular season,Shanghai Dragons,HC Traktor Chelyabinsk,2,5
+2023/24,2023-12-23,Regular season,Lokomotiv Yaroslavl,CSKA Moskva,2,1
+2023/24,2023-12-23,Regular season,Torpedo Nizhny Novgorod,SKA St. Petersburg,3,1
+2023/24,2023-12-23,Regular season,HC Neftekhimik Nizhnekamsk,Dynamo Moskva,2,3
+2023/24,2023-12-23,Regular season,Barys Astana,HK Sochi,3,2
+2023/24,2023-12-23,Regular season,HC Sibir Novosibirsk,Ak Bars Kazan,4,2
+2023/24,2023-12-24,Regular season,HC Spartak Moskva,Shanghai Dragons,5,2
+2023/24,2023-12-24,Regular season,HC Avangard Omsk,HC Metallurg Magnitogorsk,2,3
+2023/24,2023-12-24,Regular season,Vityaz Moscow Region,Dinamo Minsk,6,4
+2023/24,2023-12-24,Regular season,Lada Togliatti,Avtomobilist Yekaterinburg,1,5
+2023/24,2023-12-24,Regular season,Severstal Cherepovets,HC Admiral Vladivostok,3,1
+2023/24,2023-12-25,Regular season,Amur Khabarovsk,HC Neftekhimik Nizhnekamsk,4,1
+2023/24,2023-12-25,Regular season,CSKA Moskva,HC Salavat Yulaev Ufa,3,4
+2023/24,2023-12-25,Regular season,Dynamo Moskva,SKA St. Petersburg,2,3
+2023/24,2023-12-26,Regular season,Shanghai Dragons,Lokomotiv Yaroslavl,1,2
+2023/24,2023-12-26,Regular season,HK Sochi,HC Admiral Vladivostok,3,5
+2023/24,2023-12-26,Regular season,Dinamo Minsk,Avtomobilist Yekaterinburg,1,4
+2023/24,2023-12-26,Regular season,Torpedo Nizhny Novgorod,HC Spartak Moskva,2,1
+2023/24,2023-12-26,Regular season,HC Sibir Novosibirsk,HC Avangard Omsk,2,3
+2023/24,2023-12-26,Regular season,Lada Togliatti,HC Metallurg Magnitogorsk,5,1
+2023/24,2023-12-26,Regular season,Severstal Cherepovets,HC Traktor Chelyabinsk,3,5
+2023/24,2023-12-27,Regular season,Amur Khabarovsk,HC Neftekhimik Nizhnekamsk,4,2
+2023/24,2023-12-27,Regular season,CSKA Moskva,SKA St. Petersburg,0,2
+2023/24,2023-12-28,Regular season,Ak Bars Kazan,HC Metallurg Magnitogorsk,1,4
+2023/24,2023-12-28,Regular season,HK Sochi,HC Salavat Yulaev Ufa,4,6
+2023/24,2023-12-28,Regular season,Dinamo Minsk,HC Spartak Moskva,1,4
+2023/24,2023-12-28,Regular season,Vityaz Moscow Region,Avtomobilist Yekaterinburg,2,3
+2023/24,2023-12-28,Regular season,Severstal Cherepovets,Shanghai Dragons,3,1
+2023/24,2023-12-28,Regular season,Lada Togliatti,Dynamo Moskva,4,0
+2023/24,2023-12-28,Regular season,Barys Astana,HC Avangard Omsk,5,1
+2023/24,2023-12-28,Regular season,HC Sibir Novosibirsk,HC Traktor Chelyabinsk,0,3
+2023/24,2023-12-28,Regular season,Torpedo Nizhny Novgorod,Lokomotiv Yaroslavl,3,5
+2023/24,2023-12-29,Regular season,HC Admiral Vladivostok,HC Neftekhimik Nizhnekamsk,3,4
+2023/24,2023-12-30,Regular season,Lokomotiv Yaroslavl,Dynamo Moskva,2,0
+2023/24,2023-12-30,Regular season,Ak Bars Kazan,HC Salavat Yulaev Ufa,3,2
+2023/24,2023-12-30,Regular season,SKA St. Petersburg,Avtomobilist Yekaterinburg,4,0
+2023/24,2023-12-30,Regular season,HK Sochi,Dinamo Minsk,4,7
+2023/24,2023-12-30,Regular season,Barys Astana,HC Traktor Chelyabinsk,5,1
+2023/24,2023-12-30,Regular season,CSKA Moskva,Severstal Cherepovets,3,1
+2023/24,2023-12-30,Regular season,HC Admiral Vladivostok,HC Neftekhimik Nizhnekamsk,2,5
+2023/24,2023-12-30,Regular season,Lada Togliatti,HC Avangard Omsk,1,2
+2023/24,2023-12-30,Regular season,HC Metallurg Magnitogorsk,Shanghai Dragons,4,1
+2023/24,2023-12-30,Regular season,Vityaz Moscow Region,HC Spartak Moskva,5,4
+2023/24,2024-01-03,Regular season,HK Sochi,HC Metallurg Magnitogorsk,2,3
+2023/24,2024-01-03,Regular season,SKA St. Petersburg,Vityaz Moscow Region,6,1
+2023/24,2024-01-03,Regular season,Severstal Cherepovets,Amur Khabarovsk,4,2
+2023/24,2024-01-03,Regular season,Lokomotiv Yaroslavl,Barys Astana,4,5
+2023/24,2024-01-03,Regular season,HC Avangard Omsk,HC Salavat Yulaev Ufa,2,4
+2023/24,2024-01-03,Regular season,HC Sibir Novosibirsk,HC Admiral Vladivostok,4,1
+2023/24,2024-01-03,Regular season,Avtomobilist Yekaterinburg,HC Traktor Chelyabinsk,4,3
+2023/24,2024-01-04,Regular season,Torpedo Nizhny Novgorod,Shanghai Dragons,3,2
+2023/24,2024-01-04,Regular season,HC Neftekhimik Nizhnekamsk,Lada Togliatti,4,3
+2023/24,2024-01-05,Regular season,SKA St. Petersburg,Lokomotiv Yaroslavl,1,2
+2023/24,2024-01-05,Regular season,HK Sochi,Avtomobilist Yekaterinburg,1,4
+2023/24,2024-01-05,Regular season,HC Neftekhimik Nizhnekamsk,HC Metallurg Magnitogorsk,2,1
+2023/24,2024-01-05,Regular season,HC Traktor Chelyabinsk,Barys Astana,5,1
+2023/24,2024-01-05,Regular season,Ak Bars Kazan,HC Admiral Vladivostok,2,1
+2023/24,2024-01-05,Regular season,HC Sibir Novosibirsk,HC Salavat Yulaev Ufa,2,3
+2023/24,2024-01-05,Regular season,Severstal Cherepovets,Vityaz Moscow Region,4,3
+2023/24,2024-01-05,Regular season,Dinamo Minsk,Amur Khabarovsk,2,3
+2023/24,2024-01-05,Regular season,CSKA Moskva,HC Spartak Moskva,3,1
+2023/24,2024-01-06,Regular season,HC Avangard Omsk,Lada Togliatti,5,3
+2023/24,2024-01-06,Regular season,Dynamo Moskva,Shanghai Dragons,7,1
+2023/24,2024-01-07,Regular season,HC Salavat Yulaev Ufa,Barys Astana,5,3
+2023/24,2024-01-07,Regular season,Ak Bars Kazan,Avtomobilist Yekaterinburg,2,1
+2023/24,2024-01-07,Regular season,Dynamo Moskva,HC Spartak Moskva,3,2
+2023/24,2024-01-07,Regular season,HC Traktor Chelyabinsk,Lokomotiv Yaroslavl,1,3
+2023/24,2024-01-07,Regular season,CSKA Moskva,Shanghai Dragons,4,3
+2023/24,2024-01-07,Regular season,Severstal Cherepovets,HK Sochi,3,0
+2023/24,2024-01-07,Regular season,Vityaz Moscow Region,HC Neftekhimik Nizhnekamsk,2,4
+2023/24,2024-01-07,Regular season,Torpedo Nizhny Novgorod,Dinamo Minsk,2,5
+2023/24,2024-01-07,Regular season,SKA St. Petersburg,HC Metallurg Magnitogorsk,1,2
+2023/24,2024-01-08,Regular season,HC Admiral Vladivostok,HC Avangard Omsk,1,2
+2023/24,2024-01-08,Regular season,Amur Khabarovsk,HC Sibir Novosibirsk,4,0
+2023/24,2024-01-09,Regular season,Ak Bars Kazan,Barys Astana,1,0
+2023/24,2024-01-09,Regular season,HC Metallurg Magnitogorsk,Lokomotiv Yaroslavl,5,3
+2023/24,2024-01-09,Regular season,HC Salavat Yulaev Ufa,Shanghai Dragons,1,2
+2023/24,2024-01-09,Regular season,HC Traktor Chelyabinsk,HC Neftekhimik Nizhnekamsk,5,3
+2023/24,2024-01-09,Regular season,Lada Togliatti,Avtomobilist Yekaterinburg,1,4
+2023/24,2024-01-09,Regular season,Dinamo Minsk,HC Spartak Moskva,3,1
+2023/24,2024-01-09,Regular season,Dynamo Moskva,HK Sochi,5,1
+2023/24,2024-01-09,Regular season,CSKA Moskva,Torpedo Nizhny Novgorod,7,2
+2023/24,2024-01-10,Regular season,HC Admiral Vladivostok,HC Avangard Omsk,1,2
+2023/24,2024-01-10,Regular season,Vityaz Moscow Region,SKA St. Petersburg,0,4
+2023/24,2024-01-10,Regular season,Amur Khabarovsk,HC Sibir Novosibirsk,1,4
+2023/24,2024-01-11,Regular season,HC Metallurg Magnitogorsk,HK Sochi,4,1
+2023/24,2024-01-11,Regular season,Lada Togliatti,Lokomotiv Yaroslavl,2,3
+2023/24,2024-01-11,Regular season,CSKA Moskva,Dynamo Moskva,2,4
+2023/24,2024-01-11,Regular season,Dinamo Minsk,Torpedo Nizhny Novgorod,0,3
+2023/24,2024-01-12,Regular season,Severstal Cherepovets,Shanghai Dragons,2,1
+2023/24,2024-01-12,Regular season,HC Traktor Chelyabinsk,Ak Bars Kazan,3,1
+2023/24,2024-01-12,Regular season,HC Neftekhimik Nizhnekamsk,HC Salavat Yulaev Ufa,2,0
+2023/24,2024-01-12,Regular season,Amur Khabarovsk,HC Avangard Omsk,2,3
+2023/24,2024-01-12,Regular season,HC Spartak Moskva,SKA St. Petersburg,2,5
+2023/24,2024-01-12,Regular season,HC Admiral Vladivostok,HC Sibir Novosibirsk,2,4
+2023/24,2024-01-13,Regular season,Avtomobilist Yekaterinburg,Lada Togliatti,3,4
+2023/24,2024-01-13,Regular season,Dynamo Moskva,Torpedo Nizhny Novgorod,6,1
+2023/24,2024-01-13,Regular season,Amur Khabarovsk,HC Avangard Omsk,1,3
+2023/24,2024-01-14,Regular season,Shanghai Dragons,HC Salavat Yulaev Ufa,3,5
+2023/24,2024-01-14,Regular season,HC Neftekhimik Nizhnekamsk,Ak Bars Kazan,0,1
+2023/24,2024-01-14,Regular season,Severstal Cherepovets,SKA St. Petersburg,3,2
+2023/24,2024-01-14,Regular season,HC Admiral Vladivostok,HC Sibir Novosibirsk,5,2
+2023/24,2024-01-14,Regular season,Dinamo Minsk,HC Traktor Chelyabinsk,3,1
+2023/24,2024-01-14,Regular season,HC Spartak Moskva,HC Metallurg Magnitogorsk,2,6
+2023/24,2024-01-14,Regular season,Lokomotiv Yaroslavl,Vityaz Moscow Region,1,2
+2023/24,2024-01-15,Regular season,Avtomobilist Yekaterinburg,CSKA Moskva,3,2
+2023/24,2024-01-15,Regular season,Barys Astana,Lada Togliatti,0,3
+2023/24,2024-01-16,Regular season,HK Sochi,Ak Bars Kazan,3,1
+2023/24,2024-01-16,Regular season,HC Spartak Moskva,Vityaz Moscow Region,2,1
+2023/24,2024-01-16,Regular season,Torpedo Nizhny Novgorod,HC Metallurg Magnitogorsk,7,4
+2023/24,2024-01-16,Regular season,Dinamo Minsk,Shanghai Dragons,5,1
+2023/24,2024-01-16,Regular season,Barys Astana,HC Salavat Yulaev Ufa,3,2
+2023/24,2024-01-16,Regular season,Lokomotiv Yaroslavl,HC Neftekhimik Nizhnekamsk,4,2
+2023/24,2024-01-17,Regular season,HC Traktor Chelyabinsk,Severstal Cherepovets,0,1
+2023/24,2024-01-17,Regular season,Avtomobilist Yekaterinburg,HC Admiral Vladivostok,4,2
+2023/24,2024-01-17,Regular season,HC Avangard Omsk,CSKA Moskva,4,1
+2023/24,2024-01-17,Regular season,SKA St. Petersburg,Amur Khabarovsk,6,2
+2023/24,2024-01-17,Regular season,Dinamo Minsk,Shanghai Dragons,2,5
+2023/24,2024-01-18,Regular season,HC Sibir Novosibirsk,HC Salavat Yulaev Ufa,2,4
+2023/24,2024-01-18,Regular season,Ak Bars Kazan,Lada Togliatti,5,1
+2023/24,2024-01-18,Regular season,Torpedo Nizhny Novgorod,Vityaz Moscow Region,1,2
+2023/24,2024-01-18,Regular season,Dynamo Moskva,HC Neftekhimik Nizhnekamsk,1,2
+2023/24,2024-01-19,Regular season,Avtomobilist Yekaterinburg,Severstal Cherepovets,0,3
+2023/24,2024-01-19,Regular season,SKA St. Petersburg,Shanghai Dragons,3,1
+2023/24,2024-01-19,Regular season,HC Spartak Moskva,HC Avangard Omsk,1,3
+2023/24,2024-01-19,Regular season,Lokomotiv Yaroslavl,Amur Khabarovsk,3,2
+2023/24,2024-01-19,Regular season,HC Metallurg Magnitogorsk,HC Admiral Vladivostok,5,2
+2023/24,2024-01-19,Regular season,Barys Astana,CSKA Moskva,2,5
+2023/24,2024-01-20,Regular season,Dynamo Moskva,Dinamo Minsk,4,1
+2023/24,2024-01-20,Regular season,HC Traktor Chelyabinsk,HK Sochi,6,1
+2023/24,2024-01-20,Regular season,Lada Togliatti,Vityaz Moscow Region,2,1
+2023/24,2024-01-21,Regular season,HC Salavat Yulaev Ufa,Amur Khabarovsk,3,2
+2023/24,2024-01-21,Regular season,Torpedo Nizhny Novgorod,CSKA Moskva,3,2
+2023/24,2024-01-21,Regular season,HC Metallurg Magnitogorsk,Severstal Cherepovets,3,2
+2023/24,2024-01-21,Regular season,Ak Bars Kazan,HC Spartak Moskva,4,3
+2023/24,2024-01-21,Regular season,HC Neftekhimik Nizhnekamsk,HC Admiral Vladivostok,3,2
+2023/24,2024-01-21,Regular season,Lokomotiv Yaroslavl,HC Avangard Omsk,4,1
+2023/24,2024-01-22,Regular season,SKA St. Petersburg,Dinamo Minsk,1,2
+2023/24,2024-01-22,Regular season,Lada Togliatti,HK Sochi,3,4
+2023/24,2024-01-22,Regular season,Barys Astana,Avtomobilist Yekaterinburg,2,3
+2023/24,2024-01-22,Regular season,HC Traktor Chelyabinsk,HC Sibir Novosibirsk,3,1
+2023/24,2024-01-23,Regular season,Severstal Cherepovets,HC Avangard Omsk,2,6
+2023/24,2024-01-23,Regular season,Dynamo Moskva,HC Spartak Moskva,3,6
+2023/24,2024-01-24,Regular season,Vityaz Moscow Region,HC Sibir Novosibirsk,1,4
+2023/24,2024-01-24,Regular season,CSKA Moskva,Dinamo Minsk,2,1
+2023/24,2024-01-24,Regular season,SKA St. Petersburg,Barys Astana,7,0
+2023/24,2024-01-24,Regular season,HC Neftekhimik Nizhnekamsk,Torpedo Nizhny Novgorod,2,3
+2023/24,2024-01-24,Regular season,Lokomotiv Yaroslavl,HK Sochi,1,2
+2023/24,2024-01-24,Regular season,HC Admiral Vladivostok,HC Metallurg Magnitogorsk,2,1
+2023/24,2024-01-24,Regular season,Amur Khabarovsk,HC Salavat Yulaev Ufa,2,3
+2023/24,2024-01-24,Regular season,Avtomobilist Yekaterinburg,Ak Bars Kazan,1,4
+2023/24,2024-01-25,Regular season,Shanghai Dragons,Dynamo Moskva,1,5
+2023/24,2024-01-26,Regular season,Lada Togliatti,Barys Astana,2,0
+2023/24,2024-01-26,Regular season,Lokomotiv Yaroslavl,Dinamo Minsk,3,5
+2023/24,2024-01-26,Regular season,SKA St. Petersburg,CSKA Moskva,5,1
+2023/24,2024-01-26,Regular season,Severstal Cherepovets,HC Sibir Novosibirsk,4,0
+2023/24,2024-01-26,Regular season,HC Avangard Omsk,Ak Bars Kazan,4,2
+2023/24,2024-01-26,Regular season,HC Neftekhimik Nizhnekamsk,HC Traktor Chelyabinsk,5,6
+2023/24,2024-01-26,Regular season,HC Admiral Vladivostok,HC Metallurg Magnitogorsk,2,4
+2023/24,2024-01-26,Regular season,Avtomobilist Yekaterinburg,Torpedo Nizhny Novgorod,2,1
+2023/24,2024-01-26,Regular season,Vityaz Moscow Region,HK Sochi,2,3
+2023/24,2024-01-26,Regular season,Amur Khabarovsk,HC Salavat Yulaev Ufa,0,3
+2023/24,2024-01-27,Regular season,HC Spartak Moskva,Dynamo Moskva,4,3
+2023/24,2024-01-28,Regular season,Severstal Cherepovets,CSKA Moskva,2,6
+2023/24,2024-01-28,Regular season,Barys Astana,Ak Bars Kazan,1,3
+2023/24,2024-01-28,Regular season,HK Sochi,Shanghai Dragons,3,4
+2023/24,2024-01-28,Regular season,HC Avangard Omsk,HC Traktor Chelyabinsk,4,5
+2023/24,2024-01-28,Regular season,Dinamo Minsk,HC Sibir Novosibirsk,4,1
+2023/24,2024-01-28,Regular season,HC Neftekhimik Nizhnekamsk,Lada Togliatti,0,2
+2023/24,2024-01-28,Regular season,Amur Khabarovsk,HC Metallurg Magnitogorsk,2,3
+2023/24,2024-01-28,Regular season,HC Admiral Vladivostok,HC Salavat Yulaev Ufa,5,4
+2023/24,2024-01-29,Regular season,Amur Khabarovsk,HC Metallurg Magnitogorsk,7,6
+2023/24,2024-01-29,Regular season,HC Admiral Vladivostok,HC Salavat Yulaev Ufa,1,2
+2023/24,2024-01-29,Regular season,HC Spartak Moskva,Torpedo Nizhny Novgorod,3,2
+2023/24,2024-01-29,Regular season,HK Sochi,Shanghai Dragons,2,4
+2023/24,2024-01-29,Regular season,Dynamo Moskva,Vityaz Moscow Region,1,2
+2023/24,2024-01-29,Regular season,SKA St. Petersburg,Lokomotiv Yaroslavl,3,0
+2023/24,2024-01-30,Regular season,HC Sibir Novosibirsk,Ak Bars Kazan,0,4
+2023/24,2024-01-30,Regular season,HC Neftekhimik Nizhnekamsk,Lada Togliatti,4,3
+2023/24,2024-01-31,Regular season,Shanghai Dragons,Vityaz Moscow Region,2,0
+2023/24,2024-01-31,Regular season,CSKA Moskva,Torpedo Nizhny Novgorod,3,2
+2023/24,2024-01-31,Regular season,HC Spartak Moskva,Lokomotiv Yaroslavl,1,2
+2023/24,2024-01-31,Regular season,HK Sochi,Dinamo Minsk,3,2
+2023/24,2024-01-31,Regular season,HC Traktor Chelyabinsk,Avtomobilist Yekaterinburg,2,1
+2023/24,2024-01-31,Regular season,Barys Astana,HC Avangard Omsk,1,3
+2023/24,2024-02-01,Regular season,HC Salavat Yulaev Ufa,Lada Togliatti,5,2
+2023/24,2024-02-02,Regular season,Torpedo Nizhny Novgorod,Dynamo Moskva,1,2
+2023/24,2024-02-02,Regular season,CSKA Moskva,SKA St. Petersburg,1,2
+2023/24,2024-02-02,Regular season,HC Spartak Moskva,Avtomobilist Yekaterinburg,3,0
+2023/24,2024-02-02,Regular season,Vityaz Moscow Region,Lokomotiv Yaroslavl,0,2
+2023/24,2024-02-02,Regular season,Shanghai Dragons,HC Admiral Vladivostok,3,5
+2023/24,2024-02-02,Regular season,HC Metallurg Magnitogorsk,HC Avangard Omsk,4,3
+2023/24,2024-02-02,Regular season,HC Sibir Novosibirsk,Amur Khabarovsk,4,3
+2023/24,2024-02-02,Regular season,Severstal Cherepovets,Dinamo Minsk,4,2
+2023/24,2024-02-03,Regular season,Ak Bars Kazan,HC Traktor Chelyabinsk,4,1
+2023/24,2024-02-04,Regular season,Dynamo Moskva,Lokomotiv Yaroslavl,3,4
+2023/24,2024-02-04,Regular season,Dinamo Minsk,HC Admiral Vladivostok,4,0
+2023/24,2024-02-04,Regular season,Torpedo Nizhny Novgorod,Severstal Cherepovets,2,3
+2023/24,2024-02-04,Regular season,CSKA Moskva,Avtomobilist Yekaterinburg,4,5
+2023/24,2024-02-04,Regular season,Barys Astana,Amur Khabarovsk,2,3
+2023/24,2024-02-04,Regular season,Vityaz Moscow Region,Shanghai Dragons,2,4
+2023/24,2024-02-04,Regular season,HC Salavat Yulaev Ufa,SKA St. Petersburg,3,4
+2023/24,2024-02-05,Regular season,Lada Togliatti,HC Neftekhimik Nizhnekamsk,2,4
+2023/24,2024-02-05,Regular season,Ak Bars Kazan,HC Sibir Novosibirsk,1,4
+2023/24,2024-02-06,Regular season,HC Metallurg Magnitogorsk,HC Admiral Vladivostok,5,1
+2023/24,2024-02-06,Regular season,Barys Astana,Amur Khabarovsk,0,2
+2023/24,2024-02-06,Regular season,HC Avangard Omsk,SKA St. Petersburg,9,5
+2023/24,2024-02-06,Regular season,HC Salavat Yulaev Ufa,CSKA Moskva,2,0
+2023/24,2024-02-06,Regular season,Vityaz Moscow Region,HK Sochi,3,4
+2023/24,2024-02-06,Regular season,Torpedo Nizhny Novgorod,HC Traktor Chelyabinsk,3,1
+2023/24,2024-02-06,Regular season,Dynamo Moskva,Avtomobilist Yekaterinburg,5,3
+2023/24,2024-02-06,Regular season,Dinamo Minsk,Severstal Cherepovets,2,4
+2023/24,2024-02-07,Regular season,Lokomotiv Yaroslavl,HC Sibir Novosibirsk,3,2
+2023/24,2024-02-08,Regular season,HC Avangard Omsk,HC Spartak Moskva,3,5
+2023/24,2024-02-08,Regular season,Lada Togliatti,Amur Khabarovsk,0,1
+2023/24,2024-02-08,Regular season,Barys Astana,SKA St. Petersburg,1,2
+2023/24,2024-02-08,Regular season,Vityaz Moscow Region,Severstal Cherepovets,2,1
+2023/24,2024-02-08,Regular season,Lokomotiv Yaroslavl,HC Admiral Vladivostok,1,2
+2023/24,2024-02-08,Regular season,Dinamo Minsk,CSKA Moskva,4,1
+2023/24,2024-02-08,Regular season,HC Traktor Chelyabinsk,Ak Bars Kazan,1,2
+2023/24,2024-02-09,Regular season,HC Neftekhimik Nizhnekamsk,HC Sibir Novosibirsk,1,2
+2023/24,2024-02-09,Regular season,Torpedo Nizhny Novgorod,HK Sochi,5,3
+2023/24,2024-02-10,Regular season,Barys Astana,HC Spartak Moskva,1,4
+2023/24,2024-02-10,Regular season,HC Salavat Yulaev Ufa,Ak Bars Kazan,2,1
+2023/24,2024-02-10,Regular season,Severstal Cherepovets,Lokomotiv Yaroslavl,3,2
+2023/24,2024-02-11,Regular season,HC Avangard Omsk,HC Sibir Novosibirsk,7,2
+2023/24,2024-02-11,Regular season,Torpedo Nizhny Novgorod,HC Neftekhimik Nizhnekamsk,3,4
+2023/24,2024-02-11,Regular season,Severstal Cherepovets,Dinamo Minsk,3,2
+2023/24,2024-02-11,Regular season,SKA St. Petersburg,HK Sochi,8,1
+2023/24,2024-02-11,Regular season,Vityaz Moscow Region,CSKA Moskva,1,5
+2023/24,2024-02-11,Regular season,HC Metallurg Magnitogorsk,Dynamo Moskva,3,4
+2023/24,2024-02-12,Regular season,Lokomotiv Yaroslavl,HC Spartak Moskva,1,5
+2023/24,2024-02-13,Regular season,Amur Khabarovsk,HC Traktor Chelyabinsk,5,3
+2023/24,2024-02-13,Regular season,HC Admiral Vladivostok,Barys Astana,4,2
+2023/24,2024-02-13,Regular season,HC Salavat Yulaev Ufa,HC Avangard Omsk,7,2
+2023/24,2024-02-13,Regular season,Avtomobilist Yekaterinburg,Dynamo Moskva,1,2
+2023/24,2024-02-13,Regular season,SKA St. Petersburg,Lada Togliatti,2,1
+2023/24,2024-02-13,Regular season,Ak Bars Kazan,HC Neftekhimik Nizhnekamsk,3,0
+2023/24,2024-02-13,Regular season,Shanghai Dragons,CSKA Moskva,2,4
+2023/24,2024-02-13,Regular season,Vityaz Moscow Region,Dinamo Minsk,2,3
+2023/24,2024-02-14,Regular season,HC Admiral Vladivostok,Barys Astana,2,3
+2023/24,2024-02-14,Regular season,HK Sochi,Torpedo Nizhny Novgorod,3,2
+2023/24,2024-02-14,Regular season,Severstal Cherepovets,HC Spartak Moskva,4,2
+2023/24,2024-02-14,Regular season,Amur Khabarovsk,HC Traktor Chelyabinsk,4,2
+2023/24,2024-02-15,Regular season,SKA St. Petersburg,HC Salavat Yulaev Ufa,2,0
+2023/24,2024-02-15,Regular season,Ak Bars Kazan,HC Metallurg Magnitogorsk,2,1
+2023/24,2024-02-15,Regular season,Lokomotiv Yaroslavl,CSKA Moskva,5,4
+2023/24,2024-02-15,Regular season,Dynamo Moskva,Dinamo Minsk,2,1
+2023/24,2024-02-15,Regular season,HC Sibir Novosibirsk,HC Neftekhimik Nizhnekamsk,2,1
+2023/24,2024-02-15,Regular season,Shanghai Dragons,Lada Togliatti,3,1
+2023/24,2024-02-15,Regular season,Avtomobilist Yekaterinburg,HC Avangard Omsk,4,2
+2023/24,2024-02-16,Regular season,HK Sochi,Torpedo Nizhny Novgorod,3,1
+2023/24,2024-02-16,Regular season,Amur Khabarovsk,Barys Astana,4,1
+2023/24,2024-02-16,Regular season,HC Admiral Vladivostok,HC Traktor Chelyabinsk,2,3
+2023/24,2024-02-17,Regular season,HC Avangard Omsk,HC Metallurg Magnitogorsk,3,0
+2023/24,2024-02-17,Regular season,Shanghai Dragons,Dinamo Minsk,2,4
+2023/24,2024-02-17,Regular season,HC Spartak Moskva,Ak Bars Kazan,0,3
+2023/24,2024-02-17,Regular season,Vityaz Moscow Region,Dynamo Moskva,3,6
+2023/24,2024-02-17,Regular season,Lokomotiv Yaroslavl,HC Salavat Yulaev Ufa,3,0
+2023/24,2024-02-18,Regular season,HC Admiral Vladivostok,HC Traktor Chelyabinsk,6,1
+2023/24,2024-02-18,Regular season,Amur Khabarovsk,Barys Astana,2,1
+2023/24,2024-02-18,Regular season,Avtomobilist Yekaterinburg,HK Sochi,2,1
+2023/24,2024-02-18,Regular season,Severstal Cherepovets,HC Neftekhimik Nizhnekamsk,3,2
+2023/24,2024-02-18,Regular season,SKA St. Petersburg,Torpedo Nizhny Novgorod,4,3
+2023/24,2024-02-19,Regular season,HC Metallurg Magnitogorsk,Ak Bars Kazan,2,1
+2023/24,2024-02-19,Regular season,CSKA Moskva,Vityaz Moscow Region,1,2
+2023/24,2024-02-19,Regular season,Dynamo Moskva,HC Salavat Yulaev Ufa,2,1
+2023/24,2024-02-20,Regular season,Shanghai Dragons,HK Sochi,4,0
+2023/24,2024-02-20,Regular season,Dinamo Minsk,HC Neftekhimik Nizhnekamsk,2,1
+2023/24,2024-02-20,Regular season,SKA St. Petersburg,Severstal Cherepovets,0,3
+2023/24,2024-02-20,Regular season,HC Sibir Novosibirsk,Lada Togliatti,3,0
+2023/24,2024-02-20,Regular season,HC Spartak Moskva,Torpedo Nizhny Novgorod,7,3
+2023/24,2024-02-20,Regular season,HC Avangard Omsk,Avtomobilist Yekaterinburg,4,2
+2023/24,2024-02-21,Regular season,HC Salavat Yulaev Ufa,HC Admiral Vladivostok,3,0
+2023/24,2024-02-21,Regular season,Ak Bars Kazan,Lokomotiv Yaroslavl,2,4
+2023/24,2024-02-22,Regular season,Barys Astana,Avtomobilist Yekaterinburg,1,4
+2023/24,2024-02-22,Regular season,HC Avangard Omsk,Lada Togliatti,2,3
+2023/24,2024-02-22,Regular season,HC Metallurg Magnitogorsk,Amur Khabarovsk,3,0
+2023/24,2024-02-22,Regular season,HC Traktor Chelyabinsk,Vityaz Moscow Region,3,0
+2023/24,2024-02-22,Regular season,CSKA Moskva,HC Sibir Novosibirsk,4,3
+2023/24,2024-02-22,Regular season,Dynamo Moskva,Severstal Cherepovets,3,2
+2023/24,2024-02-23,Regular season,Dinamo Minsk,SKA St. Petersburg,1,5
+2023/24,2024-02-23,Regular season,HK Sochi,Shanghai Dragons,6,3
+2023/24,2024-02-23,Regular season,HC Neftekhimik Nizhnekamsk,Lokomotiv Yaroslavl,2,3
+2023/24,2024-02-24,Regular season,HC Traktor Chelyabinsk,HC Avangard Omsk,3,2
+2023/24,2024-02-24,Regular season,Torpedo Nizhny Novgorod,CSKA Moskva,1,2
+2023/24,2024-02-24,Regular season,HC Metallurg Magnitogorsk,Vityaz Moscow Region,2,1
+2023/24,2024-02-24,Regular season,Barys Astana,Lada Togliatti,1,4
+2023/24,2024-02-24,Regular season,Ak Bars Kazan,Amur Khabarovsk,4,2
+2023/24,2024-02-24,Regular season,HC Spartak Moskva,Severstal Cherepovets,5,3
+2023/24,2024-02-24,Regular season,HC Salavat Yulaev Ufa,HC Sibir Novosibirsk,1,2
+2023/24,2024-02-24,Regular season,Dynamo Moskva,HC Admiral Vladivostok,4,3
+2023/24,2024-02-25,Regular season,Avtomobilist Yekaterinburg,Lokomotiv Yaroslavl,2,0
+2023/24,2024-02-25,Regular season,HK Sochi,HC Neftekhimik Nizhnekamsk,2,5
+2023/24,2024-02-25,Regular season,Shanghai Dragons,SKA St. Petersburg,3,2
+2023/24,2024-02-26,Regular season,Barys Astana,HC Sibir Novosibirsk,1,0
+2023/24,2024-02-26,Regular season,Torpedo Nizhny Novgorod,Lada Togliatti,4,5
+2023/24,2024-02-26,Regular season,Ak Bars Kazan,HC Admiral Vladivostok,4,2
+2023/24,2024-02-26,Regular season,HC Spartak Moskva,Dinamo Minsk,2,4
+2023/24,2024-02-26,Regular season,HC Salavat Yulaev Ufa,Severstal Cherepovets,4,3
+2023/24,2024-02-26,Regular season,Dynamo Moskva,CSKA Moskva,4,3
+2023/24,2024-02-26,Regular season,HC Metallurg Magnitogorsk,HC Avangard Omsk,3,1
+2023/24,2024-02-26,Regular season,HC Traktor Chelyabinsk,Amur Khabarovsk,4,3
+2023/24,2024-02-26,Regular season,Shanghai Dragons,Vityaz Moscow Region,2,1
+2023/24,2024-02-29,Плей-офф,Ak Bars Kazan,Avtomobilist Yekaterinburg,1,2
+2023/24,2024-02-29,Плей-офф,HC Salavat Yulaev Ufa,HC Traktor Chelyabinsk,2,3
+2023/24,2024-02-29,Плей-офф,Lokomotiv Yaroslavl,CSKA Moskva,0,4
+2023/24,2024-02-29,Плей-офф,HC Spartak Moskva,Severstal Cherepovets,3,2
+2023/24,2024-03-01,Round of 16,HC Avangard Omsk,Lada Togliatti,5,1
+2023/24,2024-03-01,Round of 16,HC Metallurg Magnitogorsk,Amur Khabarovsk,2,1
+2023/24,2024-03-01,Round of 16,SKA St. Petersburg,Torpedo Nizhny Novgorod,2,5
+2023/24,2024-03-02,Round of 16,HC Salavat Yulaev Ufa,HC Traktor Chelyabinsk,4,1
+2023/24,2024-03-02,Round of 16,Ak Bars Kazan,Avtomobilist Yekaterinburg,0,4
+2023/24,2024-03-02,Round of 16,HC Spartak Moskva,Severstal Cherepovets,1,2
+2023/24,2024-03-02,Round of 16,Lokomotiv Yaroslavl,CSKA Moskva,2,1
+2023/24,2024-03-02,Regular season,Dynamo Moskva,Dinamo Minsk,4,1
+2023/24,2024-03-03,Round of 16,HC Avangard Omsk,Lada Togliatti,3,2
+2023/24,2024-03-03,Round of 16,HC Metallurg Magnitogorsk,Amur Khabarovsk,2,3
+2023/24,2024-03-03,Round of 16,SKA St. Petersburg,Torpedo Nizhny Novgorod,3,2
+2023/24,2024-03-04,Round of 16,Dynamo Moskva,Dinamo Minsk,4,3
+2023/24,2024-03-04,Round of 16,CSKA Moskva,Lokomotiv Yaroslavl,2,3
+2023/24,2024-03-04,Round of 16,HC Traktor Chelyabinsk,HC Salavat Yulaev Ufa,3,2
+2023/24,2024-03-04,Round of 16,Avtomobilist Yekaterinburg,Ak Bars Kazan,3,1
+2023/24,2024-03-04,Round of 16,Severstal Cherepovets,HC Spartak Moskva,3,7
+2023/24,2024-03-05,Round of 16,Amur Khabarovsk,HC Metallurg Magnitogorsk,2,3
+2023/24,2024-03-05,Round of 16,Lada Togliatti,HC Avangard Omsk,1,3
+2023/24,2024-03-05,Round of 16,Torpedo Nizhny Novgorod,SKA St. Petersburg,2,5
+2023/24,2024-03-06,Round of 16,Avtomobilist Yekaterinburg,Ak Bars Kazan,0,5
+2023/24,2024-03-06,Round of 16,HC Traktor Chelyabinsk,HC Salavat Yulaev Ufa,2,3
+2023/24,2024-03-06,Round of 16,Severstal Cherepovets,HC Spartak Moskva,4,5
+2023/24,2024-03-06,Round of 16,CSKA Moskva,Lokomotiv Yaroslavl,1,2
+2023/24,2024-03-06,Round of 16,Dinamo Minsk,Dynamo Moskva,3,1
+2023/24,2024-03-07,Round of 16,Lada Togliatti,HC Avangard Omsk,4,1
+2023/24,2024-03-07,Round of 16,Torpedo Nizhny Novgorod,SKA St. Petersburg,1,4
+2023/24,2024-03-07,Round of 16,Amur Khabarovsk,HC Metallurg Magnitogorsk,5,2
+2023/24,2024-03-08,Round of 16,HC Salavat Yulaev Ufa,HC Traktor Chelyabinsk,1,2
+2023/24,2024-03-08,Плей-офф,Ak Bars Kazan,Avtomobilist Yekaterinburg,1,2
+2023/24,2024-03-08,Round of 16,Lokomotiv Yaroslavl,CSKA Moskva,6,3
+2023/24,2024-03-08,Round of 16,HC Spartak Moskva,Severstal Cherepovets,5,1
+2023/24,2024-03-08,Round of 16,Dinamo Minsk,Dynamo Moskva,2,3
+2023/24,2024-03-09,Плей-офф,HC Avangard Omsk,Lada Togliatti,4,0
+2023/24,2024-03-09,Round of 16,HC Metallurg Magnitogorsk,Amur Khabarovsk,3,1
+2023/24,2024-03-09,Round of 16,SKA St. Petersburg,Torpedo Nizhny Novgorod,3,0
+2023/24,2024-03-10,,HC Traktor Chelyabinsk,HC Salavat Yulaev Ufa,4,2
+2023/24,2024-03-10,,Dynamo Moskva,Dinamo Minsk,1,2
+2023/24,2024-03-11,,Amur Khabarovsk,HC Metallurg Magnitogorsk,2,3
+2023/24,2024-03-12,Плей-офф,Dinamo Minsk,Dynamo Moskva,1,3
+2023/24,2024-03-16,Quarter-final,HC Avangard Omsk,Lokomotiv Yaroslavl,1,2
+2023/24,2024-03-16,Quarter-final,Dynamo Moskva,HC Traktor Chelyabinsk,2,4
+2023/24,2024-03-17,Quarter-final,SKA St. Petersburg,Avtomobilist Yekaterinburg,2,3
+2023/24,2024-03-17,Quarter-final,HC Metallurg Magnitogorsk,HC Spartak Moskva,4,0
+2023/24,2024-03-18,Quarter-final,HC Avangard Omsk,Lokomotiv Yaroslavl,0,7
+2023/24,2024-03-18,Quarter-final,Dynamo Moskva,HC Traktor Chelyabinsk,4,5
+2023/24,2024-03-19,Quarter-final,HC Metallurg Magnitogorsk,HC Spartak Moskva,1,0
+2023/24,2024-03-19,Quarter-final,SKA St. Petersburg,Avtomobilist Yekaterinburg,1,3
+2023/24,2024-03-20,Quarter-final,Lokomotiv Yaroslavl,HC Avangard Omsk,1,2
+2023/24,2024-03-20,Quarter-final,HC Traktor Chelyabinsk,Dynamo Moskva,3,2
+2023/24,2024-03-21,Quarter-final,Avtomobilist Yekaterinburg,SKA St. Petersburg,2,1
+2023/24,2024-03-21,Quarter-final,HC Spartak Moskva,HC Metallurg Magnitogorsk,5,2
+2023/24,2024-03-22,Quarter-final,HC Traktor Chelyabinsk,Dynamo Moskva,5,4
+2023/24,2024-03-22,Quarter-final,Lokomotiv Yaroslavl,HC Avangard Omsk,3,1
+2023/24,2024-03-23,Quarter-final,Avtomobilist Yekaterinburg,SKA St. Petersburg,2,5
+2023/24,2024-03-25,Плей-офф,SKA St. Petersburg,Avtomobilist Yekaterinburg,4,5
+2023/24,2024-03-26,Плей-офф,HC Avangard Omsk,Lokomotiv Yaroslavl,4,2
+2023/24,2024-03-26,Плей-офф,HC Spartak Moskva,HC Metallurg Magnitogorsk,1,0
+2023/24,2024-03-28,Плей-офф,Lokomotiv Yaroslavl,HC Avangard Omsk,2,3
+2023/24,2024-03-28,Плей-офф,HC Metallurg Magnitogorsk,HC Spartak Moskva,5,3
+2023/24,2024-03-30,,HC Avangard Omsk,Lokomotiv Yaroslavl,0,2
+2023/24,2024-03-30,,HC Spartak Moskva,HC Metallurg Magnitogorsk,0,3
+2023/24,2024-04-02,Плей-офф,Lokomotiv Yaroslavl,HC Traktor Chelyabinsk,5,2
+2023/24,2024-04-03,Плей-офф,HC Metallurg Magnitogorsk,Avtomobilist Yekaterinburg,2,1
+2023/24,2024-04-04,Плей-офф,Lokomotiv Yaroslavl,HC Traktor Chelyabinsk,3,2
+2023/24,2024-04-05,Плей-офф,HC Metallurg Magnitogorsk,Avtomobilist Yekaterinburg,2,4
+2023/24,2024-04-06,Плей-офф,HC Traktor Chelyabinsk,Lokomotiv Yaroslavl,1,2
+2023/24,2024-04-07,Плей-офф,Avtomobilist Yekaterinburg,HC Metallurg Magnitogorsk,2,3
+2023/24,2024-04-08,Плей-офф,HC Traktor Chelyabinsk,Lokomotiv Yaroslavl,0,3
+2023/24,2024-04-09,Плей-офф,Avtomobilist Yekaterinburg,HC Metallurg Magnitogorsk,5,3
+2023/24,2024-04-11,,HC Metallurg Magnitogorsk,Avtomobilist Yekaterinburg,5,2
+2023/24,2024-04-13,Плей-офф,Avtomobilist Yekaterinburg,HC Metallurg Magnitogorsk,5,3
+2023/24,2024-04-15,Semi-final,HC Metallurg Magnitogorsk,Avtomobilist Yekaterinburg,3,2
+2023/24,2024-04-18,Final,HC Metallurg Magnitogorsk,Lokomotiv Yaroslavl,2,1
+2023/24,2024-04-20,Final,HC Metallurg Magnitogorsk,Lokomotiv Yaroslavl,1,0
+2023/24,2024-04-22,Final,Lokomotiv Yaroslavl,HC Metallurg Magnitogorsk,1,2
+2023/24,2024-04-24,Final,Lokomotiv Yaroslavl,HC Metallurg Magnitogorsk,1,2
+2024/25,2024-09-03,Regular season,HC Metallurg Magnitogorsk,Lokomotiv Yaroslavl,2,3
+2024/25,2024-09-04,Regular season,HC Avangard Omsk,HC Sibir Novosibirsk,2,1
+2024/25,2024-09-04,Regular season,Avtomobilist Yekaterinburg,HC Traktor Chelyabinsk,3,2
+2024/25,2024-09-04,Regular season,Barys Astana,HC Neftekhimik Nizhnekamsk,1,2
+2024/25,2024-09-04,Regular season,Torpedo Nizhny Novgorod,Severstal Cherepovets,0,3
+2024/25,2024-09-04,Regular season,Vityaz Moscow Region,HC Admiral Vladivostok,2,3
+2024/25,2024-09-04,Regular season,Dynamo Moskva,Shanghai Dragons,1,3
+2024/25,2024-09-05,Regular season,HC Spartak Moskva,CSKA Moskva,4,2
+2024/25,2024-09-05,Regular season,Dinamo Minsk,Amur Khabarovsk,3,0
+2024/25,2024-09-05,Regular season,HC Metallurg Magnitogorsk,SKA St. Petersburg,5,4
+2024/25,2024-09-05,Regular season,HC Salavat Yulaev Ufa,Ak Bars Kazan,5,3
+2024/25,2024-09-05,Regular season,Lada Togliatti,Lokomotiv Yaroslavl,0,3
+2024/25,2024-09-06,Regular season,Dynamo Moskva,Severstal Cherepovets,3,1
+2024/25,2024-09-06,Regular season,HC Avangard Omsk,HC Neftekhimik Nizhnekamsk,4,2
+2024/25,2024-09-06,Regular season,Barys Astana,HC Traktor Chelyabinsk,1,4
+2024/25,2024-09-06,Regular season,Avtomobilist Yekaterinburg,HC Sibir Novosibirsk,4,0
+2024/25,2024-09-06,Regular season,Shanghai Dragons,HC Admiral Vladivostok,5,4
+2024/25,2024-09-07,Regular season,Vityaz Moscow Region,Amur Khabarovsk,2,0
+2024/25,2024-09-07,Regular season,HC Spartak Moskva,HK Sochi,1,2
+2024/25,2024-09-07,Regular season,Lada Togliatti,SKA St. Petersburg,1,3
+2024/25,2024-09-07,Regular season,Torpedo Nizhny Novgorod,Ak Bars Kazan,2,3
+2024/25,2024-09-08,Regular season,HC Salavat Yulaev Ufa,HC Traktor Chelyabinsk,2,1
+2024/25,2024-09-08,Regular season,HC Metallurg Magnitogorsk,HC Neftekhimik Nizhnekamsk,0,2
+2024/25,2024-09-08,Regular season,Shanghai Dragons,Severstal Cherepovets,2,4
+2024/25,2024-09-08,Regular season,CSKA Moskva,HC Admiral Vladivostok,6,2
+2024/25,2024-09-09,Regular season,Torpedo Nizhny Novgorod,Avtomobilist Yekaterinburg,3,1
+2024/25,2024-09-09,Regular season,Lokomotiv Yaroslavl,SKA St. Petersburg,2,0
+2024/25,2024-09-09,Regular season,HC Spartak Moskva,Dinamo Minsk,5,2
+2024/25,2024-09-09,Regular season,Vityaz Moscow Region,HK Sochi,5,4
+2024/25,2024-09-09,Regular season,Barys Astana,Amur Khabarovsk,1,5
+2024/25,2024-09-09,Regular season,HC Avangard Omsk,Ak Bars Kazan,4,1
+2024/25,2024-09-10,Regular season,Lada Togliatti,Dynamo Moskva,6,3
+2024/25,2024-09-10,Regular season,CSKA Moskva,HC Sibir Novosibirsk,8,2
+2024/25,2024-09-11,Regular season,HC Avangard Omsk,Amur Khabarovsk,2,3
+2024/25,2024-09-11,Regular season,HC Salavat Yulaev Ufa,Avtomobilist Yekaterinburg,5,3
+2024/25,2024-09-11,Regular season,Vityaz Moscow Region,Dinamo Minsk,1,5
+2024/25,2024-09-12,Regular season,CSKA Moskva,Torpedo Nizhny Novgorod,3,4
+2024/25,2024-09-12,Regular season,Shanghai Dragons,Lokomotiv Yaroslavl,2,6
+2024/25,2024-09-12,Regular season,HC Spartak Moskva,Dynamo Moskva,4,2
+2024/25,2024-09-12,Regular season,SKA St. Petersburg,HC Traktor Chelyabinsk,0,3
+2024/25,2024-09-12,Regular season,HC Neftekhimik Nizhnekamsk,HC Metallurg Magnitogorsk,3,2
+2024/25,2024-09-12,Regular season,Severstal Cherepovets,HC Sibir Novosibirsk,2,5
+2024/25,2024-09-13,Regular season,Barys Astana,Dinamo Minsk,1,5
+2024/25,2024-09-13,Regular season,Vityaz Moscow Region,Lada Togliatti,1,2
+2024/25,2024-09-14,Regular season,Ak Bars Kazan,HC Metallurg Magnitogorsk,2,0
+2024/25,2024-09-14,Regular season,HC Spartak Moskva,Torpedo Nizhny Novgorod,4,2
+2024/25,2024-09-14,Regular season,HC Neftekhimik Nizhnekamsk,Lokomotiv Yaroslavl,1,0
+2024/25,2024-09-14,Regular season,Severstal Cherepovets,CSKA Moskva,4,2
+2024/25,2024-09-14,Regular season,Avtomobilist Yekaterinburg,HC Salavat Yulaev Ufa,6,1
+2024/25,2024-09-14,Regular season,HK Sochi,HC Traktor Chelyabinsk,1,4
+2024/25,2024-09-15,Regular season,Amur Khabarovsk,Shanghai Dragons,2,3
+2024/25,2024-09-15,Regular season,HC Sibir Novosibirsk,HC Avangard Omsk,4,1
+2024/25,2024-09-15,Regular season,SKA St. Petersburg,Lada Togliatti,4,3
+2024/25,2024-09-15,Regular season,Dynamo Moskva,Dinamo Minsk,6,3
+2024/25,2024-09-16,Regular season,Severstal Cherepovets,HC Metallurg Magnitogorsk,5,2
+2024/25,2024-09-16,Regular season,HK Sochi,Torpedo Nizhny Novgorod,5,3
+2024/25,2024-09-17,Regular season,Lokomotiv Yaroslavl,Lada Togliatti,2,1
+2024/25,2024-09-17,Regular season,CSKA Moskva,Dynamo Moskva,3,1
+2024/25,2024-09-17,Regular season,Avtomobilist Yekaterinburg,Barys Astana,1,2
+2024/25,2024-09-17,Regular season,HC Salavat Yulaev Ufa,HC Avangard Omsk,4,2
+2024/25,2024-09-17,Regular season,HC Sibir Novosibirsk,HC Neftekhimik Nizhnekamsk,5,2
+2024/25,2024-09-17,Regular season,HC Admiral Vladivostok,Shanghai Dragons,7,1
+2024/25,2024-09-18,Regular season,Severstal Cherepovets,Torpedo Nizhny Novgorod,5,4
+2024/25,2024-09-19,Regular season,HC Sibir Novosibirsk,Shanghai Dragons,3,1
+2024/25,2024-09-19,Regular season,HC Traktor Chelyabinsk,HC Neftekhimik Nizhnekamsk,3,2
+2024/25,2024-09-19,Regular season,Ak Bars Kazan,Barys Astana,5,0
+2024/25,2024-09-19,Regular season,HK Sochi,SKA St. Petersburg,4,7
+2024/25,2024-09-19,Regular season,CSKA Moskva,Vityaz Moscow Region,3,2
+2024/25,2024-09-20,Regular season,HC Avangard Omsk,Avtomobilist Yekaterinburg,0,3
+2024/25,2024-09-20,Regular season,HC Admiral Vladivostok,Dynamo Moskva,4,1
+2024/25,2024-09-21,Regular season,HC Sibir Novosibirsk,HC Spartak Moskva,3,1
+2024/25,2024-09-21,Regular season,HC Metallurg Magnitogorsk,HC Neftekhimik Nizhnekamsk,1,0
+2024/25,2024-09-21,Regular season,Vityaz Moscow Region,Barys Astana,4,1
+2024/25,2024-09-21,Regular season,Torpedo Nizhny Novgorod,SKA St. Petersburg,3,4
+2024/25,2024-09-21,Regular season,Lokomotiv Yaroslavl,HC Salavat Yulaev Ufa,2,3
+2024/25,2024-09-21,Regular season,Dinamo Minsk,Severstal Cherepovets,3,1
+2024/25,2024-09-22,Regular season,Lada Togliatti,Avtomobilist Yekaterinburg,0,1
+2024/25,2024-09-22,Regular season,Ak Bars Kazan,HK Sochi,5,2
+2024/25,2024-09-22,Regular season,HC Admiral Vladivostok,CSKA Moskva,3,2
+2024/25,2024-09-22,Regular season,Amur Khabarovsk,Dynamo Moskva,1,2
+2024/25,2024-09-23,Regular season,HC Traktor Chelyabinsk,HC Spartak Moskva,2,3
+2024/25,2024-09-23,Regular season,HC Metallurg Magnitogorsk,HC Salavat Yulaev Ufa,5,3
+2024/25,2024-09-23,Regular season,SKA St. Petersburg,HC Avangard Omsk,4,1
+2024/25,2024-09-23,Regular season,Lokomotiv Yaroslavl,Severstal Cherepovets,4,1
+2024/25,2024-09-24,Regular season,Amur Khabarovsk,CSKA Moskva,0,3
+2024/25,2024-09-24,Regular season,HC Admiral Vladivostok,Vityaz Moscow Region,6,3
+2024/25,2024-09-24,Regular season,Barys Astana,Dynamo Moskva,1,3
+2024/25,2024-09-24,Regular season,HC Neftekhimik Nizhnekamsk,Avtomobilist Yekaterinburg,1,2
+2024/25,2024-09-24,Regular season,Shanghai Dragons,Torpedo Nizhny Novgorod,2,4
+2024/25,2024-09-24,Regular season,HC Sibir Novosibirsk,HK Sochi,4,2
+2024/25,2024-09-25,Regular season,HC Traktor Chelyabinsk,HC Salavat Yulaev Ufa,3,5
+2024/25,2024-09-25,Regular season,HC Metallurg Magnitogorsk,HC Spartak Moskva,3,4
+2024/25,2024-09-25,Regular season,Lada Togliatti,Ak Bars Kazan,3,4
+2024/25,2024-09-25,Regular season,Lokomotiv Yaroslavl,HC Avangard Omsk,3,2
+2024/25,2024-09-26,Regular season,Barys Astana,HK Sochi,1,0
+2024/25,2024-09-26,Regular season,Shanghai Dragons,Dinamo Minsk,1,3
+2024/25,2024-09-26,Regular season,HC Sibir Novosibirsk,Avtomobilist Yekaterinburg,2,4
+2024/25,2024-09-26,Regular season,Amur Khabarovsk,Vityaz Moscow Region,3,2
+2024/25,2024-09-26,Regular season,HC Admiral Vladivostok,Torpedo Nizhny Novgorod,2,4
+2024/25,2024-09-27,Regular season,HC Metallurg Magnitogorsk,Ak Bars Kazan,3,4
+2024/25,2024-09-27,Regular season,HC Traktor Chelyabinsk,HC Avangard Omsk,4,2
+2024/25,2024-09-27,Regular season,Lada Togliatti,HC Neftekhimik Nizhnekamsk,5,4
+2024/25,2024-09-27,Regular season,SKA St. Petersburg,Severstal Cherepovets,8,5
+2024/25,2024-09-28,Regular season,HC Spartak Moskva,CSKA Moskva,3,2
+2024/25,2024-09-28,Regular season,Lokomotiv Yaroslavl,HK Sochi,3,1
+2024/25,2024-09-28,Regular season,Amur Khabarovsk,Torpedo Nizhny Novgorod,2,7
+2024/25,2024-09-28,Regular season,Barys Astana,Vityaz Moscow Region,0,2
+2024/25,2024-09-29,Regular season,Avtomobilist Yekaterinburg,Ak Bars Kazan,2,6
+2024/25,2024-09-29,Regular season,SKA St. Petersburg,Shanghai Dragons,4,5
+2024/25,2024-09-29,Regular season,Dynamo Moskva,HC Neftekhimik Nizhnekamsk,5,4
+2024/25,2024-09-29,Regular season,Dinamo Minsk,Severstal Cherepovets,2,3
+2024/25,2024-09-30,Regular season,HC Avangard Omsk,HC Sibir Novosibirsk,3,2
+2024/25,2024-09-30,Regular season,HC Metallurg Magnitogorsk,Lada Togliatti,2,1
+2024/25,2024-09-30,Regular season,Barys Astana,Torpedo Nizhny Novgorod,1,10
+2024/25,2024-10-01,Regular season,HC Spartak Moskva,HC Traktor Chelyabinsk,2,3
+2024/25,2024-10-01,Regular season,Dynamo Moskva,CSKA Moskva,3,4
+2024/25,2024-10-01,Regular season,HK Sochi,Severstal Cherepovets,1,0
+2024/25,2024-10-01,Regular season,Avtomobilist Yekaterinburg,Lokomotiv Yaroslavl,0,1
+2024/25,2024-10-01,Regular season,Dinamo Minsk,HC Admiral Vladivostok,7,2
+2024/25,2024-10-01,Regular season,HC Salavat Yulaev Ufa,Shanghai Dragons,2,5
+2024/25,2024-10-02,Regular season,Ak Bars Kazan,Amur Khabarovsk,3,2
+2024/25,2024-10-02,Regular season,HC Neftekhimik Nizhnekamsk,Lada Togliatti,3,2
+2024/25,2024-10-03,Regular season,HC Spartak Moskva,Barys Astana,4,2
+2024/25,2024-10-03,Regular season,CSKA Moskva,HC Metallurg Magnitogorsk,0,7
+2024/25,2024-10-03,Regular season,HK Sochi,HC Admiral Vladivostok,5,0
+2024/25,2024-10-03,Regular season,Dynamo Moskva,HC Traktor Chelyabinsk,1,4
+2024/25,2024-10-03,Regular season,Vityaz Moscow Region,Shanghai Dragons,7,2
+2024/25,2024-10-03,Regular season,HC Avangard Omsk,Lokomotiv Yaroslavl,3,5
+2024/25,2024-10-03,Regular season,Dinamo Minsk,SKA St. Petersburg,0,3
+2024/25,2024-10-04,Regular season,Ak Bars Kazan,Amur Khabarovsk,1,2
+2024/25,2024-10-05,Regular season,CSKA Moskva,HC Traktor Chelyabinsk,0,4
+2024/25,2024-10-05,Regular season,HC Avangard Omsk,Barys Astana,4,0
+2024/25,2024-10-05,Regular season,Lada Togliatti,HC Admiral Vladivostok,1,0
+2024/25,2024-10-05,Regular season,Avtomobilist Yekaterinburg,HC Sibir Novosibirsk,0,4
+2024/25,2024-10-05,Regular season,Severstal Cherepovets,SKA St. Petersburg,4,3
+2024/25,2024-10-05,Regular season,HC Spartak Moskva,HC Metallurg Magnitogorsk,2,5
+2024/25,2024-10-06,Regular season,HK Sochi,Dinamo Minsk,3,2
+2024/25,2024-10-06,Regular season,HC Neftekhimik Nizhnekamsk,Amur Khabarovsk,4,1
+2024/25,2024-10-06,Regular season,Vityaz Moscow Region,Dynamo Moskva,0,3
+2024/25,2024-10-07,Regular season,Avtomobilist Yekaterinburg,Barys Astana,4,3
+2024/25,2024-10-07,Regular season,Lada Togliatti,HC Admiral Vladivostok,0,2
+2024/25,2024-10-07,Regular season,Ak Bars Kazan,HC Sibir Novosibirsk,3,6
+2024/25,2024-10-07,Regular season,Torpedo Nizhny Novgorod,Shanghai Dragons,4,0
+2024/25,2024-10-07,Regular season,Lokomotiv Yaroslavl,SKA St. Petersburg,3,4
+2024/25,2024-10-08,Regular season,HK Sochi,Vityaz Moscow Region,2,4
+2024/25,2024-10-08,Regular season,HC Metallurg Magnitogorsk,Dynamo Moskva,5,3
+2024/25,2024-10-08,Regular season,HC Neftekhimik Nizhnekamsk,Amur Khabarovsk,4,3
+2024/25,2024-10-08,Regular season,CSKA Moskva,HC Salavat Yulaev Ufa,2,0
+2024/25,2024-10-08,Regular season,Severstal Cherepovets,Dinamo Minsk,3,2
+2024/25,2024-10-09,Regular season,HC Traktor Chelyabinsk,HC Admiral Vladivostok,2,0
+2024/25,2024-10-09,Regular season,Lada Togliatti,HC Sibir Novosibirsk,4,3
+2024/25,2024-10-09,Regular season,Lokomotiv Yaroslavl,Shanghai Dragons,3,2
+2024/25,2024-10-10,Regular season,HC Spartak Moskva,HC Salavat Yulaev Ufa,2,5
+2024/25,2024-10-10,Regular season,SKA St. Petersburg,Dinamo Minsk,2,4
+2024/25,2024-10-10,Regular season,HK Sochi,Vityaz Moscow Region,2,3
+2024/25,2024-10-10,Regular season,Barys Astana,HC Avangard Omsk,1,0
+2024/25,2024-10-10,Regular season,CSKA Moskva,Avtomobilist Yekaterinburg,3,4
+2024/25,2024-10-10,Regular season,HC Metallurg Magnitogorsk,Torpedo Nizhny Novgorod,4,5
+2024/25,2024-10-11,Regular season,Severstal Cherepovets,Shanghai Dragons,0,3
+2024/25,2024-10-11,Regular season,HC Neftekhimik Nizhnekamsk,HC Sibir Novosibirsk,1,2
+2024/25,2024-10-12,Regular season,HC Traktor Chelyabinsk,Torpedo Nizhny Novgorod,5,4
+2024/25,2024-10-12,Regular season,HC Spartak Moskva,Ak Bars Kazan,3,0
+2024/25,2024-10-12,Regular season,HC Metallurg Magnitogorsk,HC Avangard Omsk,4,2
+2024/25,2024-10-12,Regular season,Dynamo Moskva,HC Salavat Yulaev Ufa,4,2
+2024/25,2024-10-12,Regular season,HK Sochi,Lokomotiv Yaroslavl,1,2
+2024/25,2024-10-12,Regular season,SKA St. Petersburg,Avtomobilist Yekaterinburg,5,2
+2024/25,2024-10-13,Regular season,Amur Khabarovsk,Lada Togliatti,2,0
+2024/25,2024-10-14,Regular season,Dynamo Moskva,HC Spartak Moskva,5,0
+2024/25,2024-10-14,Regular season,Vityaz Moscow Region,Lokomotiv Yaroslavl,2,1
+2024/25,2024-10-14,Regular season,HC Metallurg Magnitogorsk,Ak Bars Kazan,0,5
+2024/25,2024-10-14,Regular season,HC Traktor Chelyabinsk,HC Avangard Omsk,1,3
+2024/25,2024-10-15,Regular season,Amur Khabarovsk,Lada Togliatti,3,5
+2024/25,2024-10-15,Regular season,HC Admiral Vladivostok,Severstal Cherepovets,5,6
+2024/25,2024-10-15,Regular season,Dinamo Minsk,CSKA Moskva,5,4
+2024/25,2024-10-15,Regular season,SKA St. Petersburg,HC Neftekhimik Nizhnekamsk,3,2
+2024/25,2024-10-16,Regular season,HC Traktor Chelyabinsk,Ak Bars Kazan,3,1
+2024/25,2024-10-16,Regular season,Barys Astana,HC Salavat Yulaev Ufa,2,3
+2024/25,2024-10-16,Regular season,Shanghai Dragons,Lokomotiv Yaroslavl,1,5
+2024/25,2024-10-17,Regular season,SKA St. Petersburg,CSKA Moskva,5,4
+2024/25,2024-10-17,Regular season,Vityaz Moscow Region,Avtomobilist Yekaterinburg,1,3
+2024/25,2024-10-17,Regular season,Dinamo Minsk,HC Metallurg Magnitogorsk,0,2
+2024/25,2024-10-17,Regular season,Torpedo Nizhny Novgorod,HC Neftekhimik Nizhnekamsk,5,4
+2024/25,2024-10-17,Regular season,HC Avangard Omsk,HC Spartak Moskva,5,6
+2024/25,2024-10-17,Regular season,HC Admiral Vladivostok,Lada Togliatti,1,6
+2024/25,2024-10-17,Regular season,Amur Khabarovsk,Severstal Cherepovets,1,2
+2024/25,2024-10-18,Regular season,HC Traktor Chelyabinsk,HC Salavat Yulaev Ufa,4,2
+2024/25,2024-10-18,Regular season,Shanghai Dragons,HK Sochi,0,4
+2024/25,2024-10-19,Regular season,Lokomotiv Yaroslavl,Barys Astana,3,1
+2024/25,2024-10-19,Regular season,HC Admiral Vladivostok,Lada Togliatti,5,3
+2024/25,2024-10-19,Regular season,Amur Khabarovsk,HC Spartak Moskva,4,5
+2024/25,2024-10-19,Regular season,HC Sibir Novosibirsk,Severstal Cherepovets,2,4
+2024/25,2024-10-19,Regular season,Vityaz Moscow Region,HC Metallurg Magnitogorsk,2,0
+2024/25,2024-10-19,Regular season,Torpedo Nizhny Novgorod,Dynamo Moskva,2,3
+2024/25,2024-10-19,Regular season,Dinamo Minsk,HC Neftekhimik Nizhnekamsk,4,1
+2024/25,2024-10-20,Regular season,CSKA Moskva,HK Sochi,3,4
+2024/25,2024-10-21,Regular season,Dinamo Minsk,Barys Astana,1,2
+2024/25,2024-10-21,Regular season,Vityaz Moscow Region,SKA St. Petersburg,1,8
+2024/25,2024-10-21,Regular season,Lokomotiv Yaroslavl,Dynamo Moskva,4,3
+2024/25,2024-10-21,Regular season,Shanghai Dragons,HC Metallurg Magnitogorsk,2,4
+2024/25,2024-10-21,Regular season,HC Admiral Vladivostok,HC Spartak Moskva,4,3
+2024/25,2024-10-21,Regular season,HC Sibir Novosibirsk,HC Traktor Chelyabinsk,4,5
+2024/25,2024-10-22,Regular season,HC Neftekhimik Nizhnekamsk,Torpedo Nizhny Novgorod,1,3
+2024/25,2024-10-22,Regular season,HC Salavat Yulaev Ufa,HK Sochi,3,2
+2024/25,2024-10-23,Regular season,Shanghai Dragons,SKA St. Petersburg,0,8
+2024/25,2024-10-23,Regular season,CSKA Moskva,Amur Khabarovsk,7,0
+2024/25,2024-10-23,Regular season,Avtomobilist Yekaterinburg,Dynamo Moskva,1,2
+2024/25,2024-10-23,Regular season,HC Sibir Novosibirsk,Barys Astana,1,3
+2024/25,2024-10-23,Regular season,HC Avangard Omsk,HC Traktor Chelyabinsk,3,4
+2024/25,2024-10-24,Regular season,HC Neftekhimik Nizhnekamsk,HK Sochi,2,1
+2024/25,2024-10-24,Regular season,HC Salavat Yulaev Ufa,Torpedo Nizhny Novgorod,5,4
+2024/25,2024-10-25,Regular season,Shanghai Dragons,CSKA Moskva,3,4
+2024/25,2024-10-25,Regular season,Lada Togliatti,HC Traktor Chelyabinsk,1,2
+2024/25,2024-10-25,Regular season,Lokomotiv Yaroslavl,Amur Khabarovsk,5,0
+2024/25,2024-10-25,Regular season,Ak Bars Kazan,HC Admiral Vladivostok,2,0
+2024/25,2024-10-25,Regular season,Dinamo Minsk,Vityaz Moscow Region,2,1
+2024/25,2024-10-25,Regular season,HC Spartak Moskva,SKA St. Petersburg,2,5
+2024/25,2024-10-26,Regular season,HC Neftekhimik Nizhnekamsk,Avtomobilist Yekaterinburg,2,3
+2024/25,2024-10-27,Regular season,HC Avangard Omsk,HC Metallurg Magnitogorsk,3,2
+2024/25,2024-10-27,Regular season,Torpedo Nizhny Novgorod,Vityaz Moscow Region,1,2
+2024/25,2024-10-27,Regular season,Severstal Cherepovets,Amur Khabarovsk,3,0
+2024/25,2024-10-27,Regular season,Ak Bars Kazan,HC Admiral Vladivostok,4,2
+2024/25,2024-10-27,Regular season,Lokomotiv Yaroslavl,Dinamo Minsk,3,2
+2024/25,2024-10-28,Regular season,HC Traktor Chelyabinsk,Avtomobilist Yekaterinburg,4,5
+2024/25,2024-10-28,Regular season,SKA St. Petersburg,HC Sibir Novosibirsk,6,3
+2024/25,2024-10-29,Regular season,Ak Bars Kazan,HC Metallurg Magnitogorsk,4,1
+2024/25,2024-10-29,Regular season,HC Neftekhimik Nizhnekamsk,Lada Togliatti,0,3
+2024/25,2024-10-29,Regular season,Dynamo Moskva,Amur Khabarovsk,1,0
+2024/25,2024-10-29,Regular season,HC Spartak Moskva,Vityaz Moscow Region,4,3
+2024/25,2024-10-29,Regular season,Torpedo Nizhny Novgorod,CSKA Moskva,1,3
+2024/25,2024-10-29,Regular season,Barys Astana,Shanghai Dragons,0,2
+2024/25,2024-10-29,Regular season,HC Salavat Yulaev Ufa,HC Admiral Vladivostok,2,1
+2024/25,2024-10-29,Regular season,Severstal Cherepovets,Dinamo Minsk,5,2
+2024/25,2024-10-30,Regular season,HC Traktor Chelyabinsk,HC Sibir Novosibirsk,5,0
+2024/25,2024-10-30,Regular season,SKA St. Petersburg,Lokomotiv Yaroslavl,2,3
+2024/25,2024-10-31,Regular season,Dynamo Moskva,Vityaz Moscow Region,2,1
+2024/25,2024-10-31,Regular season,HC Avangard Omsk,Lada Togliatti,1,3
+2024/25,2024-10-31,Regular season,HC Salavat Yulaev Ufa,HC Admiral Vladivostok,2,4
+2024/25,2024-10-31,Regular season,Torpedo Nizhny Novgorod,Dinamo Minsk,2,5
+2024/25,2024-11-01,Regular season,Avtomobilist Yekaterinburg,HC Neftekhimik Nizhnekamsk,3,2
+2024/25,2024-11-01,Regular season,HC Metallurg Magnitogorsk,HC Sibir Novosibirsk,3,4
+2024/25,2024-11-01,Regular season,Severstal Cherepovets,Shanghai Dragons,7,2
+2024/25,2024-11-01,Regular season,Ak Bars Kazan,Lokomotiv Yaroslavl,2,3
+2024/25,2024-11-02,Regular season,HC Salavat Yulaev Ufa,SKA St. Petersburg,4,2
+2024/25,2024-11-02,Regular season,HK Sochi,HC Spartak Moskva,0,4
+2024/25,2024-11-02,Regular season,Amur Khabarovsk,HC Admiral Vladivostok,0,5
+2024/25,2024-11-03,Regular season,Barys Astana,HC Neftekhimik Nizhnekamsk,2,1
+2024/25,2024-11-03,Regular season,HC Traktor Chelyabinsk,Lokomotiv Yaroslavl,3,5
+2024/25,2024-11-04,Regular season,Dinamo Minsk,Vityaz Moscow Region,1,4
+2024/25,2024-11-04,Regular season,Dynamo Moskva,Torpedo Nizhny Novgorod,4,5
+2024/25,2024-11-04,Regular season,HK Sochi,HC Spartak Moskva,1,3
+2024/25,2024-11-04,Regular season,Shanghai Dragons,SKA St. Petersburg,2,1
+2024/25,2024-11-05,Regular season,HC Sibir Novosibirsk,HC Salavat Yulaev Ufa,2,3
+2024/25,2024-11-05,Regular season,Amur Khabarovsk,HC Avangard Omsk,1,2
+2024/25,2024-11-05,Regular season,HC Admiral Vladivostok,HC Metallurg Magnitogorsk,2,3
+2024/25,2024-11-05,Regular season,Barys Astana,Ak Bars Kazan,1,2
+2024/25,2024-11-06,Regular season,Lokomotiv Yaroslavl,Torpedo Nizhny Novgorod,2,1
+2024/25,2024-11-06,Regular season,Dynamo Moskva,Vityaz Moscow Region,4,3
+2024/25,2024-11-07,Regular season,Amur Khabarovsk,HC Metallurg Magnitogorsk,1,2
+2024/25,2024-11-07,Regular season,HC Admiral Vladivostok,HC Avangard Omsk,3,2
+2024/25,2024-11-07,Regular season,Barys Astana,Avtomobilist Yekaterinburg,1,3
+2024/25,2024-11-07,Regular season,Dinamo Minsk,HC Salavat Yulaev Ufa,3,2
+2024/25,2024-11-07,Regular season,SKA St. Petersburg,HK Sochi,2,5
+2024/25,2024-11-07,Regular season,HC Neftekhimik Nizhnekamsk,Ak Bars Kazan,1,4
+2024/25,2024-11-07,Regular season,CSKA Moskva,HC Spartak Moskva,1,2
+2024/25,2024-11-08,Regular season,Shanghai Dragons,Severstal Cherepovets,3,4
+2024/25,2024-11-08,Regular season,Dynamo Moskva,Lada Togliatti,2,3
+2024/25,2024-11-09,Regular season,Torpedo Nizhny Novgorod,HC Salavat Yulaev Ufa,2,3
+2024/25,2024-11-09,Regular season,HC Admiral Vladivostok,HC Traktor Chelyabinsk,4,3
+2024/25,2024-11-09,Regular season,Amur Khabarovsk,Avtomobilist Yekaterinburg,2,3
+2024/25,2024-11-09,Regular season,HC Sibir Novosibirsk,HC Metallurg Magnitogorsk,1,4
+2024/25,2024-11-09,Regular season,Lokomotiv Yaroslavl,Ak Bars Kazan,2,1
+2024/25,2024-11-09,Regular season,Vityaz Moscow Region,HK Sochi,1,3
+2024/25,2024-11-10,Regular season,Shanghai Dragons,HC Spartak Moskva,1,5
+2024/25,2024-11-10,Regular season,Dinamo Minsk,Severstal Cherepovets,3,1
+2024/25,2024-11-10,Regular season,CSKA Moskva,Lada Togliatti,4,1
+2024/25,2024-11-11,Regular season,Amur Khabarovsk,HC Traktor Chelyabinsk,3,4
+2024/25,2024-11-11,Regular season,HC Admiral Vladivostok,Avtomobilist Yekaterinburg,3,4
+2024/25,2024-11-11,Regular season,HC Avangard Omsk,SKA St. Petersburg,2,1
+2024/25,2024-11-11,Regular season,Torpedo Nizhny Novgorod,HK Sochi,7,1
+2024/25,2024-11-11,Regular season,HC Neftekhimik Nizhnekamsk,Barys Astana,4,1
+2024/25,2024-11-12,Regular season,HC Salavat Yulaev Ufa,Lada Togliatti,3,1
+2024/25,2024-11-12,Regular season,HC Spartak Moskva,Lokomotiv Yaroslavl,0,2
+2024/25,2024-11-12,Regular season,Vityaz Moscow Region,Severstal Cherepovets,2,0
+2024/25,2024-11-13,Regular season,Ak Bars Kazan,Shanghai Dragons,5,0
+2024/25,2024-11-13,Regular season,HC Sibir Novosibirsk,SKA St. Petersburg,0,1
+2024/25,2024-11-13,Regular season,HC Avangard Omsk,Dynamo Moskva,3,5
+2024/25,2024-11-13,Regular season,HC Metallurg Magnitogorsk,HC Traktor Chelyabinsk,0,4
+2024/25,2024-11-13,Regular season,HC Neftekhimik Nizhnekamsk,Barys Astana,1,2
+2024/25,2024-11-13,Regular season,Dinamo Minsk,Torpedo Nizhny Novgorod,1,2
+2024/25,2024-11-14,Regular season,CSKA Moskva,Lokomotiv Yaroslavl,2,0
+2024/25,2024-11-14,Regular season,HC Spartak Moskva,Severstal Cherepovets,4,1
+2024/25,2024-11-15,Regular season,Vityaz Moscow Region,Dinamo Minsk,4,6
+2024/25,2024-11-15,Regular season,Ak Bars Kazan,SKA St. Petersburg,3,2
+2024/25,2024-11-15,Regular season,HK Sochi,Shanghai Dragons,6,5
+2024/25,2024-11-15,Regular season,HC Sibir Novosibirsk,Dynamo Moskva,1,2
+2024/25,2024-11-15,Regular season,HC Salavat Yulaev Ufa,Barys Astana,4,1
+2024/25,2024-11-16,Regular season,HC Avangard Omsk,HC Neftekhimik Nizhnekamsk,3,2
+2024/25,2024-11-16,Regular season,Avtomobilist Yekaterinburg,HC Admiral Vladivostok,1,0
+2024/25,2024-11-16,Regular season,Torpedo Nizhny Novgorod,Lokomotiv Yaroslavl,0,1
+2024/25,2024-11-16,Regular season,Lada Togliatti,HC Metallurg Magnitogorsk,1,2
+2024/25,2024-11-17,Regular season,Shanghai Dragons,Dinamo Minsk,3,0
+2024/25,2024-11-17,Regular season,Severstal Cherepovets,Vityaz Moscow Region,1,7
+2024/25,2024-11-17,Regular season,HK Sochi,Barys Astana,3,6
+2024/25,2024-11-17,Regular season,HC Traktor Chelyabinsk,Dynamo Moskva,3,4
+2024/25,2024-11-17,Regular season,Ak Bars Kazan,CSKA Moskva,0,3
+2024/25,2024-11-18,Regular season,Avtomobilist Yekaterinburg,HC Neftekhimik Nizhnekamsk,1,3
+2024/25,2024-11-18,Regular season,HC Salavat Yulaev Ufa,HC Metallurg Magnitogorsk,2,3
+2024/25,2024-11-18,Regular season,SKA St. Petersburg,Amur Khabarovsk,6,3
+2024/25,2024-11-18,Regular season,HC Spartak Moskva,HC Admiral Vladivostok,6,1
+2024/25,2024-11-19,Regular season,HC Avangard Omsk,Dinamo Minsk,2,5
+2024/25,2024-11-19,Regular season,Lada Togliatti,CSKA Moskva,1,4
+2024/25,2024-11-19,Regular season,Lokomotiv Yaroslavl,Vityaz Moscow Region,2,1
+2024/25,2024-11-20,Regular season,Severstal Cherepovets,HC Admiral Vladivostok,2,1
+2024/25,2024-11-20,Regular season,Ak Bars Kazan,HC Neftekhimik Nizhnekamsk,2,0
+2024/25,2024-11-20,Regular season,HC Spartak Moskva,Amur Khabarovsk,7,3
+2024/25,2024-11-20,Regular season,Barys Astana,HC Metallurg Magnitogorsk,2,1
+2024/25,2024-11-20,Regular season,Dynamo Moskva,HC Sibir Novosibirsk,4,2
+2024/25,2024-11-21,Regular season,HC Traktor Chelyabinsk,CSKA Moskva,5,2
+2024/25,2024-11-21,Regular season,Avtomobilist Yekaterinburg,Shanghai Dragons,1,2
+2024/25,2024-11-21,Regular season,Lada Togliatti,HC Salavat Yulaev Ufa,1,2
+2024/25,2024-11-21,Regular season,SKA St. Petersburg,Torpedo Nizhny Novgorod,4,1
+2024/25,2024-11-22,Regular season,Dinamo Minsk,Dynamo Moskva,3,4
+2024/25,2024-11-22,Regular season,HC Avangard Omsk,HC Admiral Vladivostok,2,1
+2024/25,2024-11-22,Regular season,Barys Astana,Amur Khabarovsk,0,3
+2024/25,2024-11-22,Regular season,HK Sochi,HC Sibir Novosibirsk,2,4
+2024/25,2024-11-23,Regular season,HC Traktor Chelyabinsk,Shanghai Dragons,1,4
+2024/25,2024-11-23,Regular season,HC Spartak Moskva,Vityaz Moscow Region,5,4
+2024/25,2024-11-23,Regular season,Severstal Cherepovets,Ak Bars Kazan,7,5
+2024/25,2024-11-23,Regular season,Lokomotiv Yaroslavl,Torpedo Nizhny Novgorod,0,3
+2024/25,2024-11-23,Regular season,HC Neftekhimik Nizhnekamsk,HC Salavat Yulaev Ufa,4,2
+2024/25,2024-11-24,Regular season,HC Admiral Vladivostok,Amur Khabarovsk,5,3
+2024/25,2024-11-24,Regular season,Dinamo Minsk,Avtomobilist Yekaterinburg,2,3
+2024/25,2024-11-24,Regular season,Barys Astana,HC Avangard Omsk,2,3
+2024/25,2024-11-24,Regular season,HC Metallurg Magnitogorsk,HC Sibir Novosibirsk,3,1
+2024/25,2024-11-25,Regular season,Severstal Cherepovets,HC Salavat Yulaev Ufa,0,2
+2024/25,2024-11-25,Regular season,HC Spartak Moskva,Torpedo Nizhny Novgorod,0,6
+2024/25,2024-11-25,Regular season,HK Sochi,Lada Togliatti,3,2
+2024/25,2024-11-25,Regular season,CSKA Moskva,Ak Bars Kazan,1,2
+2024/25,2024-11-25,Regular season,HC Neftekhimik Nizhnekamsk,Shanghai Dragons,1,3
+2024/25,2024-11-26,Regular season,HC Metallurg Magnitogorsk,HC Avangard Omsk,1,2
+2024/25,2024-11-26,Regular season,Dynamo Moskva,Lokomotiv Yaroslavl,3,0
+2024/25,2024-11-26,Regular season,Dinamo Minsk,HC Traktor Chelyabinsk,3,4
+2024/25,2024-11-27,Regular season,HC Sibir Novosibirsk,Barys Astana,2,0
+2024/25,2024-11-27,Regular season,Severstal Cherepovets,Lada Togliatti,0,3
+2024/25,2024-11-27,Regular season,HK Sochi,Ak Bars Kazan,2,3
+2024/25,2024-11-28,Regular season,Lokomotiv Yaroslavl,HC Traktor Chelyabinsk,4,2
+2024/25,2024-11-28,Regular season,Dynamo Moskva,CSKA Moskva,0,1
+2024/25,2024-11-28,Regular season,HC Neftekhimik Nizhnekamsk,HC Spartak Moskva,4,3
+2024/25,2024-11-28,Regular season,HC Admiral Vladivostok,SKA St. Petersburg,3,2
+2024/25,2024-11-28,Regular season,Avtomobilist Yekaterinburg,HC Avangard Omsk,4,2
+2024/25,2024-11-28,Regular season,HC Salavat Yulaev Ufa,Vityaz Moscow Region,4,0
+2024/25,2024-11-29,Regular season,Shanghai Dragons,Lada Togliatti,1,2
+2024/25,2024-11-29,Regular season,HC Metallurg Magnitogorsk,Barys Astana,2,0
+2024/25,2024-11-30,Regular season,HC Salavat Yulaev Ufa,HC Spartak Moskva,5,1
+2024/25,2024-11-30,Regular season,Amur Khabarovsk,SKA St. Petersburg,5,7
+2024/25,2024-11-30,Regular season,Avtomobilist Yekaterinburg,HC Traktor Chelyabinsk,3,5
+2024/25,2024-11-30,Regular season,HC Admiral Vladivostok,HK Sochi,4,3
+2024/25,2024-12-01,Regular season,CSKA Moskva,Barys Astana,3,1
+2024/25,2024-12-01,Regular season,HC Avangard Omsk,Severstal Cherepovets,2,4
+2024/25,2024-12-01,Regular season,Shanghai Dragons,Dynamo Moskva,4,5
+2024/25,2024-12-02,Regular season,Amur Khabarovsk,HK Sochi,2,1
+2024/25,2024-12-02,Regular season,HC Admiral Vladivostok,Lokomotiv Yaroslavl,0,3
+2024/25,2024-12-02,Regular season,HC Sibir Novosibirsk,Dinamo Minsk,4,5
+2024/25,2024-12-02,Regular season,HC Salavat Yulaev Ufa,HC Traktor Chelyabinsk,4,1
+2024/25,2024-12-02,Regular season,Avtomobilist Yekaterinburg,HC Spartak Moskva,4,5
+2024/25,2024-12-02,Regular season,Vityaz Moscow Region,HC Neftekhimik Nizhnekamsk,4,3
+2024/25,2024-12-03,Regular season,Torpedo Nizhny Novgorod,HC Metallurg Magnitogorsk,3,5
+2024/25,2024-12-03,Regular season,Ak Bars Kazan,Dynamo Moskva,5,4
+2024/25,2024-12-03,Regular season,Lada Togliatti,Severstal Cherepovets,1,0
+2024/25,2024-12-04,Regular season,Amur Khabarovsk,Lokomotiv Yaroslavl,3,4
+2024/25,2024-12-04,Regular season,HC Admiral Vladivostok,Dinamo Minsk,4,0
+2024/25,2024-12-04,Regular season,HC Avangard Omsk,HK Sochi,6,0
+2024/25,2024-12-04,Regular season,Barys Astana,HC Spartak Moskva,2,4
+2024/25,2024-12-04,Regular season,Shanghai Dragons,HC Neftekhimik Nizhnekamsk,2,5
+2024/25,2024-12-04,Regular season,Vityaz Moscow Region,CSKA Moskva,1,2
+2024/25,2024-12-05,Regular season,SKA St. Petersburg,Dynamo Moskva,2,4
+2024/25,2024-12-05,Regular season,Lada Togliatti,HC Metallurg Magnitogorsk,0,4
+2024/25,2024-12-05,Regular season,HC Traktor Chelyabinsk,Avtomobilist Yekaterinburg,3,1
+2024/25,2024-12-06,Regular season,Amur Khabarovsk,Dinamo Minsk,2,5
+2024/25,2024-12-06,Regular season,HC Salavat Yulaev Ufa,HC Sibir Novosibirsk,3,1
+2024/25,2024-12-06,Regular season,Severstal Cherepovets,Barys Astana,5,3
+2024/25,2024-12-06,Regular season,Vityaz Moscow Region,Ak Bars Kazan,3,5
+2024/25,2024-12-06,Regular season,Torpedo Nizhny Novgorod,CSKA Moskva,1,2
+2024/25,2024-12-06,Regular season,Shanghai Dragons,HK Sochi,5,3
+2024/25,2024-12-07,Regular season,HC Avangard Omsk,Avtomobilist Yekaterinburg,4,2
+2024/25,2024-12-07,Regular season,Dynamo Moskva,HC Metallurg Magnitogorsk,3,2
+2024/25,2024-12-08,Regular season,Shanghai Dragons,HC Sibir Novosibirsk,5,7
+2024/25,2024-12-08,Regular season,Lokomotiv Yaroslavl,CSKA Moskva,1,2
+2024/25,2024-12-08,Regular season,SKA St. Petersburg,Barys Astana,1,0
+2024/25,2024-12-08,Regular season,Torpedo Nizhny Novgorod,Lada Togliatti,3,2
+2024/25,2024-12-08,Regular season,HC Salavat Yulaev Ufa,Ak Bars Kazan,3,2
+2024/25,2024-12-08,Regular season,Vityaz Moscow Region,HC Spartak Moskva,2,4
+2024/25,2024-12-08,Regular season,Amur Khabarovsk,HC Admiral Vladivostok,4,6
+2024/25,2024-12-08,Regular season,Severstal Cherepovets,HC Traktor Chelyabinsk,2,1
+2024/25,2024-12-17,Regular season,Dynamo Moskva,Barys Astana,0,2
+2024/25,2024-12-17,Regular season,SKA St. Petersburg,Lokomotiv Yaroslavl,2,3
+2024/25,2024-12-17,Regular season,HC Sibir Novosibirsk,HC Avangard Omsk,3,5
+2024/25,2024-12-17,Regular season,Vityaz Moscow Region,Torpedo Nizhny Novgorod,6,5
+2024/25,2024-12-17,Regular season,Amur Khabarovsk,HC Admiral Vladivostok,1,4
+2024/25,2024-12-17,Regular season,CSKA Moskva,Shanghai Dragons,3,2
+2024/25,2024-12-18,Regular season,HC Metallurg Magnitogorsk,Avtomobilist Yekaterinburg,4,2
+2024/25,2024-12-18,Regular season,HC Traktor Chelyabinsk,Dinamo Minsk,1,3
+2024/25,2024-12-18,Regular season,Severstal Cherepovets,HK Sochi,4,2
+2024/25,2024-12-18,Regular season,Ak Bars Kazan,HC Salavat Yulaev Ufa,3,2
+2024/25,2024-12-19,Regular season,Shanghai Dragons,Barys Astana,2,0
+2024/25,2024-12-19,Regular season,SKA St. Petersburg,Torpedo Nizhny Novgorod,6,4
+2024/25,2024-12-19,Regular season,CSKA Moskva,HC Spartak Moskva,5,4
+2024/25,2024-12-19,Regular season,HC Neftekhimik Nizhnekamsk,HC Avangard Omsk,3,4
+2024/25,2024-12-19,Regular season,Dynamo Moskva,HC Admiral Vladivostok,4,2
+2024/25,2024-12-20,Regular season,HC Metallurg Magnitogorsk,HC Salavat Yulaev Ufa,4,2
+2024/25,2024-12-20,Regular season,Lokomotiv Yaroslavl,Avtomobilist Yekaterinburg,1,3
+2024/25,2024-12-20,Regular season,Severstal Cherepovets,HK Sochi,2,1
+2024/25,2024-12-20,Regular season,Ak Bars Kazan,Dinamo Minsk,1,3
+2024/25,2024-12-21,Regular season,Lada Togliatti,HC Avangard Omsk,4,3
+2024/25,2024-12-21,Regular season,SKA St. Petersburg,HC Admiral Vladivostok,3,2
+2024/25,2024-12-21,Regular season,HC Sibir Novosibirsk,Amur Khabarovsk,1,5
+2024/25,2024-12-21,Regular season,HC Traktor Chelyabinsk,Barys Astana,3,2
+2024/25,2024-12-22,Regular season,Severstal Cherepovets,Avtomobilist Yekaterinburg,3,2
+2024/25,2024-12-22,Regular season,CSKA Moskva,HC Neftekhimik Nizhnekamsk,7,4
+2024/25,2024-12-22,Regular season,Lokomotiv Yaroslavl,HK Sochi,3,1
+2024/25,2024-12-22,Regular season,Dinamo Minsk,HC Spartak Moskva,2,3
+2024/25,2024-12-23,Regular season,HC Sibir Novosibirsk,HC Admiral Vladivostok,4,2
+2024/25,2024-12-23,Regular season,HC Metallurg Magnitogorsk,HC Avangard Omsk,2,1
+2024/25,2024-12-23,Regular season,HC Salavat Yulaev Ufa,Amur Khabarovsk,3,0
+2024/25,2024-12-23,Regular season,Dynamo Moskva,Ak Bars Kazan,5,6
+2024/25,2024-12-24,Regular season,Severstal Cherepovets,HC Neftekhimik Nizhnekamsk,4,1
+2024/25,2024-12-24,Regular season,Barys Astana,HC Traktor Chelyabinsk,3,5
+2024/25,2024-12-24,Regular season,Lada Togliatti,HK Sochi,3,4
+2024/25,2024-12-25,Regular season,HC Salavat Yulaev Ufa,Amur Khabarovsk,5,4
+2024/25,2024-12-25,Regular season,Dinamo Minsk,Ak Bars Kazan,5,1
+2024/25,2024-12-25,Regular season,Vityaz Moscow Region,Dynamo Moskva,2,0
+2024/25,2024-12-25,Regular season,CSKA Moskva,SKA St. Petersburg,6,5
+2024/25,2024-12-25,Regular season,Torpedo Nizhny Novgorod,Lokomotiv Yaroslavl,0,5
+2024/25,2024-12-26,Regular season,Barys Astana,HC Sibir Novosibirsk,0,2
+2024/25,2024-12-26,Regular season,Avtomobilist Yekaterinburg,HC Traktor Chelyabinsk,3,1
+2024/25,2024-12-27,Regular season,Vityaz Moscow Region,Lokomotiv Yaroslavl,3,5
+2024/25,2024-12-27,Regular season,Dinamo Minsk,Dynamo Moskva,1,0
+2024/25,2024-12-27,Regular season,Shanghai Dragons,HC Spartak Moskva,4,2
+2024/25,2024-12-27,Regular season,HC Neftekhimik Nizhnekamsk,CSKA Moskva,1,2
+2024/25,2024-12-27,Regular season,HK Sochi,SKA St. Petersburg,4,5
+2024/25,2024-12-28,Regular season,HC Admiral Vladivostok,HC Sibir Novosibirsk,0,1
+2024/25,2024-12-28,Regular season,HC Avangard Omsk,Lada Togliatti,7,6
+2024/25,2024-12-28,Regular season,HC Salavat Yulaev Ufa,Severstal Cherepovets,2,0
+2024/25,2024-12-28,Regular season,Avtomobilist Yekaterinburg,HC Metallurg Magnitogorsk,1,2
+2024/25,2024-12-28,Regular season,Ak Bars Kazan,HC Traktor Chelyabinsk,4,0
+2024/25,2024-12-28,Regular season,Torpedo Nizhny Novgorod,Barys Astana,3,1
+2024/25,2024-12-29,Regular season,Dinamo Minsk,Lokomotiv Yaroslavl,4,1
+2024/25,2024-12-29,Regular season,HK Sochi,CSKA Moskva,1,4
+2024/25,2024-12-29,Regular season,Vityaz Moscow Region,HC Spartak Moskva,2,4
+2024/25,2024-12-30,Regular season,Amur Khabarovsk,HC Sibir Novosibirsk,3,4
+2024/25,2024-12-30,Regular season,Torpedo Nizhny Novgorod,Shanghai Dragons,3,4
+2024/25,2024-12-30,Regular season,HC Avangard Omsk,HC Metallurg Magnitogorsk,1,2
+2024/25,2024-12-30,Regular season,HC Salavat Yulaev Ufa,Barys Astana,6,0
+2024/25,2024-12-30,Regular season,Avtomobilist Yekaterinburg,Lada Togliatti,2,3
+2024/25,2024-12-30,Regular season,HC Neftekhimik Nizhnekamsk,HC Traktor Chelyabinsk,2,6
+2024/25,2024-12-30,Regular season,Ak Bars Kazan,Severstal Cherepovets,2,3
+2024/25,2025-01-03,Regular season,Ak Bars Kazan,Lada Togliatti,3,1
+2024/25,2025-01-03,Regular season,SKA St. Petersburg,CSKA Moskva,6,3
+2024/25,2025-01-03,Regular season,HC Traktor Chelyabinsk,Amur Khabarovsk,2,3
+2024/25,2025-01-03,Regular season,Severstal Cherepovets,Dynamo Moskva,2,7
+2024/25,2025-01-03,Regular season,Shanghai Dragons,Vityaz Moscow Region,3,2
+2024/25,2025-01-04,Regular season,HC Salavat Yulaev Ufa,HC Sibir Novosibirsk,1,4
+2024/25,2025-01-04,Regular season,HC Neftekhimik Nizhnekamsk,HC Avangard Omsk,1,5
+2024/25,2025-01-04,Regular season,Torpedo Nizhny Novgorod,Dinamo Minsk,0,3
+2024/25,2025-01-05,Regular season,Lokomotiv Yaroslavl,CSKA Moskva,4,1
+2024/25,2025-01-05,Regular season,HK Sochi,Dynamo Moskva,1,5
+2024/25,2025-01-05,Regular season,SKA St. Petersburg,Vityaz Moscow Region,5,2
+2024/25,2025-01-05,Regular season,HC Metallurg Magnitogorsk,Amur Khabarovsk,3,2
+2024/25,2025-01-05,Regular season,HC Traktor Chelyabinsk,Avtomobilist Yekaterinburg,2,0
+2024/25,2025-01-05,Regular season,Barys Astana,Lada Togliatti,0,5
+2024/25,2025-01-06,Regular season,Dinamo Minsk,Torpedo Nizhny Novgorod,2,4
+2024/25,2025-01-06,Regular season,Severstal Cherepovets,HC Spartak Moskva,5,3
+2024/25,2025-01-06,Regular season,HC Neftekhimik Nizhnekamsk,HC Sibir Novosibirsk,2,1
+2024/25,2025-01-06,Regular season,Ak Bars Kazan,HC Avangard Omsk,1,3
+2024/25,2025-01-07,Regular season,Shanghai Dragons,Amur Khabarovsk,5,0
+2024/25,2025-01-07,Regular season,Dinamo Minsk,CSKA Moskva,2,0
+2024/25,2025-01-07,Regular season,HK Sochi,Dynamo Moskva,0,2
+2024/25,2025-01-07,Regular season,HC Traktor Chelyabinsk,Lada Togliatti,5,0
+2024/25,2025-01-07,Regular season,Barys Astana,Avtomobilist Yekaterinburg,2,3
+2024/25,2025-01-07,Regular season,HC Metallurg Magnitogorsk,HC Admiral Vladivostok,4,3
+2024/25,2025-01-07,Regular season,Lokomotiv Yaroslavl,Vityaz Moscow Region,3,0
+2024/25,2025-01-08,Regular season,Ak Bars Kazan,HC Salavat Yulaev Ufa,5,1
+2024/25,2025-01-08,Regular season,SKA St. Petersburg,HC Spartak Moskva,0,5
+2024/25,2025-01-08,Regular season,Torpedo Nizhny Novgorod,HC Sibir Novosibirsk,2,0
+2024/25,2025-01-08,Regular season,Severstal Cherepovets,HC Avangard Omsk,5,6
+2024/25,2025-01-09,Regular season,Avtomobilist Yekaterinburg,HC Admiral Vladivostok,4,3
+2024/25,2025-01-09,Regular season,Lada Togliatti,Barys Astana,1,0
+2024/25,2025-01-09,Regular season,HK Sochi,Amur Khabarovsk,5,2
+2024/25,2025-01-10,Regular season,Shanghai Dragons,CSKA Moskva,3,0
+2024/25,2025-01-10,Regular season,HC Neftekhimik Nizhnekamsk,HC Salavat Yulaev Ufa,4,7
+2024/25,2025-01-10,Regular season,Dinamo Minsk,HC Sibir Novosibirsk,3,2
+2024/25,2025-01-10,Regular season,Lokomotiv Yaroslavl,HC Spartak Moskva,5,4
+2024/25,2025-01-11,Regular season,HC Metallurg Magnitogorsk,HC Traktor Chelyabinsk,5,3
+2024/25,2025-01-11,Regular season,Torpedo Nizhny Novgorod,HC Admiral Vladivostok,1,6
+2024/25,2025-01-11,Regular season,Ak Bars Kazan,Barys Astana,5,4
+2024/25,2025-01-11,Regular season,Dynamo Moskva,SKA St. Petersburg,5,4
+2024/25,2025-01-12,Regular season,Vityaz Moscow Region,Severstal Cherepovets,1,2
+2024/25,2025-01-12,Regular season,HC Avangard Omsk,HC Salavat Yulaev Ufa,3,2
+2024/25,2025-01-12,Regular season,Avtomobilist Yekaterinburg,Dinamo Minsk,4,3
+2024/25,2025-01-12,Regular season,Lada Togliatti,Shanghai Dragons,2,3
+2024/25,2025-01-13,Regular season,HC Sibir Novosibirsk,HC Neftekhimik Nizhnekamsk,2,1
+2024/25,2025-01-13,Regular season,HC Metallurg Magnitogorsk,HK Sochi,4,2
+2024/25,2025-01-13,Regular season,Torpedo Nizhny Novgorod,HC Traktor Chelyabinsk,3,5
+2024/25,2025-01-13,Regular season,Lokomotiv Yaroslavl,SKA St. Petersburg,4,3
+2024/25,2025-01-13,Regular season,CSKA Moskva,HC Spartak Moskva,4,2
+2024/25,2025-01-14,Regular season,Amur Khabarovsk,Ak Bars Kazan,1,4
+2024/25,2025-01-14,Regular season,HC Avangard Omsk,Shanghai Dragons,3,2
+2024/25,2025-01-14,Regular season,Lada Togliatti,Dinamo Minsk,6,4
+2024/25,2025-01-14,Regular season,Dynamo Moskva,Severstal Cherepovets,3,2
+2024/25,2025-01-15,Regular season,HC Sibir Novosibirsk,HC Traktor Chelyabinsk,3,4
+2024/25,2025-01-15,Regular season,HC Salavat Yulaev Ufa,HC Neftekhimik Nizhnekamsk,5,0
+2024/25,2025-01-15,Regular season,Vityaz Moscow Region,HK Sochi,2,1
+2024/25,2025-01-15,Regular season,HC Spartak Moskva,Avtomobilist Yekaterinburg,2,3
+2024/25,2025-01-16,Regular season,Amur Khabarovsk,Ak Bars Kazan,5,4
+2024/25,2025-01-16,Regular season,HC Admiral Vladivostok,HC Metallurg Magnitogorsk,4,2
+2024/25,2025-01-16,Regular season,Lada Togliatti,Torpedo Nizhny Novgorod,2,3
+2024/25,2025-01-16,Regular season,SKA St. Petersburg,Severstal Cherepovets,4,7
+2024/25,2025-01-17,Regular season,HC Spartak Moskva,Shanghai Dragons,2,0
+2024/25,2025-01-17,Regular season,HC Sibir Novosibirsk,Lokomotiv Yaroslavl,2,3
+2024/25,2025-01-17,Regular season,HC Avangard Omsk,CSKA Moskva,4,0
+2024/25,2025-01-17,Regular season,HC Salavat Yulaev Ufa,Avtomobilist Yekaterinburg,1,4
+2024/25,2025-01-17,Regular season,Dynamo Moskva,HK Sochi,1,3
+2024/25,2025-01-17,Regular season,HC Neftekhimik Nizhnekamsk,HC Traktor Chelyabinsk,2,4
+2024/25,2025-01-18,Regular season,Lada Togliatti,Vityaz Moscow Region,2,6
+2024/25,2025-01-18,Regular season,Amur Khabarovsk,HC Metallurg Magnitogorsk,3,2
+2024/25,2025-01-18,Regular season,HC Admiral Vladivostok,Ak Bars Kazan,2,5
+2024/25,2025-01-19,Regular season,HC Sibir Novosibirsk,CSKA Moskva,3,4
+2024/25,2025-01-19,Regular season,Barys Astana,Lokomotiv Yaroslavl,0,3
+2024/25,2025-01-19,Regular season,HK Sochi,Avtomobilist Yekaterinburg,1,2
+2024/25,2025-01-20,Regular season,Torpedo Nizhny Novgorod,HC Spartak Moskva,3,2
+2024/25,2025-01-20,Regular season,HC Traktor Chelyabinsk,Vityaz Moscow Region,4,3
+2024/25,2025-01-20,Regular season,HC Admiral Vladivostok,Ak Bars Kazan,1,2
+2024/25,2025-01-20,Regular season,HC Salavat Yulaev Ufa,HC Avangard Omsk,4,0
+2024/25,2025-01-20,Regular season,HC Neftekhimik Nizhnekamsk,HC Metallurg Magnitogorsk,2,3
+2024/25,2025-01-21,Regular season,Severstal Cherepovets,CSKA Moskva,5,4
+2024/25,2025-01-21,Regular season,SKA St. Petersburg,Lokomotiv Yaroslavl,5,2
+2024/25,2025-01-22,Regular season,HC Neftekhimik Nizhnekamsk,Vityaz Moscow Region,3,4
+2024/25,2025-01-22,Regular season,Avtomobilist Yekaterinburg,HC Avangard Omsk,2,1
+2024/25,2025-01-22,Regular season,HC Traktor Chelyabinsk,HC Sibir Novosibirsk,3,4
+2024/25,2025-01-23,Regular season,Barys Astana,HC Admiral Vladivostok,2,3
+2024/25,2025-01-23,Regular season,Severstal Cherepovets,Shanghai Dragons,3,0
+2024/25,2025-01-23,Regular season,SKA St. Petersburg,Dynamo Moskva,3,5
+2024/25,2025-01-23,Regular season,Torpedo Nizhny Novgorod,Amur Khabarovsk,5,2
+2024/25,2025-01-23,Regular season,HK Sochi,HC Salavat Yulaev Ufa,1,8
+2024/25,2025-01-24,Regular season,Ak Bars Kazan,HC Sibir Novosibirsk,0,1
+2024/25,2025-01-24,Regular season,Avtomobilist Yekaterinburg,Lada Togliatti,5,3
+2024/25,2025-01-25,Regular season,SKA St. Petersburg,HC Salavat Yulaev Ufa,3,2
+2024/25,2025-01-25,Regular season,Torpedo Nizhny Novgorod,Dynamo Moskva,1,4
+2024/25,2025-01-25,Regular season,HC Metallurg Magnitogorsk,Amur Khabarovsk,2,3
+2024/25,2025-01-25,Regular season,Vityaz Moscow Region,Shanghai Dragons,1,2
+2024/25,2025-01-25,Regular season,HC Spartak Moskva,Lokomotiv Yaroslavl,4,2
+2024/25,2025-01-25,Regular season,HC Traktor Chelyabinsk,HC Admiral Vladivostok,3,2
+2024/25,2025-01-26,Regular season,Barys Astana,HC Sibir Novosibirsk,4,3
+2024/25,2025-01-26,Regular season,HC Neftekhimik Nizhnekamsk,Lada Togliatti,4,2
+2024/25,2025-01-26,Regular season,HK Sochi,Severstal Cherepovets,3,4
+2024/25,2025-01-27,Regular season,Lokomotiv Yaroslavl,Dynamo Moskva,2,1
+2024/25,2025-01-27,Regular season,Ak Bars Kazan,HC Salavat Yulaev Ufa,4,3
+2024/25,2025-01-27,Regular season,HC Spartak Moskva,CSKA Moskva,4,1
+2024/25,2025-01-27,Regular season,HC Avangard Omsk,HC Admiral Vladivostok,4,1
+2024/25,2025-01-27,Regular season,Avtomobilist Yekaterinburg,Amur Khabarovsk,5,4
+2024/25,2025-01-28,Regular season,SKA St. Petersburg,Vityaz Moscow Region,4,1
+2024/25,2025-01-28,Regular season,Shanghai Dragons,HC Traktor Chelyabinsk,4,3
+2024/25,2025-01-28,Regular season,HK Sochi,Torpedo Nizhny Novgorod,1,3
+2024/25,2025-01-28,Regular season,HC Neftekhimik Nizhnekamsk,Severstal Cherepovets,1,2
+2024/25,2025-01-28,Regular season,HC Metallurg Magnitogorsk,Dinamo Minsk,4,1
+2024/25,2025-01-29,Regular season,HC Avangard Omsk,HC Salavat Yulaev Ufa,2,4
+2024/25,2025-01-30,Regular season,Vityaz Moscow Region,HC Traktor Chelyabinsk,0,2
+2024/25,2025-01-30,Regular season,HC Neftekhimik Nizhnekamsk,Dinamo Minsk,1,5
+2024/25,2025-01-30,Regular season,HC Spartak Moskva,SKA St. Petersburg,3,4
+2024/25,2025-01-30,Regular season,Dynamo Moskva,Torpedo Nizhny Novgorod,4,2
+2024/25,2025-01-30,Regular season,CSKA Moskva,Severstal Cherepovets,6,1
+2024/25,2025-01-31,Regular season,HC Avangard Omsk,Barys Astana,5,1
+2024/25,2025-01-31,Regular season,Lada Togliatti,Ak Bars Kazan,1,3
+2024/25,2025-01-31,Regular season,Shanghai Dragons,HK Sochi,2,4
+2024/25,2025-02-01,Regular season,Dynamo Moskva,SKA St. Petersburg,3,4
+2024/25,2025-02-01,Regular season,Lokomotiv Yaroslavl,HC Metallurg Magnitogorsk,2,3
+2024/25,2025-02-01,Regular season,CSKA Moskva,Torpedo Nizhny Novgorod,6,1
+2024/25,2025-02-02,Regular season,Severstal Cherepovets,HC Spartak Moskva,8,6
+2024/25,2025-02-02,Regular season,Shanghai Dragons,Ak Bars Kazan,3,6
+2024/25,2025-02-02,Regular season,Lada Togliatti,Avtomobilist Yekaterinburg,2,4
+2024/25,2025-02-02,Regular season,Dinamo Minsk,HC Avangard Omsk,4,5
+2024/25,2025-02-02,Regular season,Amur Khabarovsk,Barys Astana,5,0
+2024/25,2025-02-02,Regular season,HC Admiral Vladivostok,HC Sibir Novosibirsk,3,4
+2024/25,2025-02-02,Regular season,HC Traktor Chelyabinsk,HK Sochi,3,2
+2024/25,2025-02-03,Regular season,HC Salavat Yulaev Ufa,HC Metallurg Magnitogorsk,6,4
+2024/25,2025-02-04,Regular season,SKA St. Petersburg,Ak Bars Kazan,3,8
+2024/25,2025-02-04,Regular season,CSKA Moskva,HC Avangard Omsk,2,1
+2024/25,2025-02-04,Regular season,Dinamo Minsk,HK Sochi,5,3
+2024/25,2025-02-04,Regular season,Lokomotiv Yaroslavl,HC Spartak Moskva,4,5
+2024/25,2025-02-04,Regular season,Shanghai Dragons,Avtomobilist Yekaterinburg,1,2
+2024/25,2025-02-04,Regular season,Lada Togliatti,HC Neftekhimik Nizhnekamsk,3,4
+2024/25,2025-02-04,Regular season,HC Admiral Vladivostok,Barys Astana,4,3
+2024/25,2025-02-04,Regular season,Amur Khabarovsk,HC Sibir Novosibirsk,1,5
+2024/25,2025-02-04,Regular season,Torpedo Nizhny Novgorod,Vityaz Moscow Region,2,1
+2024/25,2025-02-05,Regular season,HC Traktor Chelyabinsk,HC Metallurg Magnitogorsk,5,2
+2024/25,2025-02-06,Regular season,Vityaz Moscow Region,SKA St. Petersburg,2,4
+2024/25,2025-02-06,Regular season,HC Admiral Vladivostok,Amur Khabarovsk,2,1
+2024/25,2025-02-06,Regular season,HC Salavat Yulaev Ufa,HC Neftekhimik Nizhnekamsk,4,1
+2024/25,2025-02-06,Regular season,Lada Togliatti,HC Avangard Omsk,1,2
+2024/25,2025-02-06,Regular season,Ak Bars Kazan,Avtomobilist Yekaterinburg,4,1
+2024/25,2025-02-06,Regular season,Torpedo Nizhny Novgorod,HC Spartak Moskva,3,2
+2024/25,2025-02-06,Regular season,Lokomotiv Yaroslavl,Dinamo Minsk,2,0
+2024/25,2025-02-06,Regular season,Shanghai Dragons,Dynamo Moskva,1,4
+2024/25,2025-02-06,Regular season,CSKA Moskva,Severstal Cherepovets,3,4
+2024/25,2025-02-11,Regular season,Shanghai Dragons,HC Salavat Yulaev Ufa,4,2
+2024/25,2025-02-11,Regular season,Ak Bars Kazan,Torpedo Nizhny Novgorod,1,5
+2024/25,2025-02-11,Regular season,Dynamo Moskva,SKA St. Petersburg,3,1
+2024/25,2025-02-11,Regular season,HC Admiral Vladivostok,HC Avangard Omsk,2,5
+2024/25,2025-02-11,Regular season,HK Sochi,HC Neftekhimik Nizhnekamsk,3,2
+2024/25,2025-02-11,Regular season,HC Sibir Novosibirsk,Lada Togliatti,4,1
+2024/25,2025-02-11,Regular season,CSKA Moskva,Vityaz Moscow Region,3,1
+2024/25,2025-02-12,Regular season,Dinamo Minsk,Lokomotiv Yaroslavl,3,1
+2024/25,2025-02-12,Regular season,HC Traktor Chelyabinsk,HC Metallurg Magnitogorsk,1,3
+2024/25,2025-02-13,Regular season,Amur Khabarovsk,HC Avangard Omsk,1,7
+2024/25,2025-02-13,Regular season,HC Admiral Vladivostok,Avtomobilist Yekaterinburg,4,3
+2024/25,2025-02-13,Regular season,HC Sibir Novosibirsk,Lada Togliatti,4,1
+2024/25,2025-02-13,Regular season,Barys Astana,SKA St. Petersburg,2,5
+2024/25,2025-02-13,,Dinamo Minsk,Vityaz Moscow Region,0,3
+2024/25,2025-02-13,Regular season,HK Sochi,CSKA Moskva,2,0
+2024/25,2025-02-13,Regular season,Shanghai Dragons,Torpedo Nizhny Novgorod,1,4
+2024/25,2025-02-13,Regular season,Dynamo Moskva,HC Spartak Moskva,4,1
+2024/25,2025-02-14,Regular season,HC Salavat Yulaev Ufa,Ak Bars Kazan,3,0
+2024/25,2025-02-14,Regular season,Severstal Cherepovets,Lokomotiv Yaroslavl,1,5
+2024/25,2025-02-15,Regular season,HC Neftekhimik Nizhnekamsk,SKA St. Petersburg,4,3
+2024/25,2025-02-15,Regular season,HC Spartak Moskva,Torpedo Nizhny Novgorod,7,4
+2024/25,2025-02-15,,Shanghai Dragons,Vityaz Moscow Region,5,4
+2024/25,2025-02-15,Regular season,Barys Astana,Lada Togliatti,2,4
+2024/25,2025-02-15,Regular season,HC Admiral Vladivostok,HC Traktor Chelyabinsk,1,2
+2024/25,2025-02-15,Regular season,Amur Khabarovsk,Avtomobilist Yekaterinburg,2,3
+2024/25,2025-02-15,Regular season,HC Sibir Novosibirsk,HC Metallurg Magnitogorsk,2,5
+2024/25,2025-02-16,Regular season,HC Avangard Omsk,Ak Bars Kazan,6,2
+2024/25,2025-02-16,Regular season,HC Salavat Yulaev Ufa,Lokomotiv Yaroslavl,3,2
+2024/25,2025-02-17,Regular season,CSKA Moskva,HK Sochi,1,4
+2024/25,2025-02-17,Regular season,Severstal Cherepovets,SKA St. Petersburg,3,5
+2024/25,2025-02-17,Regular season,HC Spartak Moskva,Dynamo Moskva,3,2
+2024/25,2025-02-17,Regular season,Vityaz Moscow Region,Dinamo Minsk,2,4
+2024/25,2025-02-17,Regular season,Amur Khabarovsk,HC Traktor Chelyabinsk,2,5
+2024/25,2025-02-17,Regular season,Barys Astana,HC Metallurg Magnitogorsk,1,3
+2024/25,2025-02-17,Regular season,HC Sibir Novosibirsk,Avtomobilist Yekaterinburg,0,5
+2024/25,2025-02-18,Regular season,HC Neftekhimik Nizhnekamsk,Ak Bars Kazan,3,2
+2024/25,2025-02-19,Regular season,HC Avangard Omsk,HC Metallurg Magnitogorsk,2,1
+2024/25,2025-02-19,Regular season,Lada Togliatti,HC Salavat Yulaev Ufa,3,0
+2024/25,2025-02-19,Regular season,Dynamo Moskva,HK Sochi,3,5
+2024/25,2025-02-19,Regular season,CSKA Moskva,Dinamo Minsk,1,4
+2024/25,2025-02-20,Regular season,HC Spartak Moskva,HC Sibir Novosibirsk,6,2
+2024/25,2025-02-20,Regular season,Lokomotiv Yaroslavl,Shanghai Dragons,4,1
+2024/25,2025-02-20,Regular season,Avtomobilist Yekaterinburg,Amur Khabarovsk,5,3
+2024/25,2025-02-20,Regular season,Barys Astana,Severstal Cherepovets,2,6
+2024/25,2025-02-21,Regular season,Vityaz Moscow Region,HC Salavat Yulaev Ufa,3,1
+2024/25,2025-02-21,Regular season,HC Traktor Chelyabinsk,Lada Togliatti,4,1
+2024/25,2025-02-21,Regular season,Torpedo Nizhny Novgorod,HK Sochi,6,3
+2024/25,2025-02-21,Regular season,Ak Bars Kazan,HC Neftekhimik Nizhnekamsk,3,2
+2024/25,2025-02-21,Regular season,Dynamo Moskva,Dinamo Minsk,0,5
+2024/25,2025-02-22,Regular season,Avtomobilist Yekaterinburg,Severstal Cherepovets,0,4
+2024/25,2025-02-22,Regular season,Barys Astana,HC Admiral Vladivostok,2,4
+2024/25,2025-02-22,Regular season,SKA St. Petersburg,Shanghai Dragons,4,6
+2024/25,2025-02-22,Regular season,Lokomotiv Yaroslavl,HC Sibir Novosibirsk,2,1
+2024/25,2025-02-22,Regular season,HC Avangard Omsk,Amur Khabarovsk,2,1
+2024/25,2025-02-23,Regular season,Ak Bars Kazan,Lada Togliatti,2,1
+2024/25,2025-02-23,Regular season,HC Salavat Yulaev Ufa,CSKA Moskva,2,4
+2024/25,2025-02-23,,HC Spartak Moskva,Dinamo Minsk,0,3
+2024/25,2025-02-23,Regular season,HC Traktor Chelyabinsk,HC Neftekhimik Nizhnekamsk,1,3
+2024/25,2025-02-24,Regular season,HC Sibir Novosibirsk,HC Admiral Vladivostok,2,5
+2024/25,2025-02-24,Regular season,Avtomobilist Yekaterinburg,Vityaz Moscow Region,2,1
+2024/25,2025-02-24,Regular season,HC Metallurg Magnitogorsk,Severstal Cherepovets,4,1
+2024/25,2025-02-24,Regular season,HK Sochi,Shanghai Dragons,2,5
+2024/25,2025-02-25,Regular season,SKA St. Petersburg,HC Spartak Moskva,2,7
+2024/25,2025-02-25,Regular season,HC Salavat Yulaev Ufa,Lada Togliatti,3,2
+2024/25,2025-02-25,Regular season,Torpedo Nizhny Novgorod,CSKA Moskva,2,3
+2024/25,2025-02-25,Regular season,Lokomotiv Yaroslavl,Dynamo Moskva,1,3
+2024/25,2025-02-26,Regular season,HC Avangard Omsk,Vityaz Moscow Region,4,3
+2024/25,2025-02-26,Regular season,Avtomobilist Yekaterinburg,Ak Bars Kazan,2,1
+2024/25,2025-02-26,Regular season,HC Metallurg Magnitogorsk,Barys Astana,4,1
+2024/25,2025-02-27,Regular season,SKA St. Petersburg,Dynamo Moskva,0,1
+2024/25,2025-02-27,Regular season,Severstal Cherepovets,Torpedo Nizhny Novgorod,2,3
+2024/25,2025-02-27,Regular season,Dinamo Minsk,HC Spartak Moskva,2,1
+2024/25,2025-02-27,Regular season,CSKA Moskva,Shanghai Dragons,6,0
+2024/25,2025-02-28,Regular season,HC Traktor Chelyabinsk,Ak Bars Kazan,3,2
+2024/25,2025-02-28,Regular season,Lada Togliatti,Barys Astana,2,3
+2024/25,2025-02-28,Regular season,HC Sibir Novosibirsk,Vityaz Moscow Region,4,3
+2024/25,2025-02-28,Regular season,HC Admiral Vladivostok,HC Salavat Yulaev Ufa,2,3
+2024/25,2025-02-28,Regular season,Amur Khabarovsk,HC Neftekhimik Nizhnekamsk,5,4
+2024/25,2025-03-01,Regular season,HC Metallurg Magnitogorsk,Avtomobilist Yekaterinburg,3,1
+2024/25,2025-03-01,Regular season,CSKA Moskva,Torpedo Nizhny Novgorod,4,2
+2024/25,2025-03-01,Regular season,Dynamo Moskva,Shanghai Dragons,6,3
+2024/25,2025-03-02,Regular season,Dinamo Minsk,SKA St. Petersburg,2,1
+2024/25,2025-03-02,Regular season,HK Sochi,Lokomotiv Yaroslavl,2,4
+2024/25,2025-03-02,Regular season,HC Spartak Moskva,HC Avangard Omsk,1,5
+2024/25,2025-03-02,Regular season,HC Traktor Chelyabinsk,Barys Astana,8,0
+2024/25,2025-03-02,Regular season,Amur Khabarovsk,HC Neftekhimik Nizhnekamsk,4,3
+2024/25,2025-03-02,Regular season,HC Admiral Vladivostok,HC Salavat Yulaev Ufa,3,6
+2024/25,2025-03-02,Regular season,HC Sibir Novosibirsk,Ak Bars Kazan,3,6
+2024/25,2025-03-03,Regular season,Dynamo Moskva,Avtomobilist Yekaterinburg,4,1
+2024/25,2025-03-03,Regular season,HC Metallurg Magnitogorsk,Lada Togliatti,2,1
+2024/25,2025-03-03,Regular season,Vityaz Moscow Region,Torpedo Nizhny Novgorod,3,4
+2024/25,2025-03-03,Regular season,Dinamo Minsk,Shanghai Dragons,6,2
+2024/25,2025-03-04,Regular season,Severstal Cherepovets,Lokomotiv Yaroslavl,0,5
+2024/25,2025-03-04,Regular season,HC Admiral Vladivostok,HC Neftekhimik Nizhnekamsk,1,0
+2024/25,2025-03-04,Regular season,HK Sochi,HC Avangard Omsk,2,3
+2024/25,2025-03-04,Regular season,CSKA Moskva,SKA St. Petersburg,2,3
+2024/25,2025-03-04,Regular season,Amur Khabarovsk,HC Salavat Yulaev Ufa,1,3
+2024/25,2025-03-05,Regular season,Ak Bars Kazan,Avtomobilist Yekaterinburg,3,1
+2024/25,2025-03-05,Regular season,HC Spartak Moskva,Shanghai Dragons,2,3
+2024/25,2025-03-05,Regular season,Dinamo Minsk,Lada Togliatti,4,2
+2024/25,2025-03-06,Regular season,Severstal Cherepovets,Vityaz Moscow Region,3,0
+2024/25,2025-03-06,Regular season,Barys Astana,HC Sibir Novosibirsk,4,1
+2024/25,2025-03-06,Regular season,Torpedo Nizhny Novgorod,HC Avangard Omsk,2,3
+2024/25,2025-03-06,Regular season,Amur Khabarovsk,HC Salavat Yulaev Ufa,1,2
+2024/25,2025-03-06,Regular season,HK Sochi,HC Metallurg Magnitogorsk,0,3
+2024/25,2025-03-06,Regular season,HC Admiral Vladivostok,HC Neftekhimik Nizhnekamsk,2,3
+2024/25,2025-03-07,Regular season,Dynamo Moskva,Lokomotiv Yaroslavl,5,3
+2024/25,2025-03-08,Regular season,HK Sochi,Vityaz Moscow Region,0,5
+2024/25,2025-03-08,Regular season,Barys Astana,CSKA Moskva,0,3
+2024/25,2025-03-08,Regular season,Lada Togliatti,HC Sibir Novosibirsk,1,0
+2024/25,2025-03-08,Regular season,HC Traktor Chelyabinsk,Severstal Cherepovets,5,1
+2024/25,2025-03-08,Regular season,Ak Bars Kazan,HC Avangard Omsk,0,2
+2024/25,2025-03-08,Regular season,Torpedo Nizhny Novgorod,HC Spartak Moskva,3,0
+2024/25,2025-03-08,Regular season,SKA St. Petersburg,HC Metallurg Magnitogorsk,4,2
+2024/25,2025-03-09,Regular season,Dinamo Minsk,Shanghai Dragons,4,2
+2024/25,2025-03-10,Regular season,Vityaz Moscow Region,HC Sibir Novosibirsk,3,1
+2024/25,2025-03-10,Regular season,Ak Bars Kazan,HC Spartak Moskva,3,5
+2024/25,2025-03-10,Regular season,Lada Togliatti,HC Traktor Chelyabinsk,0,6
+2024/25,2025-03-10,Regular season,Avtomobilist Yekaterinburg,CSKA Moskva,3,4
+2024/25,2025-03-10,Regular season,Lokomotiv Yaroslavl,Severstal Cherepovets,3,0
+2024/25,2025-03-11,Regular season,SKA St. Petersburg,Dinamo Minsk,3,1
+2024/25,2025-03-11,Regular season,HC Admiral Vladivostok,Amur Khabarovsk,5,2
+2024/25,2025-03-11,Regular season,HC Avangard Omsk,Torpedo Nizhny Novgorod,4,3
+2024/25,2025-03-11,Regular season,HC Neftekhimik Nizhnekamsk,Dynamo Moskva,4,3
+2024/25,2025-03-11,Regular season,HK Sochi,Shanghai Dragons,2,5
+2024/25,2025-03-12,Regular season,Ak Bars Kazan,HC Traktor Chelyabinsk,6,2
+2024/25,2025-03-12,Regular season,Lada Togliatti,HC Spartak Moskva,2,4
+2024/25,2025-03-12,Regular season,HC Metallurg Magnitogorsk,CSKA Moskva,4,2
+2024/25,2025-03-13,Regular season,HC Admiral Vladivostok,Barys Astana,4,5
+2024/25,2025-03-13,Regular season,HC Sibir Novosibirsk,Amur Khabarovsk,4,2
+2024/25,2025-03-13,Regular season,Avtomobilist Yekaterinburg,Torpedo Nizhny Novgorod,2,1
+2024/25,2025-03-13,Regular season,HC Salavat Yulaev Ufa,Dynamo Moskva,1,3
+2024/25,2025-03-13,Regular season,Severstal Cherepovets,Dinamo Minsk,5,4
+2024/25,2025-03-14,Regular season,HC Avangard Omsk,HC Traktor Chelyabinsk,4,5
+2024/25,2025-03-14,Regular season,Lokomotiv Yaroslavl,HC Neftekhimik Nizhnekamsk,1,2
+2024/25,2025-03-14,Regular season,SKA St. Petersburg,HK Sochi,2,0
+2024/25,2025-03-15,Regular season,CSKA Moskva,Dynamo Moskva,1,2
+2024/25,2025-03-15,Regular season,Ak Bars Kazan,Vityaz Moscow Region,1,2
+2024/25,2025-03-15,Regular season,HC Salavat Yulaev Ufa,Dinamo Minsk,4,3
+2024/25,2025-03-15,Regular season,Amur Khabarovsk,Barys Astana,5,2
+2024/25,2025-03-15,Regular season,HC Sibir Novosibirsk,Torpedo Nizhny Novgorod,3,2
+2024/25,2025-03-15,Regular season,HC Metallurg Magnitogorsk,Shanghai Dragons,7,1
+2024/25,2025-03-16,Regular season,Lada Togliatti,HC Neftekhimik Nizhnekamsk,7,1
+2024/25,2025-03-16,Regular season,Avtomobilist Yekaterinburg,HK Sochi,6,3
+2024/25,2025-03-16,Regular season,HC Spartak Moskva,Severstal Cherepovets,4,2
+2024/25,2025-03-17,Regular season,HC Metallurg Magnitogorsk,Vityaz Moscow Region,3,2
+2024/25,2025-03-17,Regular season,Lokomotiv Yaroslavl,HC Admiral Vladivostok,4,1
+2024/25,2025-03-17,Regular season,HC Sibir Novosibirsk,Barys Astana,3,2
+2024/25,2025-03-18,Regular season,Avtomobilist Yekaterinburg,HC Salavat Yulaev Ufa,1,4
+2024/25,2025-03-18,Regular season,HC Traktor Chelyabinsk,SKA St. Petersburg,4,2
+2024/25,2025-03-18,Regular season,Lada Togliatti,Amur Khabarovsk,2,3
+2024/25,2025-03-18,Regular season,Dinamo Minsk,HK Sochi,2,3
+2024/25,2025-03-18,Regular season,Shanghai Dragons,Severstal Cherepovets,4,5
+2024/25,2025-03-18,Regular season,Dynamo Moskva,HC Avangard Omsk,4,3
+2024/25,2025-03-18,Regular season,HC Spartak Moskva,HC Neftekhimik Nizhnekamsk,2,4
+2024/25,2025-03-19,Regular season,HC Metallurg Magnitogorsk,HC Admiral Vladivostok,5,4
+2024/25,2025-03-19,Regular season,CSKA Moskva,Lokomotiv Yaroslavl,1,3
+2024/25,2025-03-20,Regular season,Torpedo Nizhny Novgorod,Severstal Cherepovets,2,3
+2024/25,2025-03-20,Regular season,Vityaz Moscow Region,HC Avangard Omsk,2,3
+2024/25,2025-03-20,Regular season,Lada Togliatti,Amur Khabarovsk,3,4
+2024/25,2025-03-20,Regular season,Avtomobilist Yekaterinburg,SKA St. Petersburg,3,2
+2024/25,2025-03-20,Regular season,HC Sibir Novosibirsk,HC Salavat Yulaev Ufa,1,3
+2024/25,2025-03-20,Regular season,HC Spartak Moskva,HK Sochi,3,1
+2024/25,2025-03-20,Regular season,Barys Astana,Ak Bars Kazan,0,8
+2024/25,2025-03-21,Regular season,CSKA Moskva,Dinamo Minsk,1,4
+2024/25,2025-03-21,Regular season,Dynamo Moskva,Lokomotiv Yaroslavl,1,4
+2024/25,2025-03-21,Regular season,HC Neftekhimik Nizhnekamsk,HC Admiral Vladivostok,2,1
+2024/25,2025-03-22,Regular season,Torpedo Nizhny Novgorod,SKA St. Petersburg,2,3
+2024/25,2025-03-22,Regular season,Barys Astana,HC Salavat Yulaev Ufa,1,4
+2024/25,2025-03-22,Regular season,Avtomobilist Yekaterinburg,HC Metallurg Magnitogorsk,3,2
+2024/25,2025-03-22,Regular season,Shanghai Dragons,HC Avangard Omsk,1,5
+2024/25,2025-03-22,Regular season,HC Sibir Novosibirsk,Ak Bars Kazan,2,3
+2024/25,2025-03-22,Regular season,HC Traktor Chelyabinsk,Amur Khabarovsk,2,0
+2024/25,2025-03-23,Regular season,HC Spartak Moskva,Lada Togliatti,3,2
+2024/25,2025-03-23,Regular season,Vityaz Moscow Region,CSKA Moskva,1,2
+2024/25,2025-03-23,Regular season,HC Neftekhimik Nizhnekamsk,HC Admiral Vladivostok,7,2
+2024/25,2025-03-23,Regular season,Severstal Cherepovets,Dynamo Moskva,3,2
+2024/25,2025-03-23,Regular season,HK Sochi,Dinamo Minsk,2,6
+2024/25,2025-03-26,,Avtomobilist Yekaterinburg,Ak Bars Kazan,1,4
+2024/25,2025-03-26,,HC Metallurg Magnitogorsk,HC Avangard Omsk,1,4
+2024/25,2025-03-26,,HC Spartak Moskva,Severstal Cherepovets,5,4
+2024/25,2025-03-26,,Dinamo Minsk,CSKA Moskva,5,2
+2024/25,2025-03-27,,Lokomotiv Yaroslavl,Torpedo Nizhny Novgorod,3,1
+2024/25,2025-03-27,,HC Traktor Chelyabinsk,HC Admiral Vladivostok,4,5
+2024/25,2025-03-27,,HC Salavat Yulaev Ufa,HC Sibir Novosibirsk,7,0
+2024/25,2025-03-27,,Dynamo Moskva,SKA St. Petersburg,3,1
+2024/25,2025-03-28,,Dinamo Minsk,CSKA Moskva,5,3
+2024/25,2025-03-28,,HC Spartak Moskva,Severstal Cherepovets,4,2
+2024/25,2025-03-28,,Avtomobilist Yekaterinburg,Ak Bars Kazan,4,3
+2024/25,2025-03-28,,HC Metallurg Magnitogorsk,HC Avangard Omsk,2,3
+2024/25,2025-03-29,,HC Traktor Chelyabinsk,HC Admiral Vladivostok,2,1
+2024/25,2025-03-29,,HC Salavat Yulaev Ufa,HC Sibir Novosibirsk,8,2
+2024/25,2025-03-29,,Lokomotiv Yaroslavl,Torpedo Nizhny Novgorod,2,0
+2024/25,2025-03-29,,Dynamo Moskva,SKA St. Petersburg,2,1
+2024/25,2025-03-30,,HC Avangard Omsk,HC Metallurg Magnitogorsk,2,1
+2024/25,2025-03-30,,CSKA Moskva,Dinamo Minsk,4,1
+2024/25,2025-03-30,,Severstal Cherepovets,HC Spartak Moskva,0,1
+2024/25,2025-03-30,,Ak Bars Kazan,Avtomobilist Yekaterinburg,2,3
+2024/25,2025-03-31,,Torpedo Nizhny Novgorod,Lokomotiv Yaroslavl,2,4
+2024/25,2025-03-31,,SKA St. Petersburg,Dynamo Moskva,5,3
+2024/25,2025-03-31,,HC Admiral Vladivostok,HC Traktor Chelyabinsk,4,3
+2024/25,2025-03-31,,HC Sibir Novosibirsk,HC Salavat Yulaev Ufa,2,0
+2024/25,2025-04-01,,HC Avangard Omsk,HC Metallurg Magnitogorsk,1,3
+2024/25,2025-04-01,,Ak Bars Kazan,Avtomobilist Yekaterinburg,7,2
+2024/25,2025-04-01,,CSKA Moskva,Dinamo Minsk,2,1
+2024/25,2025-04-01,,Severstal Cherepovets,HC Spartak Moskva,5,2
+2024/25,2025-04-02,,Torpedo Nizhny Novgorod,Lokomotiv Yaroslavl,1,2
+2024/25,2025-04-02,,SKA St. Petersburg,Dynamo Moskva,4,5
+2024/25,2025-04-02,,HC Sibir Novosibirsk,HC Salavat Yulaev Ufa,2,1
+2024/25,2025-04-02,,HC Admiral Vladivostok,HC Traktor Chelyabinsk,3,7
+2024/25,2025-04-03,,Avtomobilist Yekaterinburg,Ak Bars Kazan,2,0
+2024/25,2025-04-03,,HC Metallurg Magnitogorsk,HC Avangard Omsk,3,1
+2024/25,2025-04-03,,HC Spartak Moskva,Severstal Cherepovets,5,2
+2024/25,2025-04-03,,Dinamo Minsk,CSKA Moskva,7,0
+2024/25,2025-04-04,,HC Traktor Chelyabinsk,HC Admiral Vladivostok,5,4
+2024/25,2025-04-04,,HC Salavat Yulaev Ufa,HC Sibir Novosibirsk,5,2
+2024/25,2025-04-04,,Dynamo Moskva,SKA St. Petersburg,3,4
+2024/25,2025-04-05,,Ak Bars Kazan,Avtomobilist Yekaterinburg,5,1
+2024/25,2025-04-05,,HC Avangard Omsk,HC Metallurg Magnitogorsk,3,2
+2024/25,2025-04-05,,CSKA Moskva,Dinamo Minsk,2,6
+2024/25,2025-04-06,,HC Admiral Vladivostok,HC Traktor Chelyabinsk,0,2
+2024/25,2025-04-06,,HC Sibir Novosibirsk,HC Salavat Yulaev Ufa,5,2
+2024/25,2025-04-06,,SKA St. Petersburg,Dynamo Moskva,2,5
+2024/25,2025-04-07,,Avtomobilist Yekaterinburg,Ak Bars Kazan,1,2
+2024/25,2025-04-08,,HC Salavat Yulaev Ufa,HC Sibir Novosibirsk,2,1
+2024/25,2025-04-11,,Lokomotiv Yaroslavl,HC Avangard Omsk,1,4
+2024/25,2025-04-11,,HC Salavat Yulaev Ufa,HC Spartak Moskva,4,1
+2024/25,2025-04-12,,HC Traktor Chelyabinsk,Dinamo Minsk,4,2
+2024/25,2025-04-12,,Dynamo Moskva,Ak Bars Kazan,3,5
+2024/25,2025-04-13,,HC Salavat Yulaev Ufa,HC Spartak Moskva,4,5
+2024/25,2025-04-13,,Lokomotiv Yaroslavl,HC Avangard Omsk,4,1
+2024/25,2025-04-14,,HC Traktor Chelyabinsk,Dinamo Minsk,4,3
+2024/25,2025-04-14,,Dynamo Moskva,Ak Bars Kazan,0,2
+2024/25,2025-04-15,,HC Avangard Omsk,Lokomotiv Yaroslavl,2,6
+2024/25,2025-04-15,,HC Spartak Moskva,HC Salavat Yulaev Ufa,4,2
+2024/25,2025-04-16,,Dinamo Minsk,HC Traktor Chelyabinsk,8,0
+2024/25,2025-04-16,,Ak Bars Kazan,Dynamo Moskva,1,3
+2024/25,2025-04-17,,HC Avangard Omsk,Lokomotiv Yaroslavl,1,2
+2024/25,2025-04-17,,HC Spartak Moskva,HC Salavat Yulaev Ufa,6,2
+2024/25,2025-04-18,,Dinamo Minsk,HC Traktor Chelyabinsk,2,3
+2024/25,2025-04-18,,Ak Bars Kazan,Dynamo Moskva,2,3
+2024/25,2025-04-19,,HC Salavat Yulaev Ufa,HC Spartak Moskva,4,3
+2024/25,2025-04-19,,Lokomotiv Yaroslavl,HC Avangard Omsk,2,3
+2024/25,2025-04-20,,Dynamo Moskva,Ak Bars Kazan,4,3
+2024/25,2025-04-20,,HC Traktor Chelyabinsk,Dinamo Minsk,3,1
+2024/25,2025-04-21,,HC Avangard Omsk,Lokomotiv Yaroslavl,3,0
+2024/25,2025-04-21,,HC Spartak Moskva,HC Salavat Yulaev Ufa,1,2
+2024/25,2025-04-22,,Ak Bars Kazan,Dynamo Moskva,1,6
+2024/25,2025-04-23,,HC Salavat Yulaev Ufa,HC Spartak Moskva,3,2
+2024/25,2025-04-23,,Lokomotiv Yaroslavl,HC Avangard Omsk,3,2
+2024/25,2025-04-27,,Lokomotiv Yaroslavl,HC Salavat Yulaev Ufa,1,3
+2024/25,2025-04-28,,HC Traktor Chelyabinsk,Dynamo Moskva,4,3
+2024/25,2025-04-29,,Lokomotiv Yaroslavl,HC Salavat Yulaev Ufa,2,1
+2024/25,2025-04-30,,HC Traktor Chelyabinsk,Dynamo Moskva,3,2
+2024/25,2025-05-01,,HC Salavat Yulaev Ufa,Lokomotiv Yaroslavl,2,4
+2024/25,2025-05-02,,Dynamo Moskva,HC Traktor Chelyabinsk,2,3
+2024/25,2025-05-03,,HC Salavat Yulaev Ufa,Lokomotiv Yaroslavl,0,3
+2024/25,2025-05-04,,Dynamo Moskva,HC Traktor Chelyabinsk,3,1
+2024/25,2025-05-05,,Lokomotiv Yaroslavl,HC Salavat Yulaev Ufa,4,2
+2024/25,2025-05-06,,HC Traktor Chelyabinsk,Dynamo Moskva,4,3
+2024/25,2025-05-13,,Lokomotiv Yaroslavl,HC Traktor Chelyabinsk,1,2
+2024/25,2025-05-15,,Lokomotiv Yaroslavl,HC Traktor Chelyabinsk,4,1
+2024/25,2025-05-17,,HC Traktor Chelyabinsk,Lokomotiv Yaroslavl,2,5
+2024/25,2025-05-19,,HC Traktor Chelyabinsk,Lokomotiv Yaroslavl,1,3
+2024/25,2025-05-21,,Lokomotiv Yaroslavl,HC Traktor Chelyabinsk,2,1
+2025/26,2025-09-05,Regular season,Lokomotiv Yaroslavl,HC Traktor Chelyabinsk,2,1
+2025/26,2025-09-06,,Shanghai Dragons,SKA St. Petersburg,7,4
+2025/26,2025-09-06,Regular season,CSKA Moskva,Dynamo Moskva,6,2
+2025/26,2025-09-06,Regular season,Torpedo Nizhny Novgorod,HC Salavat Yulaev Ufa,4,3
+2025/26,2025-09-06,Regular season,HC Metallurg Magnitogorsk,Ak Bars Kazan,4,3
+2025/26,2025-09-07,,HC Sibir Novosibirsk,Amur Khabarovsk,0,2
+2025/26,2025-09-07,,Barys Astana,HC Traktor Chelyabinsk,4,3
+2025/26,2025-09-07,,HC Spartak Moskva,HK Sochi,4,3
+2025/26,2025-09-08,Regular season,Torpedo Nizhny Novgorod,SKA St. Petersburg,3,2
+2025/26,2025-09-08,Regular season,HC Avangard Omsk,Ak Bars Kazan,1,2
+2025/26,2025-09-08,Regular season,HC Metallurg Magnitogorsk,HC Salavat Yulaev Ufa,2,3
+2025/26,2025-09-08,,Lada Togliatti,Avtomobilist Yekaterinburg,4,3
+2025/26,2025-09-08,Regular season,Shanghai Dragons,HC Admiral Vladivostok,3,4
+2025/26,2025-09-09,Regular season,Lokomotiv Yaroslavl,Severstal Cherepovets,4,1
+2025/26,2025-09-09,Regular season,HC Spartak Moskva,Dinamo Minsk,0,3
+2025/26,2025-09-09,Regular season,Dynamo Moskva,HK Sochi,2,3
+2025/26,2025-09-09,Regular season,Barys Astana,Amur Khabarovsk,4,3
+2025/26,2025-09-09,,HC Neftekhimik Nizhnekamsk,HC Traktor Chelyabinsk,3,4
+2025/26,2025-09-10,Regular season,CSKA Moskva,HC Admiral Vladivostok,1,0
+2025/26,2025-09-10,Regular season,Ak Bars Kazan,Avtomobilist Yekaterinburg,3,6
+2025/26,2025-09-11,Regular season,HC Spartak Moskva,Severstal Cherepovets,1,2
+2025/26,2025-09-11,Regular season,SKA St. Petersburg,HC Traktor Chelyabinsk,5,2
+2025/26,2025-09-11,Regular season,HC Neftekhimik Nizhnekamsk,Dinamo Minsk,4,3
+2025/26,2025-09-11,Regular season,HC Avangard Omsk,Amur Khabarovsk,2,1
+2025/26,2025-09-11,Regular season,HC Metallurg Magnitogorsk,Dynamo Moskva,1,2
+2025/26,2025-09-12,Regular season,HC Sibir Novosibirsk,HC Admiral Vladivostok,2,1
+2025/26,2025-09-12,Regular season,HC Salavat Yulaev Ufa,Avtomobilist Yekaterinburg,1,4
+2025/26,2025-09-12,Regular season,HK Sochi,CSKA Moskva,2,0
+2025/26,2025-09-12,Regular season,Torpedo Nizhny Novgorod,Lada Togliatti,4,3
+2025/26,2025-09-12,Regular season,Shanghai Dragons,Lokomotiv Yaroslavl,4,1
+2025/26,2025-09-13,Regular season,HC Avangard Omsk,Dynamo Moskva,7,4
+2025/26,2025-09-13,Regular season,Barys Astana,Dinamo Minsk,1,3
+2025/26,2025-09-14,Regular season,HK Sochi,HC Traktor Chelyabinsk,3,4
+2025/26,2025-09-14,Regular season,Severstal Cherepovets,CSKA Moskva,1,2
+2025/26,2025-09-14,Regular season,Ak Bars Kazan,HC Metallurg Magnitogorsk,3,6
+2025/26,2025-09-14,Regular season,SKA St. Petersburg,Lada Togliatti,6,1
+2025/26,2025-09-14,Regular season,HC Spartak Moskva,Torpedo Nizhny Novgorod,3,4
+2025/26,2025-09-14,Regular season,HC Neftekhimik Nizhnekamsk,Lokomotiv Yaroslavl,5,4
+2025/26,2025-09-15,Regular season,Avtomobilist Yekaterinburg,HC Salavat Yulaev Ufa,4,2
+2025/26,2025-09-15,Regular season,HC Admiral Vladivostok,HC Sibir Novosibirsk,2,0
+2025/26,2025-09-15,Regular season,Amur Khabarovsk,Shanghai Dragons,5,4
+2025/26,2025-09-15,Regular season,Barys Astana,Dynamo Moskva,5,2
+2025/26,2025-09-15,Regular season,HC Avangard Omsk,Dinamo Minsk,5,4
+2025/26,2025-09-16,Regular season,Severstal Cherepovets,HC Metallurg Magnitogorsk,2,5
+2025/26,2025-09-16,Regular season,HK Sochi,Torpedo Nizhny Novgorod,0,3
+2025/26,2025-09-16,Regular season,CSKA Moskva,HC Spartak Moskva,5,6
+2025/26,2025-09-16,Regular season,Lada Togliatti,Lokomotiv Yaroslavl,1,6
+2025/26,2025-09-17,Regular season,Ak Bars Kazan,HC Neftekhimik Nizhnekamsk,1,2
+2025/26,2025-09-17,Regular season,Amur Khabarovsk,HC Sibir Novosibirsk,3,4
+2025/26,2025-09-17,Regular season,HC Admiral Vladivostok,Shanghai Dragons,4,0
+2025/26,2025-09-17,Regular season,HC Avangard Omsk,HC Salavat Yulaev Ufa,3,2
+2025/26,2025-09-17,Regular season,Avtomobilist Yekaterinburg,HC Traktor Chelyabinsk,0,2
+2025/26,2025-09-18,Regular season,CSKA Moskva,Lokomotiv Yaroslavl,1,5
+2025/26,2025-09-18,Regular season,Lada Togliatti,Torpedo Nizhny Novgorod,1,5
+2025/26,2025-09-18,Regular season,HC Metallurg Magnitogorsk,Barys Astana,5,1
+2025/26,2025-09-19,,Amur Khabarovsk,HC Sibir Novosibirsk,0,1
+2025/26,2025-09-19,,Avtomobilist Yekaterinburg,HC Spartak Moskva,5,4
+2025/26,2025-09-19,,HC Traktor Chelyabinsk,HC Neftekhimik Nizhnekamsk,3,2
+2025/26,2025-09-19,Regular season,Ak Bars Kazan,HC Salavat Yulaev Ufa,3,1
+2025/26,2025-09-19,,SKA St. Petersburg,Dinamo Minsk,3,2
+2025/26,2025-09-20,,HC Admiral Vladivostok,Dynamo Moskva,3,4
+2025/26,2025-09-20,,Severstal Cherepovets,Barys Astana,3,2
+2025/26,2025-09-21,Regular season,HC Metallurg Magnitogorsk,CSKA Moskva,5,4
+2025/26,2025-09-21,Regular season,HC Traktor Chelyabinsk,HC Spartak Moskva,3,5
+2025/26,2025-09-21,Regular season,Avtomobilist Yekaterinburg,HC Neftekhimik Nizhnekamsk,1,4
+2025/26,2025-09-21,Regular season,Lada Togliatti,SKA St. Petersburg,0,3
+2025/26,2025-09-21,Regular season,Ak Bars Kazan,HC Avangard Omsk,1,6
+2025/26,2025-09-22,Regular season,Dinamo Minsk,Barys Astana,1,0
+2025/26,2025-09-22,Regular season,Lokomotiv Yaroslavl,HK Sochi,5,0
+2025/26,2025-09-22,Regular season,Shanghai Dragons,Torpedo Nizhny Novgorod,1,0
+2025/26,2025-09-22,Regular season,Amur Khabarovsk,Dynamo Moskva,1,3
+2025/26,2025-09-22,Regular season,HC Sibir Novosibirsk,Severstal Cherepovets,2,4
+2025/26,2025-09-23,,SKA St. Petersburg,HC Avangard Omsk,2,4
+2025/26,2025-09-23,,HC Metallurg Magnitogorsk,HC Spartak Moskva,3,2
+2025/26,2025-09-23,,HC Admiral Vladivostok,CSKA Moskva,4,5
+2025/26,2025-09-24,Regular season,Lada Togliatti,HK Sochi,4,5
+2025/26,2025-09-24,Regular season,HC Sibir Novosibirsk,HC Salavat Yulaev Ufa,3,2
+2025/26,2025-09-24,Regular season,Dynamo Moskva,Shanghai Dragons,3,2
+2025/26,2025-09-24,Regular season,Lokomotiv Yaroslavl,Severstal Cherepovets,2,1
+2025/26,2025-09-24,Regular season,HC Neftekhimik Nizhnekamsk,Avtomobilist Yekaterinburg,5,2
+2025/26,2025-09-24,Regular season,Dinamo Minsk,Torpedo Nizhny Novgorod,3,2
+2025/26,2025-09-25,Regular season,Amur Khabarovsk,CSKA Moskva,2,0
+2025/26,2025-09-25,Regular season,HC Traktor Chelyabinsk,HC Avangard Omsk,5,1
+2025/26,2025-09-25,Regular season,Barys Astana,Ak Bars Kazan,1,2
+2025/26,2025-09-26,Regular season,Lada Togliatti,Shanghai Dragons,1,4
+2025/26,2025-09-26,Regular season,Lokomotiv Yaroslavl,Avtomobilist Yekaterinburg,3,2
+2025/26,2025-09-26,Regular season,Dinamo Minsk,Severstal Cherepovets,4,2
+2025/26,2025-09-27,Regular season,HC Salavat Yulaev Ufa,HC Avangard Omsk,2,5
+2025/26,2025-09-27,Regular season,HC Metallurg Magnitogorsk,Ak Bars Kazan,3,4
+2025/26,2025-09-27,Regular season,Barys Astana,HC Sibir Novosibirsk,6,4
+2025/26,2025-09-27,Regular season,Torpedo Nizhny Novgorod,HC Neftekhimik Nizhnekamsk,1,2
+2025/26,2025-09-27,Regular season,HK Sochi,SKA St. Petersburg,2,4
+2025/26,2025-09-28,Regular season,HC Spartak Moskva,Shanghai Dragons,1,3
+2025/26,2025-09-28,Regular season,CSKA Moskva,Lada Togliatti,7,2
+2025/26,2025-09-29,Regular season,Dinamo Minsk,Lokomotiv Yaroslavl,3,2
+2025/26,2025-09-29,Regular season,Dynamo Moskva,HC Neftekhimik Nizhnekamsk,2,3
+2025/26,2025-09-29,Regular season,Barys Astana,HC Admiral Vladivostok,3,0
+2025/26,2025-09-29,Regular season,HC Metallurg Magnitogorsk,HC Sibir Novosibirsk,4,3
+2025/26,2025-09-29,Regular season,Avtomobilist Yekaterinburg,Ak Bars Kazan,4,1
+2025/26,2025-09-29,Regular season,SKA St. Petersburg,Torpedo Nizhny Novgorod,2,5
+2025/26,2025-09-30,Regular season,HK Sochi,Lada Togliatti,4,0
+2025/26,2025-09-30,Regular season,HC Spartak Moskva,HC Traktor Chelyabinsk,6,3
+2025/26,2025-10-01,Regular season,HC Avangard Omsk,HC Admiral Vladivostok,6,1
+2025/26,2025-10-01,Regular season,Barys Astana,Lokomotiv Yaroslavl,1,5
+2025/26,2025-10-01,Regular season,Avtomobilist Yekaterinburg,Amur Khabarovsk,3,1
+2025/26,2025-10-01,Regular season,HC Salavat Yulaev Ufa,HC Sibir Novosibirsk,5,2
+2025/26,2025-10-01,Regular season,SKA St. Petersburg,Torpedo Nizhny Novgorod,2,3
+2025/26,2025-10-01,Regular season,Dinamo Minsk,Severstal Cherepovets,2,5
+2025/26,2025-10-02,Regular season,HC Neftekhimik Nizhnekamsk,Lada Togliatti,1,4
+2025/26,2025-10-02,Regular season,Dynamo Moskva,HC Traktor Chelyabinsk,3,2
+2025/26,2025-10-03,Regular season,HK Sochi,HC Admiral Vladivostok,4,5
+2025/26,2025-10-03,Regular season,CSKA Moskva,HC Metallurg Magnitogorsk,1,3
+2025/26,2025-10-03,Regular season,HC Spartak Moskva,SKA St. Petersburg,3,1
+2025/26,2025-10-03,Regular season,Torpedo Nizhny Novgorod,Severstal Cherepovets,3,5
+2025/26,2025-10-03,Regular season,HC Avangard Omsk,Lokomotiv Yaroslavl,4,1
+2025/26,2025-10-03,Regular season,Ak Bars Kazan,Amur Khabarovsk,5,1
+2025/26,2025-10-04,Regular season,HC Neftekhimik Nizhnekamsk,Avtomobilist Yekaterinburg,2,5
+2025/26,2025-10-04,Regular season,Shanghai Dragons,HC Traktor Chelyabinsk,5,4
+2025/26,2025-10-05,Regular season,HC Sibir Novosibirsk,Barys Astana,1,0
+2025/26,2025-10-05,Regular season,HC Spartak Moskva,HC Metallurg Magnitogorsk,2,6
+2025/26,2025-10-05,Regular season,HC Salavat Yulaev Ufa,HK Sochi,3,1
+2025/26,2025-10-05,Regular season,Lada Togliatti,HC Admiral Vladivostok,1,2
+2025/26,2025-10-05,Regular season,Ak Bars Kazan,Amur Khabarovsk,3,1
+2025/26,2025-10-05,Regular season,CSKA Moskva,Severstal Cherepovets,3,2
+2025/26,2025-10-05,Regular season,Torpedo Nizhny Novgorod,Dynamo Moskva,1,4
+2025/26,2025-10-06,Regular season,HC Avangard Omsk,Avtomobilist Yekaterinburg,1,4
+2025/26,2025-10-06,Regular season,Lokomotiv Yaroslavl,SKA St. Petersburg,4,2
+2025/26,2025-10-06,Regular season,Dinamo Minsk,HC Traktor Chelyabinsk,4,1
+2025/26,2025-10-07,Regular season,Ak Bars Kazan,Barys Astana,4,3
+2025/26,2025-10-07,Regular season,HC Spartak Moskva,Shanghai Dragons,3,0
+2025/26,2025-10-07,Regular season,HC Neftekhimik Nizhnekamsk,Amur Khabarovsk,1,2
+2025/26,2025-10-07,Regular season,Lada Togliatti,HK Sochi,3,1
+2025/26,2025-10-07,Regular season,Torpedo Nizhny Novgorod,HC Metallurg Magnitogorsk,1,5
+2025/26,2025-10-08,Regular season,Avtomobilist Yekaterinburg,SKA St. Petersburg,2,1
+2025/26,2025-10-08,Regular season,Dynamo Moskva,HC Salavat Yulaev Ufa,4,1
+2025/26,2025-10-09,Regular season,HC Traktor Chelyabinsk,Barys Astana,3,2
+2025/26,2025-10-09,Regular season,HC Neftekhimik Nizhnekamsk,Amur Khabarovsk,1,4
+2025/26,2025-10-09,Regular season,Severstal Cherepovets,HK Sochi,3,0
+2025/26,2025-10-09,Regular season,Shanghai Dragons,Dinamo Minsk,3,2
+2025/26,2025-10-10,Regular season,Dynamo Moskva,CSKA Moskva,4,3
+2025/26,2025-10-10,Regular season,HC Spartak Moskva,HC Salavat Yulaev Ufa,2,1
+2025/26,2025-10-10,Regular season,HC Metallurg Magnitogorsk,Torpedo Nizhny Novgorod,4,1
+2025/26,2025-10-10,Regular season,Avtomobilist Yekaterinburg,HC Avangard Omsk,3,0
+2025/26,2025-10-10,Regular season,Lada Togliatti,HC Sibir Novosibirsk,4,2
+2025/26,2025-10-11,Regular season,HC Traktor Chelyabinsk,Lokomotiv Yaroslavl,3,1
+2025/26,2025-10-11,Regular season,Shanghai Dragons,Dinamo Minsk,2,1
+2025/26,2025-10-12,Regular season,HC Neftekhimik Nizhnekamsk,HC Sibir Novosibirsk,2,3
+2025/26,2025-10-12,Regular season,Barys Astana,Torpedo Nizhny Novgorod,3,5
+2025/26,2025-10-12,Regular season,HC Metallurg Magnitogorsk,HC Avangard Omsk,1,5
+2025/26,2025-10-12,Regular season,CSKA Moskva,Ak Bars Kazan,2,3
+2025/26,2025-10-13,Regular season,Severstal Cherepovets,Lokomotiv Yaroslavl,4,3
+2025/26,2025-10-13,Regular season,SKA St. Petersburg,Avtomobilist Yekaterinburg,2,1
+2025/26,2025-10-14,Regular season,Shanghai Dragons,Dynamo Moskva,3,2
+2025/26,2025-10-14,Regular season,Dinamo Minsk,Torpedo Nizhny Novgorod,7,1
+2025/26,2025-10-14,Regular season,Barys Astana,HC Sibir Novosibirsk,3,4
+2025/26,2025-10-14,Regular season,HC Traktor Chelyabinsk,HC Avangard Omsk,5,8
+2025/26,2025-10-14,Regular season,HC Salavat Yulaev Ufa,Ak Bars Kazan,1,4
+2025/26,2025-10-15,Regular season,Amur Khabarovsk,HC Spartak Moskva,4,3
+2025/26,2025-10-15,Regular season,HC Admiral Vladivostok,Lada Togliatti,6,1
+2025/26,2025-10-15,Regular season,Lokomotiv Yaroslavl,CSKA Moskva,4,1
+2025/26,2025-10-15,Regular season,SKA St. Petersburg,HC Neftekhimik Nizhnekamsk,2,3
+2025/26,2025-10-15,Regular season,Severstal Cherepovets,Avtomobilist Yekaterinburg,2,0
+2025/26,2025-10-16,Regular season,HC Sibir Novosibirsk,Ak Bars Kazan,1,4
+2025/26,2025-10-16,Regular season,HC Metallurg Magnitogorsk,HC Salavat Yulaev Ufa,6,4
+2025/26,2025-10-16,Regular season,Barys Astana,HC Avangard Omsk,6,2
+2025/26,2025-10-16,Regular season,Shanghai Dragons,Dynamo Moskva,2,3
+2025/26,2025-10-17,Regular season,Dinamo Minsk,HC Neftekhimik Nizhnekamsk,3,4
+2025/26,2025-10-17,Regular season,HK Sochi,Avtomobilist Yekaterinburg,2,3
+2025/26,2025-10-17,Regular season,Torpedo Nizhny Novgorod,CSKA Moskva,0,1
+2025/26,2025-10-17,Regular season,Amur Khabarovsk,Lada Togliatti,3,0
+2025/26,2025-10-17,Regular season,HC Admiral Vladivostok,HC Spartak Moskva,3,4
+2025/26,2025-10-18,Regular season,HC Traktor Chelyabinsk,HC Salavat Yulaev Ufa,2,1
+2025/26,2025-10-18,Regular season,Barys Astana,Ak Bars Kazan,2,3
+2025/26,2025-10-18,Regular season,SKA St. Petersburg,Lokomotiv Yaroslavl,1,3
+2025/26,2025-10-19,Regular season,Amur Khabarovsk,Severstal Cherepovets,2,3
+2025/26,2025-10-19,Regular season,HC Avangard Omsk,Avtomobilist Yekaterinburg,3,2
+2025/26,2025-10-19,Regular season,HC Metallurg Magnitogorsk,HC Neftekhimik Nizhnekamsk,9,6
+2025/26,2025-10-19,Regular season,Torpedo Nizhny Novgorod,Lada Togliatti,5,3
+2025/26,2025-10-20,Regular season,Dynamo Moskva,Lokomotiv Yaroslavl,2,3
+2025/26,2025-10-20,Regular season,CSKA Moskva,Dinamo Minsk,5,3
+2025/26,2025-10-21,Regular season,HC Admiral Vladivostok,Severstal Cherepovets,1,4
+2025/26,2025-10-21,Regular season,HC Sibir Novosibirsk,HC Metallurg Magnitogorsk,1,2
+2025/26,2025-10-21,Regular season,HC Salavat Yulaev Ufa,HC Traktor Chelyabinsk,3,2
+2025/26,2025-10-21,Regular season,HC Spartak Moskva,Shanghai Dragons,7,6
+2025/26,2025-10-22,Regular season,HK Sochi,Torpedo Nizhny Novgorod,1,3
+2025/26,2025-10-22,Regular season,SKA St. Petersburg,CSKA Moskva,3,4
+2025/26,2025-10-22,Regular season,Ak Bars Kazan,Lokomotiv Yaroslavl,1,0
+2025/26,2025-10-22,Regular season,Lada Togliatti,Dinamo Minsk,0,4
+2025/26,2025-10-23,Regular season,HC Sibir Novosibirsk,HC Salavat Yulaev Ufa,2,5
+2025/26,2025-10-23,Regular season,HC Spartak Moskva,Dynamo Moskva,0,5
+2025/26,2025-10-23,Regular season,HC Neftekhimik Nizhnekamsk,HC Metallurg Magnitogorsk,5,3
+2025/26,2025-10-23,Regular season,Avtomobilist Yekaterinburg,HC Traktor Chelyabinsk,5,3
+2025/26,2025-10-23,Regular season,HC Avangard Omsk,Severstal Cherepovets,3,4
+2025/26,2025-10-24,Regular season,SKA St. Petersburg,HK Sochi,8,1
+2025/26,2025-10-24,Regular season,Barys Astana,Amur Khabarovsk,3,1
+2025/26,2025-10-24,Regular season,Lada Togliatti,Torpedo Nizhny Novgorod,3,2
+2025/26,2025-10-24,Regular season,Dinamo Minsk,Shanghai Dragons,2,1
+2025/26,2025-10-25,Regular season,HC Sibir Novosibirsk,HC Traktor Chelyabinsk,3,4
+2025/26,2025-10-25,Regular season,HC Neftekhimik Nizhnekamsk,HC Salavat Yulaev Ufa,1,2
+2025/26,2025-10-25,Regular season,Ak Bars Kazan,HC Admiral Vladivostok,5,3
+2025/26,2025-10-26,Regular season,HC Spartak Moskva,HK Sochi,5,3
+2025/26,2025-10-26,Regular season,CSKA Moskva,Amur Khabarovsk,2,1
+2025/26,2025-10-26,Regular season,Severstal Cherepovets,Shanghai Dragons,4,1
+2025/26,2025-10-26,Regular season,Torpedo Nizhny Novgorod,Avtomobilist Yekaterinburg,7,4
+2025/26,2025-10-27,Regular season,HC Avangard Omsk,HC Metallurg Magnitogorsk,1,4
+2025/26,2025-10-27,Regular season,HC Neftekhimik Nizhnekamsk,Barys Astana,3,2
+2025/26,2025-10-27,Regular season,Ak Bars Kazan,HC Admiral Vladivostok,3,2
+2025/26,2025-10-28,Regular season,Lokomotiv Yaroslavl,Lada Togliatti,3,2
+2025/26,2025-10-28,Regular season,Shanghai Dragons,Dynamo Moskva,1,5
+2025/26,2025-10-28,Regular season,Dinamo Minsk,HK Sochi,8,2
+2025/26,2025-10-28,Regular season,HC Spartak Moskva,CSKA Moskva,3,2
+2025/26,2025-10-28,Regular season,Severstal Cherepovets,Amur Khabarovsk,6,2
+2025/26,2025-10-28,Regular season,HC Traktor Chelyabinsk,Avtomobilist Yekaterinburg,1,2
+2025/26,2025-10-29,Regular season,HC Salavat Yulaev Ufa,HC Admiral Vladivostok,6,1
+2025/26,2025-10-29,Regular season,Ak Bars Kazan,HC Metallurg Magnitogorsk,4,0
+2025/26,2025-10-29,Regular season,SKA St. Petersburg,HC Sibir Novosibirsk,3,2
+2025/26,2025-10-29,Regular season,HC Avangard Omsk,Barys Astana,4,3
+2025/26,2025-10-30,Regular season,Torpedo Nizhny Novgorod,Lada Togliatti,2,0
+2025/26,2025-10-30,Regular season,Severstal Cherepovets,Dynamo Moskva,0,3
+2025/26,2025-10-30,Regular season,Dinamo Minsk,Amur Khabarovsk,6,2
+2025/26,2025-10-31,Regular season,HC Traktor Chelyabinsk,Barys Astana,6,3
+2025/26,2025-10-31,Regular season,HC Salavat Yulaev Ufa,HC Admiral Vladivostok,5,0
+2025/26,2025-10-31,Regular season,Lokomotiv Yaroslavl,SKA St. Petersburg,3,2
+2025/26,2025-10-31,Regular season,Avtomobilist Yekaterinburg,HC Sibir Novosibirsk,7,1
+2025/26,2025-11-01,Regular season,HC Avangard Omsk,HC Neftekhimik Nizhnekamsk,2,1
+2025/26,2025-11-01,Regular season,Severstal Cherepovets,Shanghai Dragons,3,6
+2025/26,2025-11-01,Regular season,Ak Bars Kazan,Lada Togliatti,3,4
+2025/26,2025-11-01,Regular season,Dynamo Moskva,CSKA Moskva,3,2
+2025/26,2025-11-02,Regular season,HC Traktor Chelyabinsk,HC Sibir Novosibirsk,4,3
+2025/26,2025-11-02,Regular season,Amur Khabarovsk,HC Admiral Vladivostok,3,2
+2025/26,2025-11-02,Regular season,Avtomobilist Yekaterinburg,Torpedo Nizhny Novgorod,0,2
+2025/26,2025-11-02,Regular season,HC Salavat Yulaev Ufa,Lokomotiv Yaroslavl,1,4
+2025/26,2025-11-02,Regular season,HK Sochi,HC Spartak Moskva,5,2
+2025/26,2025-11-03,Regular season,HC Metallurg Magnitogorsk,Shanghai Dragons,6,1
+2025/26,2025-11-03,Regular season,Barys Astana,HC Neftekhimik Nizhnekamsk,2,5
+2025/26,2025-11-03,Regular season,Dinamo Minsk,CSKA Moskva,2,0
+2025/26,2025-11-04,Regular season,HC Sibir Novosibirsk,Torpedo Nizhny Novgorod,3,4
+2025/26,2025-11-04,Regular season,HK Sochi,HC Spartak Moskva,0,1
+2025/26,2025-11-04,Regular season,SKA St. Petersburg,Dynamo Moskva,1,2
+2025/26,2025-11-05,Regular season,Amur Khabarovsk,HC Avangard Omsk,3,2
+2025/26,2025-11-05,Regular season,HC Admiral Vladivostok,HC Metallurg Magnitogorsk,1,2
+2025/26,2025-11-05,Regular season,HC Traktor Chelyabinsk,HC Neftekhimik Nizhnekamsk,3,4
+2025/26,2025-11-05,Regular season,Barys Astana,HC Salavat Yulaev Ufa,1,2
+2025/26,2025-11-06,Regular season,CSKA Moskva,Torpedo Nizhny Novgorod,1,2
+2025/26,2025-11-06,Regular season,Dynamo Moskva,Lada Togliatti,4,3
+2025/26,2025-11-06,Regular season,SKA St. Petersburg,Shanghai Dragons,3,2
+2025/26,2025-11-06,Regular season,Dinamo Minsk,Ak Bars Kazan,4,3
+2025/26,2025-11-06,Regular season,Lokomotiv Yaroslavl,HC Spartak Moskva,5,2
+2025/26,2025-11-06,Regular season,HK Sochi,Severstal Cherepovets,4,5
+2025/26,2025-11-07,Regular season,Amur Khabarovsk,HC Metallurg Magnitogorsk,1,3
+2025/26,2025-11-07,Regular season,HC Admiral Vladivostok,HC Avangard Omsk,2,1
+2025/26,2025-11-07,Regular season,Barys Astana,Avtomobilist Yekaterinburg,3,2
+2025/26,2025-11-07,Regular season,HC Neftekhimik Nizhnekamsk,HC Salavat Yulaev Ufa,1,0
+2025/26,2025-11-08,Regular season,Lokomotiv Yaroslavl,Ak Bars Kazan,3,1
+2025/26,2025-11-08,Regular season,Shanghai Dragons,Severstal Cherepovets,2,4
+2025/26,2025-11-08,Regular season,CSKA Moskva,HC Sibir Novosibirsk,4,0
+2025/26,2025-11-08,Regular season,Dinamo Minsk,Lada Togliatti,0,1
+2025/26,2025-11-08,Regular season,Dynamo Moskva,SKA St. Petersburg,2,3
+2025/26,2025-11-09,Regular season,HC Admiral Vladivostok,HC Traktor Chelyabinsk,1,3
+2025/26,2025-11-09,Regular season,Amur Khabarovsk,Avtomobilist Yekaterinburg,3,0
+2025/26,2025-11-09,Regular season,Barys Astana,HC Metallurg Magnitogorsk,1,4
+2025/26,2025-11-10,Regular season,CSKA Moskva,Severstal Cherepovets,2,0
+2025/26,2025-11-10,Regular season,HC Neftekhimik Nizhnekamsk,Ak Bars Kazan,1,4
+2025/26,2025-11-10,Regular season,Dynamo Moskva,Shanghai Dragons,1,4
+2025/26,2025-11-10,Regular season,HC Spartak Moskva,HC Sibir Novosibirsk,6,3
+2025/26,2025-11-10,Regular season,Torpedo Nizhny Novgorod,Lokomotiv Yaroslavl,2,1
+2025/26,2025-11-10,Regular season,HC Salavat Yulaev Ufa,Lada Togliatti,3,5
+2025/26,2025-11-10,Regular season,HC Avangard Omsk,SKA St. Petersburg,0,1
+2025/26,2025-11-10,Regular season,Dinamo Minsk,HK Sochi,5,2
+2025/26,2025-11-11,Regular season,Amur Khabarovsk,HC Traktor Chelyabinsk,1,2
+2025/26,2025-11-11,Regular season,HC Admiral Vladivostok,Avtomobilist Yekaterinburg,4,2
+2025/26,2025-11-12,Regular season,Torpedo Nizhny Novgorod,HK Sochi,5,3
+2025/26,2025-11-12,Regular season,HC Salavat Yulaev Ufa,SKA St. Petersburg,2,1
+2025/26,2025-11-12,Regular season,HC Metallurg Magnitogorsk,Lada Togliatti,6,4
+2025/26,2025-11-12,Regular season,HC Spartak Moskva,Lokomotiv Yaroslavl,3,6
+2025/26,2025-11-12,Regular season,Dinamo Minsk,HC Sibir Novosibirsk,7,0
+2025/26,2025-11-13,Regular season,HC Avangard Omsk,HC Traktor Chelyabinsk,3,2
+2025/26,2025-11-13,Regular season,Ak Bars Kazan,Dynamo Moskva,5,4
+2025/26,2025-11-14,Regular season,HC Neftekhimik Nizhnekamsk,CSKA Moskva,3,2
+2025/26,2025-11-14,Regular season,HC Spartak Moskva,Severstal Cherepovets,3,4
+2025/26,2025-11-15,Regular season,HK Sochi,Shanghai Dragons,4,2
+2025/26,2025-11-15,Regular season,Lokomotiv Yaroslavl,Barys Astana,0,4
+2025/26,2025-11-15,Regular season,HC Sibir Novosibirsk,Dynamo Moskva,2,3
+2025/26,2025-11-16,Regular season,SKA St. Petersburg,HC Metallurg Magnitogorsk,4,3
+2025/26,2025-11-16,Regular season,Ak Bars Kazan,Dinamo Minsk,3,7
+2025/26,2025-11-16,Regular season,Severstal Cherepovets,CSKA Moskva,4,3
+2025/26,2025-11-16,Regular season,Amur Khabarovsk,HC Admiral Vladivostok,2,5
+2025/26,2025-11-16,Regular season,Lada Togliatti,HC Neftekhimik Nizhnekamsk,2,1
+2025/26,2025-11-16,Regular season,HC Traktor Chelyabinsk,Avtomobilist Yekaterinburg,1,5
+2025/26,2025-11-16,Regular season,Torpedo Nizhny Novgorod,HC Avangard Omsk,2,6
+2025/26,2025-11-17,Regular season,HC Sibir Novosibirsk,Shanghai Dragons,0,3
+2025/26,2025-11-17,Regular season,Lokomotiv Yaroslavl,HC Salavat Yulaev Ufa,4,3
+2025/26,2025-11-17,Regular season,HK Sochi,Barys Astana,1,2
+2025/26,2025-11-18,Regular season,Torpedo Nizhny Novgorod,HC Admiral Vladivostok,1,2
+2025/26,2025-11-18,Regular season,Avtomobilist Yekaterinburg,HC Neftekhimik Nizhnekamsk,6,3
+2025/26,2025-11-18,Regular season,HC Traktor Chelyabinsk,HC Metallurg Magnitogorsk,3,4
+2025/26,2025-11-18,Regular season,Lada Togliatti,HC Avangard Omsk,0,3
+2025/26,2025-11-18,Regular season,Ak Bars Kazan,CSKA Moskva,1,4
+2025/26,2025-11-18,Regular season,Dynamo Moskva,HC Spartak Moskva,2,4
+2025/26,2025-11-18,Regular season,Severstal Cherepovets,Dinamo Minsk,4,2
+2025/26,2025-11-19,Regular season,HK Sochi,HC Salavat Yulaev Ufa,2,1
+2025/26,2025-11-19,Regular season,Lokomotiv Yaroslavl,Shanghai Dragons,3,4

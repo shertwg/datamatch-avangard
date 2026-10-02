@@ -1,0 +1,103 @@
+match_id,season,date,time,weekday,opponent,opponent_khl,sales_open,part
+M001,2023/24,2023-09-02,17:00,6,Сибирь,HC Sibir Novosibirsk,2023-08-23,train
+M002,2023/24,2023-09-07,19:30,4,Автомобилист,Avtomobilist Yekaterinburg,2023-08-23,train
+M003,2023/24,2023-09-09,17:00,6,Барыс,Barys Astana,2023-08-23,train
+M004,2023/24,2023-09-11,19:30,1,Амур,Amur Khabarovsk,2023-08-22,train
+M005,2023/24,2023-09-14,19:30,4,Адмирал,HC Admiral Vladivostok,2023-08-23,train
+M006,2023/24,2023-09-16,16:30,6,Нефтехимик,HC Neftekhimik Nizhnekamsk,2023-08-23,train
+M007,2023/24,2023-10-07,17:00,6,Трактор,HC Traktor Chelyabinsk,2023-09-15,train
+M008,2023/24,2023-10-11,19:30,3,Металлург Мг,HC Metallurg Magnitogorsk,2023-09-15,train
+M009,2023/24,2023-10-13,19:30,5,Динамо Мск,Dynamo Moskva,2023-09-15,train
+M010,2023/24,2023-10-15,15:30,7,Локомотив,Lokomotiv Yaroslavl,2023-09-15,train
+M011,2023/24,2023-10-26,19:30,4,Салават Юлаев,HC Salavat Yulaev Ufa,2023-09-15,train
+M012,2023/24,2023-10-29,17:00,7,Динамо Мн,Dinamo Minsk,2023-09-15,train
+M013,2023/24,2023-10-31,19:30,2,Торпедо,Torpedo Nizhny Novgorod,2023-09-15,train
+M014,2023/24,2023-11-12,17:00,7,Шанхайские Драконы,Shanghai Dragons,2023-10-13,train
+M015,2023/24,2023-11-14,19:30,2,Северсталь,Severstal Cherepovets,2023-10-13,train
+M016,2023/24,2023-11-17,19:30,5,Адмирал,HC Admiral Vladivostok,2023-10-13,train
+M017,2023/24,2023-11-29,19:30,3,Витязь,Vityaz Moscow Region,2023-11-01,train
+M018,2023/24,2023-12-01,19:30,5,Нефтехимик,HC Neftekhimik Nizhnekamsk,2023-11-01,train
+M019,2023/24,2023-12-04,19:30,1,Амур,Amur Khabarovsk,2023-11-01,train
+M020,2023/24,2023-12-05,19:30,2,Барыс,Barys Astana,2023-11-01,train
+M021,2023/24,2023-12-19,19:30,2,Ак Барс,Ak Bars Kazan,2023-12-01,train
+M022,2023/24,2023-12-21,19:30,4,Сочи,HK Sochi,2023-11-17,train
+M023,2023/24,2023-12-24,17:00,7,Металлург Мг,HC Metallurg Magnitogorsk,2023-12-01,train
+M024,2023/24,2024-01-03,17:00,3,Салават Юлаев,HC Salavat Yulaev Ufa,2023-12-01,train
+M025,2023/24,2024-01-06,17:00,6,Лада,Lada Togliatti,2023-12-01,train
+M026,2023/24,2024-01-17,19:30,3,ЦСКА,CSKA Moskva,2023-12-19,train
+M027,2023/24,2024-01-26,19:30,5,Ак Барс,Ak Bars Kazan,2023-12-19,train
+M028,2023/24,2024-01-28,17:00,7,Трактор,HC Traktor Chelyabinsk,2023-12-19,train
+M029,2023/24,2024-02-06,19:30,2,СКА,SKA St. Petersburg,2024-01-11,train
+M030,2023/24,2024-02-08,19:30,4,Спартак,HC Spartak Moskva,2024-01-11,train
+M031,2023/24,2024-02-11,17:00,7,Сибирь,HC Sibir Novosibirsk,2024-01-11,train
+M032,2023/24,2024-02-17,17:00,6,Металлург Мг,HC Metallurg Magnitogorsk,2024-01-17,train
+M033,2023/24,2024-02-20,19:30,2,Автомобилист,Avtomobilist Yekaterinburg,2023-12-19,train
+M034,2023/24,2024-02-22,19:30,4,Лада,Lada Togliatti,2024-01-26,train
+M035,2024/25,2024-09-04,19:30,3,Сибирь,HC Sibir Novosibirsk,2024-08-20,train
+M036,2024/25,2024-09-06,19:30,5,Нефтехимик,HC Neftekhimik Nizhnekamsk,2024-08-20,train
+M037,2024/25,2024-09-09,19:30,1,Ак Барс,Ak Bars Kazan,2024-08-19,train
+M038,2024/25,2024-09-11,19:30,3,Амур,Amur Khabarovsk,2024-08-20,train
+M039,2024/25,2024-09-20,19:30,5,Автомобилист,Avtomobilist Yekaterinburg,2024-08-19,train
+M040,2024/25,2024-09-30,19:30,1,Сибирь,HC Sibir Novosibirsk,2024-09-10,train
+M041,2024/25,2024-10-03,19:30,4,Локомотив,Lokomotiv Yaroslavl,2024-09-10,train
+M042,2024/25,2024-10-05,17:00,6,Барыс,Barys Astana,2024-09-10,train
+M043,2024/25,2024-10-17,19:30,4,Спартак,HC Spartak Moskva,2024-09-16,train
+M044,2024/25,2024-10-23,19:30,3,Трактор,HC Traktor Chelyabinsk,2024-09-16,train
+M045,2024/25,2024-10-27,17:00,7,Металлург Мг,HC Metallurg Magnitogorsk,2024-09-23,train
+M046,2024/25,2024-10-31,19:30,4,Лада,Lada Togliatti,2024-09-23,train
+M047,2024/25,2024-11-11,19:30,1,СКА,SKA St. Petersburg,2024-10-01,train
+M048,2024/25,2024-11-13,19:30,3,Динамо Мск,Dynamo Moskva,2024-10-14,train
+M049,2024/25,2024-11-16,17:00,6,Нефтехимик,HC Neftekhimik Nizhnekamsk,2024-10-14,train
+M050,2024/25,2024-11-19,19:30,2,Динамо Мн,Dinamo Minsk,2024-10-14,train
+M051,2024/25,2024-11-22,19:30,5,Адмирал,HC Admiral Vladivostok,2024-10-14,train
+M052,2024/25,2024-12-01,17:00,7,Северсталь,Severstal Cherepovets,2024-10-28,train
+M053,2024/25,2024-12-04,19:30,3,Сочи,HK Sochi,2024-10-28,train
+M054,2024/25,2024-12-07,17:00,6,Автомобилист,Avtomobilist Yekaterinburg,2024-10-28,train
+M055,2024/25,2024-12-28,19:30,6,Лада,Lada Togliatti,2024-11-18,train
+M056,2024/25,2024-12-30,17:00,1,Металлург Мг,HC Metallurg Magnitogorsk,2024-11-18,train
+M057,2024/25,2025-01-12,17:00,7,Салават Юлаев,HC Salavat Yulaev Ufa,2024-12-02,train
+M058,2024/25,2025-01-14,19:30,2,Шанхайские Драконы,Shanghai Dragons,2024-12-02,train
+M059,2024/25,2025-01-17,19:30,5,ЦСКА,CSKA Moskva,2024-12-02,train
+M060,2024/25,2025-01-27,19:30,1,Адмирал,HC Admiral Vladivostok,2024-12-16,train
+M061,2024/25,2025-01-29,19:30,3,Салават Юлаев,HC Salavat Yulaev Ufa,2024-12-16,train
+M062,2024/25,2025-01-31,19:30,5,Барыс,Barys Astana,2024-12-16,train
+M063,2024/25,2025-02-16,17:00,7,Ак Барс,Ak Bars Kazan,2025-01-13,train
+M064,2024/25,2025-02-19,19:30,3,Металлург Мг,HC Metallurg Magnitogorsk,2025-01-13,train
+M065,2024/25,2025-02-22,17:00,6,Амур,Amur Khabarovsk,2025-01-13,train
+M066,2024/25,2025-02-26,19:30,3,Витязь,Vityaz Moscow Region,2025-01-13,train
+M067,2024/25,2025-03-11,19:30,2,Торпедо,Torpedo Nizhny Novgorod,2025-02-03,train
+M068,2024/25,2025-03-14,19:30,5,Трактор,HC Traktor Chelyabinsk,2025-02-03,train
+M069,2025/26,2025-09-08,19:30,1,Ак Барс,Ak Bars Kazan,2025-08-25,train
+M070,2025/26,2025-09-11,19:30,4,Амур,Amur Khabarovsk,2025-08-25,train
+M071,2025/26,2025-09-13,17:00,6,Динамо Мск,Dynamo Moskva,2025-08-25,train
+M072,2025/26,2025-09-15,19:30,1,Динамо Мн,Dinamo Minsk,2025-08-25,train
+M073,2025/26,2025-09-17,19:30,3,Салават Юлаев,HC Salavat Yulaev Ufa,2025-08-25,train
+M074,2025/26,2025-10-01,19:30,3,Адмирал,HC Admiral Vladivostok,2025-09-08,train
+M075,2025/26,2025-10-03,19:30,5,Локомотив,Lokomotiv Yaroslavl,2025-09-08,train
+M076,2025/26,2025-10-06,19:30,1,Автомобилист,Avtomobilist Yekaterinburg,2025-09-08,train
+M077,2025/26,2025-10-19,17:00,7,Автомобилист,Avtomobilist Yekaterinburg,2025-09-22,train
+M078,2025/26,2025-10-23,19:30,4,Северсталь,Severstal Cherepovets,2025-09-22,train
+M079,2025/26,2025-10-27,19:30,1,Металлург Мг,HC Metallurg Magnitogorsk,2025-09-22,train
+M080,2025/26,2025-10-29,19:30,3,Барыс,Barys Astana,2025-09-22,train
+M081,2025/26,2025-11-01,19:30,6,Нефтехимик,HC Neftekhimik Nizhnekamsk,2025-09-22,train
+M082,2025/26,2025-11-10,19:30,1,СКА,SKA St. Petersburg,2025-10-13,train
+M083,2025/26,2025-11-13,19:30,4,Трактор,HC Traktor Chelyabinsk,2025-10-13,train
+M084,2025/26,2025-12-04,19:30,4,Сочи,HK Sochi,2025-10-27,train
+M085,2025/26,2025-12-07,17:00,7,Спартак,HC Spartak Moskva,2025-10-27,train
+M086,2025/26,2025-12-24,19:30,3,Нефтехимик,HC Neftekhimik Nizhnekamsk,2025-11-18,test
+M087,2025/26,2025-12-26,19:30,5,Металлург Мг,HC Metallurg Magnitogorsk,2025-11-18,test
+M088,2025/26,2025-12-28,17:00,7,Лада,Lada Togliatti,2025-11-18,test
+M089,2025/26,2025-12-30,19:30,2,Барыс,Barys Astana,2025-11-18,test
+M090,2025/26,2026-01-13,19:30,2,Салават Юлаев,HC Salavat Yulaev Ufa,2025-12-08,test
+M091,2025/26,2026-01-15,19:30,4,ЦСКА,CSKA Moskva,2025-12-08,test
+M092,2025/26,2026-01-26,19:30,1,Адмирал,HC Admiral Vladivostok,2025-12-29,test
+M093,2025/26,2026-01-29,19:30,4,Трактор,HC Traktor Chelyabinsk,2025-12-29,test
+M094,2025/26,2026-02-05,19:30,4,Автомобилист,Avtomobilist Yekaterinburg,2025-12-29,test
+M095,2025/26,2026-02-15,17:00,7,Трактор,HC Traktor Chelyabinsk,2026-01-12,test
+M096,2025/26,2026-02-17,19:30,2,Ак Барс,Ak Bars Kazan,2026-01-12,test
+M097,2025/26,2026-02-20,19:30,5,Сибирь,HC Sibir Novosibirsk,2026-01-19,test
+M098,2025/26,2026-02-22,17:00,7,Амур,Amur Khabarovsk,2026-01-19,test
+M099,2025/26,2026-02-27,19:30,5,Металлург Мг,HC Metallurg Magnitogorsk,2026-01-19,test
+M100,2025/26,2026-03-09,17:00,1,Сибирь,HC Sibir Novosibirsk,2026-02-09,test
+M101,2025/26,2026-03-11,19:30,3,Торпедо,Torpedo Nizhny Novgorod,2026-02-09,test
+M102,2025/26,2026-03-13,19:30,5,Шанхайские Драконы,Shanghai Dragons,2026-02-09,test
