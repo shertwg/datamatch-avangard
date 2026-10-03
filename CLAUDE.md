@@ -31,9 +31,15 @@
 ```
 data/        исходные данные (только чтение)
 docs/        задание: task.pdf, task_readme.md, LICENSE.md (только чтение)
-notebooks/   01_eda.ipynb, 02_features.ipynb, 03_baseline.ipynb, 04_model.ipynb ...
+src/data.py        load_raw(), build_table(as_of) — единая сборка таблицы match_id × zone
+src/validation.py  схема валидации
+notebooks/   01_eda.ipynb (ArinaPig), 02_baseline.ipynb (augustteske), 03_model.ipynb (sharbl4),
+             solution.ipynb — финальный, с нуля выдаёт predictions.csv
 ```
-- Ноутбуки нумеруются `NN_name.ipynb` в порядке запуска.
+- Ноутбуки нумеруются `NN_name.ipynb` в порядке запуска. Чужие ноутбуки без договорённости не правим.
+- Данные во всех ноутбуках берём только через `src.data.build_table(as_of=...)`: обрезка по as_of в одном месте.
+- Допущение: `seats` и `season_tickets` из zones.csv считаются известными заранее (не обрезаются по as_of).
+- Признаки из `khl_games` и `season_tickets_daily` делает sharbl4 отдельно, в build_table их нет.
 - Пути только относительные (`../data/matches.csv` из notebooks/), без абсолютных `C:\...`.
 - `random_state=42` везде (модели, KFold, сэмплирование).
 - Python 3.12, библиотеки только из `requirements.txt` (pandas, numpy, matplotlib, seaborn, scikit-learn, catboost, jupyter). Новую библиотеку добавляем в requirements.txt.
