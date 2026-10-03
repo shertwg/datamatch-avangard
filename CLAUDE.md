@@ -55,3 +55,4 @@ notebooks/   01_eda.ipynb (ArinaPig), 02_baseline.ipynb (augustteske), 03_model.
 - В `main` напрямую не коммитим и не пушим. Изменения попадают в `main` только через Pull Request.
 - Свежий `main` подтягиваем в свою ветку: `git pull origin main`.
 - Claude никогда не коммитит и не пушит в `main`. Коммит или пуш в свою ветку делает только по явной просьбе.
+- Claude мержит PR в `main` только по явной просьбе.
