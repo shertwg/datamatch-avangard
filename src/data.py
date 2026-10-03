@@ -39,14 +39,26 @@ def _sales_sum(sales, start, end, name):
     return sales[mask].groupby(["match_id", "zone"])["tickets"].sum().rename(name)
 
 
+def _check_as_of(as_of):
+    as_of = pd.Timestamp(as_of)
+    if as_of > CUTOFF:
+        raise ValueError(f"as_of={as_of.date()} позже даты отсечки {CUTOFF.date()} — утечка")
+    return as_of
+
+
+def load_daily_sales(as_of="2025-12-15", data_dir=DATA_DIR):
+    """Строки sales_daily.csv с date < as_of (match_id, zone, date, days_before, tickets)."""
+    as_of = _check_as_of(as_of)
+    sales = load_raw(data_dir)["sales"]
+    return sales[sales["date"] < as_of].reset_index(drop=True)
+
+
 def build_table(as_of="2025-12-15", data_dir=DATA_DIR):
     """Таблица match_id × zone (все 102 матча × 8 зон) с признаками на момент as_of.
 
     Всё, что зависит от продаж, берётся строго с date < as_of.
     """
-    as_of = pd.Timestamp(as_of)
-    if as_of > CUTOFF:
-        raise ValueError(f"as_of={as_of.date()} позже даты отсечки {CUTOFF.date()} — утечка")
+    as_of = _check_as_of(as_of)
 
     raw = load_raw(data_dir)
     m = raw["matches"].rename(columns={"date": "match_date"})
@@ -117,6 +129,19 @@ if __name__ == "__main__":
     print(f"\nas_of=2025-11-01: строк с таргетом {past['tickets_total'].notna().sum()}, "
           f"матчей с начавшимися продажами без итога: "
           f"{past.loc[(past['sales_started'] == 1) & late, 'match_id'].nunique()}")
+
+    # Дневные продажи: обрезка по as_of и согласованность с build_table
+    daily = load_daily_sales("2025-11-01")
+    assert (daily["date"] < pd.Timestamp("2025-11-01")).all()
+    agg = daily.groupby(["match_id", "zone"])["tickets"].sum()
+    assert agg.reindex(pd.MultiIndex.from_frame(past[["match_id", "zone"]]), fill_value=0).to_numpy().tolist() \
+        == past["sold_as_of"].tolist(), "load_daily_sales расходится с sold_as_of"
+    try:
+        load_daily_sales("2025-12-16")
+        raise AssertionError("load_daily_sales пропустила дату после отсечки")
+    except ValueError:
+        pass
+    print(f"load_daily_sales(2025-11-01): {len(daily)} строк, сходится с sold_as_of")
 
     print("\nКолонки:", list(df.columns))
     print("Все проверки пройдены.")
