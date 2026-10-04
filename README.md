@@ -44,6 +44,8 @@ python -m jupyter nbconvert --to notebook --execute notebooks/solution.ipynb   #
 ```bash
 python -m src.data             # сборка таблицы match_id × zone, обрезка по дате, «Все проверки пройдены.»
 python -m tests.test_leakage   # тест утечки, «OK: 3 из 3 фолдов без утечки»
+python -m tests.test_model     # срезы = build_table, прогноз не зависит от числа ядер и совпадает
+                               # с predictions.csv, «OK: 3 из 3 проверок пройдены» (~25 с)
 ```
 
 Все команды из этого раздела проверены 04.10.2026 в новом venv: Windows 11, Python 3.12.10.
@@ -73,7 +75,7 @@ submissions/   прогнозы на test: baseline.csv, smart_baseline.csv, cat
                                      ориентир; на валидации покрытие 69% при номинале 80%
   prediction_intervals_by_match.csv  интервалы 10–90% на матч (сумма зональных границ),
                                      на валидации покрытие 38 из 43 матчей (88%); строит 04_report.ipynb
-tests/         test_leakage.py
+tests/         test_leakage.py, test_model.py
 predictions.csv
 ```
 
