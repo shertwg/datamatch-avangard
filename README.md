@@ -34,9 +34,9 @@ python -m jupyter nbconvert --to notebook --execute notebooks/solution.ipynb   #
 ```
 
 Ноутбук сохраняет `predictions.csv` в корень. Выполненную копию nbconvert кладёт в
-`notebooks/solution.nbconvert.ipynb`, коммитить её не нужно.
+`notebooks/solution.nbconvert.ipynb`, она в `.gitignore`.
 
-> ⚠ Сначала активируйте venv. Без него `jupyter` может подхватить глобальный Python с другими версиями
+> **Важно:** сначала активируйте venv. Без него `jupyter` может подхватить глобальный Python с другими версиями
 > библиотек, и результат не совпадёт.
 
 Проверки:
@@ -70,7 +70,8 @@ reports/
   presentation.pdf         презентация для жюри
   presentation.pptx        исходник презентации
   presentation_outline.md  текст и цифры слайдов с источниками
-  build_presentation.py    сборка pptx и pdf из outline (нужен python-pptx, не входит в requirements.txt)
+  build_presentation.py    сборка pptx и pdf, текст слайдов внутри скрипта (нужен python-pptx, не входит
+                           в requirements.txt)
   jury_qa.md               ответы на вероятные вопросы жюри
   reproducibility.md       прогон в чистом окружении и хэши predictions.csv
   figures/                 графики для презентации

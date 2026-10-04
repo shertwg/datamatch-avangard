@@ -116,18 +116,6 @@ def evaluate(predict_fn, folds=FOLDS, n_val=17, same_season=True):
     не перемешиваются, поэтому при детерминированной predict_fn результат воспроизводим.
 
     Возвращает EvalResult: .overall (общий RMSE), .by_fold, .by_zone, .by_status, .preds.
-
-    Пример:
-        from src.validation import evaluate, predict_test
-
-        def my_predict(train, val, as_of):
-            feats = ["zone", "weekday", "hour", "month", "sold_as_of", "days_to_match"]
-            model = CatBoostRegressor(random_state=42, verbose=0)
-            model.fit(train[feats], train["tickets_total"])
-            return model.predict(val[feats])
-
-        res = evaluate(my_predict); print(res.overall); display(res.by_zone)
-        predict_test(my_predict).to_csv("../submissions/catboost.csv", index=False)
     """
     full = build_table()
     parts = []
