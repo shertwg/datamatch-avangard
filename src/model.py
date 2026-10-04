@@ -26,7 +26,7 @@ import numpy as np
 import pandas as pd
 from catboost import CatBoostRegressor
 
-from src.data import load_daily_sales, load_raw
+from src.data import load_daily_sales, load_khl
 
 AVANGARD = "HC Avangard Omsk"
 SNAP_DAYS = (1, 3, 5, 7, 9, 11, 13, 15, 18, 21, 25, 29, 33, 40)  # дней до матча на дату среза
@@ -218,8 +218,7 @@ def catboost_predict(train, val, as_of, features=FEATURES):
     features — список признаков (по умолчанию FEATURES); нужен для абляций в 03_model.ipynb.
     """
     as_of = pd.Timestamp(as_of)
-    khl = load_raw()["khl"]
-    games = _khl_long(khl[khl["date"] < as_of])
+    games = _khl_long(load_khl(as_of))
     daily = load_daily_sales(as_of)
     daily = daily[daily["match_id"].isin(train["match_id"])]
     played = _played_info(train)
