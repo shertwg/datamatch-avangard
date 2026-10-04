@@ -24,11 +24,11 @@
 py -3.12 -m venv .venv
 .venv\Scripts\Activate.ps1
 pip install -r requirements.txt
-jupyter nbconvert --to notebook --execute notebooks/solution.ipynb --output solution_run.ipynb
+jupyter nbconvert --to notebook --execute notebooks/solution.ipynb
 Get-FileHash predictions.csv -Algorithm SHA256
 ```
 
-`.venv/` уже в `.gitignore`. `solution_run.ipynb` — выполненная копия, коммитить её не нужно.
+`.venv/` уже в `.gitignore`. `notebooks/solution.nbconvert.ipynb` — выполненная копия, она уже в `.gitignore` (`*.nbconvert.ipynb`).
 
 ## Что обеспечивает воспроизводимость
 

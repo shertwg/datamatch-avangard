@@ -65,9 +65,14 @@ notebooks/
   04_report.ipynb    проверка predictions.csv, значимость, цифры и графики для презентации
   solution.ipynb     финальный: с нуля выдаёт predictions.csv
 reports/
-  figures/              графики для презентации
-  cache/                кэш оценок моделей на фолдах
-  presentation_outline.md, jury_qa.md, reproducibility.md
+  presentation.pdf         презентация для жюри
+  presentation.pptx        исходник презентации
+  presentation_outline.md  текст и цифры слайдов с источниками
+  build_presentation.py    сборка pptx и pdf из outline (нужен python-pptx, не входит в requirements.txt)
+  jury_qa.md               ответы на вероятные вопросы жюри
+  reproducibility.md       прогон в чистом окружении и хэши predictions.csv
+  figures/                 графики для презентации
+  cache/                   кэш оценок моделей на фолдах
 submissions/   прогнозы на test: baseline.csv, smart_baseline.csv, catboost.csv
   prediction_intervals.csv           интервалы 10–90% по строкам (match_id, zone, pred, low, high) —
                                      ориентир; на валидации покрытие 69% при номинале 80%

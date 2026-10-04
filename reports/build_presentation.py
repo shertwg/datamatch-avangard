@@ -1,4 +1,4 @@
-"""Сборка черновика презентации: reports/presentation_draft.pptx (+ PDF по флагу --pdf).
+"""Сборка презентации: reports/presentation.pptx (+ reports/presentation.pdf по флагу --pdf).
 
 Источник текста — reports/presentation_outline.md. Цифры правим в SLIDES ниже и пересобираем:
 
@@ -31,7 +31,7 @@ from pptx.util import Emu, Inches, Pt
 
 ROOT = Path(__file__).resolve().parent
 FIG = ROOT / "figures"
-OUT_PPTX = ROOT / "presentation_draft.pptx"
+OUT_PPTX = ROOT / "presentation.pptx"
 
 # ---------------------------------------------------------------- стиль
 FONT = "Calibri"
