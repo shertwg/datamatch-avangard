@@ -77,11 +77,20 @@ def make_fold(as_of, full=None, n_val=17, same_season=True):
 
 @dataclass
 class EvalResult:
-    preds: pd.DataFrame     # fold, match_id, zone, in_sale, y_true, y_pred — по строке на (фолд, матч, зона)
-    overall: float          # RMSE по всем строкам всех фолдов
-    by_fold: pd.DataFrame   # RMSE, число матчей и строк по каждому фолду
-    by_zone: pd.DataFrame   # RMSE: зоны × (фолды + «все»)
-    by_status: pd.DataFrame  # RMSE для матчей, уже в продаже на as_of, и ещё не в продаже
+    """Результат evaluate.
+
+    preds     — fold, match_id, zone, in_sale, y_true, y_pred: по строке на (фолд, матч, зона);
+    overall   — RMSE по всем строкам всех фолдов;
+    by_fold   — RMSE, число матчей и строк по каждому фолду;
+    by_zone   — RMSE: зоны × (фолды + «все»);
+    by_status — RMSE для матчей, уже в продаже на as_of, и ещё не в продаже.
+    """
+
+    preds: pd.DataFrame
+    overall: float
+    by_fold: pd.DataFrame
+    by_zone: pd.DataFrame
+    by_status: pd.DataFrame
 
     def __repr__(self):
         return f"EvalResult(RMSE={self.overall:.2f}, folds={list(self.by_fold.index.drop('all'))})"

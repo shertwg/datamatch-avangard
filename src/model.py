@@ -20,6 +20,16 @@
 - на уровень зоны — для матчей, продажи на которые ещё не открыты (переносится между сезонами);
 - на свободные места (capacity − sold_as_of) — для матчей в продаже (учитывает потолок зоны).
 
+Срез «не открыты» весит как все открытые срезы матча вместе: на дату прогноза большинство матчей
+ещё не в продаже. Матчи без истории уровня зоны (первые в данных) в обучение не идут.
+
+CatBoost обучается детерминированно (bootstrap_type="No", random_strength=0): со случайностью
+разброс RMSE между seed на 3 фолдах был ±3, сравнимо с выигрышем от признаков.
+
+Константы: SNAP_DAYS — дни до матча для срезов; LEVEL_N — окно уровня зоны (текущий сезон,
+добор до N матчей из прошлых, как у smart baseline); MAX_H — кривая продаж считается для
+h = 0..MAX_H дней до матча.
+
 Допущение: sales_open известна заранее для всех матчей (как seats в zones.csv).
 """
 import numpy as np
@@ -29,9 +39,9 @@ from catboost import CatBoostRegressor
 from src.data import load_daily_sales, load_khl
 
 AVANGARD = "HC Avangard Omsk"
-SNAP_DAYS = (1, 3, 5, 7, 9, 11, 13, 15, 18, 21, 25, 29, 33, 40)  # дней до матча на дату среза
-LEVEL_N = 10  # окно уровня зоны: текущий сезон, добор до N матчей из прошлых (как smart baseline)
-MAX_H = 70    # кривая продаж считается для h = 0..MAX_H дней до матча
+SNAP_DAYS = (1, 3, 5, 7, 9, 11, 13, 15, 18, 21, 25, 29, 33, 40)
+LEVEL_N = 10
+MAX_H = 70
 KEY = ["match_id", "zone"]
 
 FEATURES = [
@@ -43,14 +53,10 @@ FEATURES = [
     "opp_winrate", "opp_gd", "avg_winrate", "avg_form10", "avg_gd10",
 ]
 
-# bootstrap_type="No" и random_strength=0 делают обучение детерминированным: на 3 фолдах
-# разброс RMSE между seed без них был ±3, что сравнимо с выигрышем от признаков.
 CB_PARAMS = dict(iterations=800, learning_rate=0.03, depth=4, loss_function="RMSE",
                  bootstrap_type="No", random_strength=0,
                  random_state=42, verbose=0, allow_writing_files=False)
 
-
-# --- История: уровни зон, соперник, кривая продаж -----------------------------------------
 
 def _played_info(train):
     """Сыгранные матчи по зонам; rel — итог / среднее LEVEL_N предыдущих матчей в этой зоне."""
@@ -69,10 +75,10 @@ def _match_fracs(daily, train):
     per = daily.pivot_table(index=KEY, columns="days_before", values="tickets",
                             aggfunc="sum", fill_value=0)
     per = per.reindex(columns=range(MAX_H + 2), fill_value=0)
-    after = per.iloc[:, ::-1].cumsum(axis=1).iloc[:, ::-1]  # продано с days_before >= k
+    after = per.iloc[:, ::-1].cumsum(axis=1).iloc[:, ::-1]
     tot = train.set_index(KEY)["tickets_total"].reindex(after.index)
     frac = after.loc[:, 1:MAX_H + 1].div(tot.where(tot > 0), axis=0).clip(0, 1)
-    frac.columns = range(MAX_H + 1)  # колонка k+1 (days_before > h) -> h
+    frac.columns = range(MAX_H + 1)
     return frac
 
 
@@ -105,14 +111,12 @@ def _history(played, fracs, rows):
         res.loc[idx, "opp_n"] = opp["size"].reindex(key).fillna(0).to_numpy()
 
         f = fracs[fracs.index.get_level_values("match_id").isin(order["match_id"])]
-        curve = f.groupby(level="zone").mean()  # зона × h
+        curve = f.groupby(level="zone").mean()
         h = r["days_left"].clip(upper=MAX_H).astype(int).to_numpy()
         z = r["zone"].to_numpy()
         res.loc[idx, "curve"] = curve.reindex(index=z).to_numpy()[np.arange(len(r)), h]
     return res
 
-
-# --- КХЛ ----------------------------------------------------------------------------------
 
 def _khl_long(khl):
     """Регулярный чемпионат в длинном виде: команда, дата, сезон, разница шайб, победа."""
@@ -151,8 +155,6 @@ def _khl_features(games, rows):
     return res
 
 
-# --- Строки для обучения и прогноза -------------------------------------------------------
-
 def _window(df):
     return (df["match_date"] - df["sales_open"]).dt.days
 
@@ -167,14 +169,13 @@ def _train_snapshots(train, daily):
         s = base.copy()
         s["days_left"] = s["window"] if h is None else np.minimum(h, s["window"])
         d = daily.merge(s[KEY + ["days_left"]], on=KEY)
-        before = d["days_before"] > d["days_left"]  # date < дата среза
+        before = d["days_before"] > d["days_left"]
         for name, span in [("sold_as_of", None), ("sold_last_7d", 7), ("sold_last_14d", 14)]:
             m = before if span is None else before & (d["days_before"] <= d["days_left"] + span)
             agg = d[m].groupby(KEY)["tickets"].sum()
             s[name] = agg.reindex(pd.MultiIndex.from_frame(s[KEY]), fill_value=0).to_numpy()
         s["snap_date"] = s["match_date"] - pd.to_timedelta(s["days_left"], unit="D")
         parts.append(s)
-    # Срезы с h >= окна совпадают со срезом «не открыты» — оставляем один
     return pd.concat(parts, ignore_index=True).drop_duplicates(KEY + ["days_left"]).reset_index(drop=True)
 
 
@@ -196,7 +197,6 @@ def _add_features(rows, played, fracs, games):
     rows["sold_lvl"] = rows["sold_as_of"] / rows["lvl_season"]
     rows["sold_cap"] = rows["sold_as_of"] / rows["capacity"]
     rows["lvl_cap"] = rows["lvl_season"] / rows["capacity"]
-    # Продажи всего матча относительно ожидаемых к этому дню (уровень × типичная доля)
     g = [rows["match_id"], rows["snap_date"]]
     msold = rows["sold_as_of"].groupby(g).transform("sum")
     mexp = (rows["lvl_season"] * c.fillna(0)).groupby(g).transform("sum")
@@ -225,11 +225,9 @@ def catboost_predict(train, val, as_of, features=FEATURES):
     fracs = _match_fracs(daily, train)
 
     X_tr = _add_features(_train_snapshots(train, daily), played, fracs, games)
-    X_tr = X_tr[X_tr["lvl_season"].notna()].reset_index(drop=True)  # первые матчи без истории
+    X_tr = X_tr[X_tr["lvl_season"].notna()].reset_index(drop=True)
     X_val = _add_features(_val_rows(val, as_of), played, fracs, games)
 
-    # Каждый матч весит одинаково: срез «не открыты» весит как все открытые срезы матча вместе,
-    # потому что на дату прогноза большинство матчей ещё не в продаже.
     closed = X_tr["frac_elapsed"] == 0
     n_open = (~closed).groupby([X_tr["match_id"], X_tr["zone"]]).transform("sum").clip(lower=1)
     w = np.where(closed, 1.0, 1.0 / n_open)

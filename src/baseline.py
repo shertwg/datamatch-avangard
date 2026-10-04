@@ -24,7 +24,7 @@ def zone_level(train, val, n, window):
     for season, idx in val.groupby("season").groups.items():
         if window == "last":
             ids = played["match_id"].tail(n)
-        else:  # весь текущий сезон, если в нём >= n матчей, иначе добираем из прошлых
+        else:
             cur = played[played["season"] == season]
             past = played[played["season"] != season]
             ids = pd.concat([past["match_id"].tail(max(n - len(cur), 0)), cur["match_id"]])

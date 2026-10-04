@@ -31,10 +31,15 @@
 ```
 data/        исходные данные (только чтение)
 docs/        задание: task.pdf, task_readme.md, LICENSE.md (только чтение)
-src/data.py        load_raw(), build_table(as_of) — единая сборка таблицы match_id × zone
-src/validation.py  схема валидации
+src/data.py        load_raw(), build_table(as_of), load_daily_sales(as_of), load_khl(as_of) — вся обрезка по дате
+src/validation.py  схема валидации: фолды «псевдо-сегодня», evaluate(predict_fn), predict_test(predict_fn)
+src/baseline.py    zone_mean и умный baseline
+src/model.py       CatBoost на срезах продаж (модель заморожена: RMSE 124,7, predictions.csv)
 notebooks/   01_eda.ipynb (ArinaPig), 02_baseline.ipynb (augustteske), 03_model.ipynb (sharbl4),
-             solution.ipynb — финальный, с нуля выдаёт predictions.csv
+             04_report.ipynb (augustteske), solution.ipynb — финальный, с нуля выдаёт predictions.csv
+tests/       test_leakage.py (утечка), test_model.py (срезы, число потоков, заморозка прогноза)
+reports/     графики, кэш оценок, план и черновик презентации, jury_qa.md, reproducibility.md
+submissions/ прогнозы моделей и интервалы
 ```
 - Ноутбуки нумеруются `NN_name.ipynb` в порядке запуска. Чужие ноутбуки без договорённости не правим.
 - Данные во всех ноутбуках берём только через `src.data.build_table(as_of=...)`: обрезка по as_of в одном месте.
