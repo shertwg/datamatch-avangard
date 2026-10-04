@@ -7,6 +7,8 @@
 3. Заморозка: predict_test(catboost_predict) совпадает с predictions.csv в репозитории до билета.
    Если тест упал, значит, изменились модель или данные, и цифры отчёта и презентации надо пересчитать.
 
+Для скорости проверка 1 берёт каждую SNAP_STEP-ю дату среза.
+
 Запуск из корня репо: python -m tests.test_model  (~30 с)
 """
 import sys
@@ -20,7 +22,7 @@ from src.data import build_table, load_daily_sales
 from src.validation import predict_test
 
 ROOT = Path(__file__).resolve().parent.parent
-SNAP_STEP = 10  # проверяем каждую 10-ю дату среза (~100 вызовов build_table)
+SNAP_STEP = 10
 
 
 def check_snapshots():

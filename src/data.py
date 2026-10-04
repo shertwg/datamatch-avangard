@@ -12,8 +12,8 @@ from pathlib import Path
 import numpy as np
 import pandas as pd
 
-DATA_DIR = Path(__file__).resolve().parent.parent / "data"  # работает из любой папки
-CUTOFF = pd.Timestamp("2025-12-15")  # данные собраны утром 15.12.2025, позже — утечка
+DATA_DIR = Path(__file__).resolve().parent.parent / "data"
+CUTOFF = pd.Timestamp("2025-12-15")
 
 FILES = {
     "matches": ("matches.csv", ["date", "sales_open"]),
@@ -64,7 +64,9 @@ def load_khl(as_of="2025-12-15", data_dir=DATA_DIR):
 def build_table(as_of="2025-12-15", data_dir=DATA_DIR):
     """Таблица match_id × zone (все 102 матча × 8 зон) с признаками на момент as_of.
 
-    Всё, что зависит от продаж, берётся строго с date < as_of.
+    Всё, что зависит от продаж, берётся строго с date < as_of. Таргет tickets_total есть только
+    у матчей, сыгранных до as_of: все их продажи были не позже дня матча, то есть раньше as_of,
+    поэтому итог равен sold_as_of и утечки нет. days_to_match < 0 — матч уже сыгран.
     """
     as_of = _check_as_of(as_of)
 
@@ -72,7 +74,6 @@ def build_table(as_of="2025-12-15", data_dir=DATA_DIR):
     m = raw["matches"].rename(columns={"date": "match_date"})
     sales = raw["sales"]
 
-    # Основа: зоны по матчам + признаки матча
     df = raw["zones"].merge(m, on="match_id", how="left", validate="many_to_one")
     df["hour"] = df["time"].str[:2].astype(int)
     df["month"] = df["match_date"].dt.month
@@ -80,7 +81,6 @@ def build_table(as_of="2025-12-15", data_dir=DATA_DIR):
     df["is_test"] = (df["part"] == "test").astype(int)
     df["capacity"] = df["seats"] - df["season_tickets"]
 
-    # Продажи до as_of: всего, за последние 7 и 14 дней (нет строк = 0)
     key = ["match_id", "zone"]
     for s in [
         _sales_sum(sales, None, as_of, "sold_as_of"),
@@ -90,13 +90,10 @@ def build_table(as_of="2025-12-15", data_dir=DATA_DIR):
         df = df.merge(s, left_on=key, right_index=True, how="left")
         df[s.name] = df[s.name].fillna(0).astype(int)
 
-    # Состояние продаж на as_of
     df["sales_started"] = (df["sales_open"] < as_of).astype(int)
-    df["days_to_match"] = (df["match_date"] - as_of).dt.days  # < 0 — матч уже сыгран
+    df["days_to_match"] = (df["match_date"] - as_of).dt.days
     df["days_since_open"] = (as_of - df["sales_open"]).dt.days.clip(lower=0)
 
-    # Таргет: только для матчей, сыгранных до as_of. Все их продажи были не позже
-    # дня матча, т.е. < as_of, поэтому итог равен sold_as_of и утечки нет.
     played = df["match_date"] < as_of
     df["tickets_total"] = np.where(played, df["sold_as_of"], np.nan)
 
@@ -129,7 +126,6 @@ if __name__ == "__main__":
     na = df.isna().sum()
     print(na[na > 0].to_string() if na.any() else "нет")
 
-    # Симуляция прошлой даты: матчи после as_of не должны иметь таргета
     past = build_table(as_of="2025-11-01")
     late = past["match_date"] >= pd.Timestamp("2025-11-01")
     assert past.loc[late, "tickets_total"].isna().all()
@@ -138,7 +134,6 @@ if __name__ == "__main__":
           f"матчей с начавшимися продажами без итога: "
           f"{past.loc[(past['sales_started'] == 1) & late, 'match_id'].nunique()}")
 
-    # Дневные продажи: обрезка по as_of и согласованность с build_table
     daily = load_daily_sales("2025-11-01")
     assert (daily["date"] < pd.Timestamp("2025-11-01")).all()
     agg = daily.groupby(["match_id", "zone"])["tickets"].sum()
@@ -151,7 +146,6 @@ if __name__ == "__main__":
         pass
     print(f"load_daily_sales(2025-11-01): {len(daily)} строк, сходится с sold_as_of")
 
-    # Матчи КХЛ: обрезка по as_of
     khl_all = load_raw()["khl"]
     khl = load_khl("2025-11-01")
     assert (khl["date"] < pd.Timestamp("2025-11-01")).all()
