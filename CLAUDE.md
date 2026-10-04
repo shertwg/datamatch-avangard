@@ -52,7 +52,8 @@ notebooks/   01_eda.ipynb (ArinaPig), 02_baseline.ipynb (augustteske), 03_model.
 
 ## Git
 - У каждого своя ветка: `baseline` — augustteske, `model` — sharbl4, `eda` — ArinaPig, `docs` — Karp-AI. Работаем и пушим только в свою ветку.
-- В `main` напрямую не коммитим и не пушим. Изменения попадают в `main` только через Pull Request.
-- Свежий `main` подтягиваем в свою ветку: `git pull origin main`.
-- Claude никогда не коммитит и не пушит в `main`. Коммит или пуш в свою ветку делает только по явной просьбе.
-- Claude мержит PR в `main` только по явной просьбе.
+- Поток изменений: личная ветка → Pull Request в `test` → после проверки на `test` Pull Request `test` → `main`.
+- В `test` и `main` напрямую не коммитим и не пушим, только через Pull Request.
+- Свежий `test` подтягиваем в свою ветку: `git pull origin test`.
+- Claude никогда не коммитит и не пушит в `test` и `main`. Коммит или пуш в свою ветку делает только по явной просьбе.
+- Claude не мержит Pull Request'ы сам (ни в `test`, ни в `main`), мержат участники команды.
