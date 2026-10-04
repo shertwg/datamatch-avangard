@@ -4,7 +4,8 @@
 - seats и season_tickets из zones.csv считаем известными заранее для любого матча
   (организаторы дают их и для test), поэтому они не обрезаются по as_of.
 - Отсутствующая строка в sales_daily.csv = 0 продаж в этот день.
-- Признаки из khl_games и season_tickets_daily здесь не строятся (делаются отдельно).
+- Признаки из khl_games и season_tickets_daily здесь не строятся (делаются отдельно);
+  khl_games с обрезкой по as_of отдаёт load_khl.
 """
 from pathlib import Path
 
@@ -51,6 +52,13 @@ def load_daily_sales(as_of="2025-12-15", data_dir=DATA_DIR):
     as_of = _check_as_of(as_of)
     sales = load_raw(data_dir)["sales"]
     return sales[sales["date"] < as_of].reset_index(drop=True)
+
+
+def load_khl(as_of="2025-12-15", data_dir=DATA_DIR):
+    """Строки khl_games.csv с date < as_of (season, date, stage, home, away, home_goals, away_goals)."""
+    as_of = _check_as_of(as_of)
+    khl = load_raw(data_dir)["khl"]
+    return khl[khl["date"] < as_of].reset_index(drop=True)
 
 
 def build_table(as_of="2025-12-15", data_dir=DATA_DIR):
@@ -142,6 +150,20 @@ if __name__ == "__main__":
     except ValueError:
         pass
     print(f"load_daily_sales(2025-11-01): {len(daily)} строк, сходится с sold_as_of")
+
+    # Матчи КХЛ: обрезка по as_of
+    khl_all = load_raw()["khl"]
+    khl = load_khl("2025-11-01")
+    assert (khl["date"] < pd.Timestamp("2025-11-01")).all()
+    assert len(khl) == (khl_all["date"] < pd.Timestamp("2025-11-01")).sum()
+    assert len(load_khl()) <= len(khl_all)
+    try:
+        load_khl("2025-12-16")
+        raise AssertionError("load_khl пропустила дату после отсечки")
+    except ValueError:
+        pass
+    print(f"load_khl(2025-11-01): {len(khl)} из {len(khl_all)} игр, "
+          f"последняя {khl['date'].max().date()}; load_khl(): {len(load_khl())} игр")
 
     print("\nКолонки:", list(df.columns))
     print("Все проверки пройдены.")
