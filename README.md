@@ -69,6 +69,10 @@ reports/
   cache/                кэш оценок моделей на фолдах
   presentation_outline.md, jury_qa.md, reproducibility.md
 submissions/   прогнозы на test: baseline.csv, smart_baseline.csv, catboost.csv
+  prediction_intervals.csv           интервалы 10–90% по строкам (match_id, zone, pred, low, high) —
+                                     ориентир; на валидации покрытие 69% при номинале 80%
+  prediction_intervals_by_match.csv  интервалы 10–90% на матч (сумма зональных границ),
+                                     на валидации покрытие 38 из 43 матчей (88%); строит 04_report.ipynb
 tests/         test_leakage.py
 predictions.csv
 ```
