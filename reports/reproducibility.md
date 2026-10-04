@@ -5,16 +5,17 @@
 `notebooks/solution.ipynb`, запущенный с нуля в новом venv, выдаёт `predictions.csv`, побайтово
 совпадающий с файлом в репозитории: 136 строк, сумма прогноза 85 631.
 
-## Прогон 04.10.2026
+## Прогон 04.10.2026 (чистый `git clone` ветки `test`)
 
 | | |
 |---|---|
 | Дата | 04.10.2026 |
-| Коммит | `f2b69f8` (Merge pull request #10 from shertwg/eda) |
+| Коммит | `b94a845` (Merge pull request #23 from shertwg/model) |
 | ОС | Windows 11 |
 | Python | 3.12.10, новый venv |
 | Установка | `pip install -r requirements.txt` — без ошибок, ~5 мин |
-| Запуск | `solution.ipynb` через nbconvert в активированном venv, ~30 с |
+| Проверки | `src.data`, `tests.test_leakage`, `tests.test_model` — все прошли |
+| Запуск | `solution.ipynb` через nbconvert в активированном venv, ~35 с |
 | Результат | `predictions.csv` совпал побайтово с файлом в репозитории |
 | sha256 | `a3c1f128f30005929748e33f67e0b505869de86add7254986dbf4052cd55a3da` |
 
@@ -24,6 +25,9 @@
 py -3.12 -m venv .venv
 .venv\Scripts\Activate.ps1
 pip install -r requirements.txt
+python -m src.data
+python -m tests.test_leakage
+python -m tests.test_model
 jupyter nbconvert --to notebook --execute notebooks/solution.ipynb
 Get-FileHash predictions.csv -Algorithm SHA256
 ```
@@ -37,6 +41,7 @@ Get-FileHash predictions.csv -Algorithm SHA256
 - Пути относительные, данные читаются только из `data/` через `src/data.py`.
 - Ключевые цифры отчёта проверяет assert в `notebooks/04_report.ipynb → Выводы для слайдов`.
 - Утечку проверяет `python -m tests.test_leakage` (см. ответы 1–2 в `reports/jury_qa.md`).
+- `python -m tests.test_model` падает, если прогноз модели разойдётся с `predictions.csv` хотя бы на билет.
 
 ## Примечания
 
@@ -45,8 +50,3 @@ Get-FileHash predictions.csv -Algorithm SHA256
   Windows-файла с CRLF. Файл из git с LF (`git show HEAD:predictions.csv`) имеет sha256
   `8fe210746609ac83b97ccb5130ca54343d58caeb7f190b17b19b66015df9e3b1`. Содержимое одинаковое.
   На Linux/macOS сверять нужно с этим LF-хэшем.
-- **Что изменилось после `f2b69f8`.** `src/model.py`: КХЛ теперь загружается через `load_khl(as_of)` —
-  тот же фильтр `date < as_of`, другой путь в коде. `requirements.txt`: добавлены `ipykernel==7.4.0` и
-  `nbconvert==7.17.1`, раньше они ставились зависимостями `jupyter`. Повторный прогон
-  `predict_test(catboost_predict)` на текущем коде даёт тот же `predictions.csv` до билета.
-  Полный прогон в чистом venv на текущем HEAD не делали.
